@@ -1,0 +1,101 @@
+State,Politics,Reading,Math,ScoreType,TotalSpending,TotalInstructionSpending
+Alabama,Red ,250,262,Raw,12765,7141
+Alaska,Red ,246,264,Raw,20340,10534
+Arizona,Red ,254,270,Raw,11297,5956
+Arkansas,Red ,255,266,Raw,12738,6934
+California,Blue,254,269,Raw,18798,10928
+Colorado,Blue,265,278,Raw,14858,7944
+Connecticut,Blue,263,277,Raw,25081,14764
+Delaware,Blue,249,263,Raw,21340,11351
+Florida,Red ,253,267,Raw,11862,7083
+Georgia,Red ,259,269,Raw,14414,8570
+Hawaii,Blue,257,270,Raw,20056,11599
+Idaho,Red ,261,278,Raw,10247,5992
+Illinois,Blue,262,277,Raw,20253,11894
+Indiana,Red ,262,278,Raw,13121,7224
+Iowa,Red ,261,275,Raw,13792,8019
+Kansas,Red ,255,274,Raw,14847,8902
+Kentucky,Red ,258,271,Raw,14633,8536
+Louisiana,Red ,257,267,Raw,14645,7943
+Maine,Blue,255,273,Raw,18797,10455
+Maryland,Blue,258,268,Raw,18887,11912
+Massachusetts,Blue,268,283,Raw,22947,13985
+Michigan,Red ,255,270,Raw,17535,9800
+Minnesota,Blue,260,282,Raw,16117,10179
+Mississippi,Red ,253,269,Raw,12093,6890
+Missouri,Red ,255,270,Raw,13472,7458
+Montana,Red ,261,279,Raw,13771,8025
+Nebraska,Red ,256,280,Raw,15200,9309
+Nevada,Red ,253,265,Raw,11673,6716
+New Hampshire,Blue,264,280,Raw,21731,13271
+New Jersey,Blue,266,282,Raw,26280,15587
+New Mexico,Blue,245,256,Raw,15693,8975
+New York,Blue,257,271,Raw,30012,20183
+North Carolina,Red ,255,276,Raw,12492,7764
+North Dakota,Red ,257,280,Raw,16114,9595
+Ohio,Red ,260,279,Raw,16476,9564
+Oklahoma,Red ,249,264,Raw,11155,5930
+Oregon,Blue,255,268,Raw,17161,9516
+Pennsylvania,Red ,259,276,Raw,20056,12141
+Rhode Island,Blue,258,270,Raw,21182,11899
+South Carolina,Red ,254,268,Raw,13957,7636
+South Dakota,Red ,260,281,Raw,12005,6922
+Tennessee,Red ,259,276,Raw,12197,7119
+Texas,Red ,252,269,Raw,12304,7144
+Utah,Red ,261,282,Raw,10333,6469
+Vermont,Blue,257,276,Raw,26345,14752
+Virginia,Blue,256,275,Raw,16098,9447
+Washington,Blue,259,274,Raw,18181,10555
+West Virginia,Red ,247,261,Raw,14575,8288
+Wisconsin,Red ,260,283,Raw,14882,8411
+Wyoming,Red ,260,278,Raw,19324,11275
+Alabama,Red ,251.7,263.6,Adjusted,12765,7141
+Alaska,Red ,246.5,262.7,Adjusted,20340,10534
+Arizona,Red ,252.4,269,Adjusted,11297,5956
+Arkansas,Red ,258.5,270,Adjusted,12738,6934
+California,Blue,255.1,270.5,Adjusted,18798,10928
+Colorado,Blue,259.7,271.9,Adjusted,14858,7944
+Connecticut,Blue,259.2,272.9,Adjusted,25081,14764
+Delaware,Blue,247.9,261.5,Adjusted,21340,11351
+Florida,Red ,256,272,Adjusted,11862,7083
+Georgia,Red ,263.4,274.3,Adjusted,14414,8570
+Hawaii,Blue,249.4,261.6,Adjusted,20056,11599
+Idaho,Red ,255.6,272.1,Adjusted,10247,5992
+Illinois,Blue,261.8,277.4,Adjusted,20253,11894
+Indiana,Red ,261.2,277.1,Adjusted,13121,7224
+Iowa,Red ,255.8,267.7,Adjusted,13792,8019
+Kansas,Red ,252.3,270.5,Adjusted,14847,8902
+Kentucky,Red ,258.3,270,Adjusted,14633,8536
+Louisiana,Red ,265.1,278.2,Adjusted,14645,7943
+Maine,Blue,250.8,267.5,Adjusted,18797,10455
+Maryland,Blue,258.3,267.9,Adjusted,18887,11912
+Massachusetts,Blue,266,280,Adjusted,22947,13985
+Michigan,Red ,252.3,265.8,Adjusted,17535,9800
+Minnesota,Blue,253.6,273.7,Adjusted,16117,10179
+Mississippi,Red ,263.2,281.3,Adjusted,12093,6890
+Missouri,Red ,252.5,266,Adjusted,13472,7458
+Montana,Red ,256.2,273.2,Adjusted,13771,8025
+Nebraska,Red ,252.1,274.3,Adjusted,15200,9309
+Nevada,Red ,256.5,269.5,Adjusted,11673,6716
+New Hampshire,Blue,256.3,269.6,Adjusted,21731,13271
+New Jersey,Blue,259.4,274.3,Adjusted,26280,15587
+New Mexico,Blue,254.8,268.1,Adjusted,15693,8975
+New York,Blue,257.2,272.2,Adjusted,30012,20183
+North Carolina,Red ,253.5,274.3,Adjusted,12492,7764
+North Dakota,Red ,249.8,270.8,Adjusted,16114,9595
+Ohio,Red ,257.7,275.7,Adjusted,16476,9564
+Oklahoma,Red ,251.3,267.7,Adjusted,11155,5930
+Oregon,Blue,249,260.3,Adjusted,17161,9516
+Pennsylvania,Red ,257.2,273.3,Adjusted,20056,12141
+Rhode Island,Blue,256.5,268.3,Adjusted,21182,11899
+South Carolina,Red ,258,272.7,Adjusted,13957,7636
+South Dakota,Red ,255.1,274.1,Adjusted,12005,6922
+Tennessee,Red ,253.1,269.5,Adjusted,12197,7119
+Texas,Red ,258.8,276.3,Adjusted,12304,7144
+Utah,Red ,255.7,273.8,Adjusted,10333,6469
+Vermont,Blue,252.9,268.7,Adjusted,26345,14752
+Virginia,Blue,252.4,270.3,Adjusted,16098,9447
+Washington,Blue,256,269.8,Adjusted,18181,10555
+West Virginia,Red ,245.8,257.3,Adjusted,14575,8288
+Wisconsin,Red ,255.1,275.5,Adjusted,14882,8411
+Wyoming,Red ,251.2,267.4,Adjusted,19324,11275
