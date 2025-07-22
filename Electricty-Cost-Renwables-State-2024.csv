@@ -1,0 +1,2449 @@
+State,Politics,Consumer,units,Month,Cost,PercentWind,PercentSolar
+Alabama,Red,all sectors,cents per kilowatthour,Jan,11.84,0,0.004940789
+Alabama,Red,all sectors,cents per kilowatthour,Feb,11.58,0,0.008311955
+Alabama,Red,all sectors,cents per kilowatthour,Mar,11.76,0,0.010209343
+Alabama,Red,all sectors,cents per kilowatthour,Apr,11.79,0,0.011649719
+Alabama,Red,all sectors,cents per kilowatthour,May,11.32,0,0.011383692
+Alabama,Red,all sectors,cents per kilowatthour,Jun,12.17,0,0.011377489
+Alabama,Red,all sectors,cents per kilowatthour,Jul,12.1,0,0.009411765
+Alabama,Red,all sectors,cents per kilowatthour,Aug,12.01,0,0.010781869
+Alabama,Red,all sectors,cents per kilowatthour,Sep,12.04,0,0.008599722
+Alabama,Red,all sectors,cents per kilowatthour,Oct,11.77,0,0.01118464
+Alabama,Red,all sectors,cents per kilowatthour,Nov,11.67,0,0.006122265
+Alabama,Red,all sectors,cents per kilowatthour,Dec,11.87,0,0.005486158
+Alabama,Red,commercial,cents per kilowatthour,Jan,13.64,0,0.004940789
+Alabama,Red,commercial,cents per kilowatthour,Feb,13.58,0,0.008311955
+Alabama,Red,commercial,cents per kilowatthour,Mar,13.88,0,0.010209343
+Alabama,Red,commercial,cents per kilowatthour,Apr,13.72,0,0.011649719
+Alabama,Red,commercial,cents per kilowatthour,May,12.98,0,0.011383692
+Alabama,Red,commercial,cents per kilowatthour,Jun,13.65,0,0.011377489
+Alabama,Red,commercial,cents per kilowatthour,Jul,13.43,0,0.009411765
+Alabama,Red,commercial,cents per kilowatthour,Aug,13.38,0,0.010781869
+Alabama,Red,commercial,cents per kilowatthour,Sep,13.51,0,0.008599722
+Alabama,Red,commercial,cents per kilowatthour,Oct,13.68,0,0.01118464
+Alabama,Red,commercial,cents per kilowatthour,Nov,13.72,0,0.006122265
+Alabama,Red,commercial,cents per kilowatthour,Dec,13.83,0,0.005486158
+Alabama,Red,industrial,cents per kilowatthour,Jan,7.12,0,0.004940789
+Alabama,Red,industrial,cents per kilowatthour,Feb,6.72,0,0.008311955
+Alabama,Red,industrial,cents per kilowatthour,Mar,7.16,0,0.010209343
+Alabama,Red,industrial,cents per kilowatthour,Apr,7.43,0,0.011649719
+Alabama,Red,industrial,cents per kilowatthour,May,7.04,0,0.011383692
+Alabama,Red,industrial,cents per kilowatthour,Jun,7.6,0,0.011377489
+Alabama,Red,industrial,cents per kilowatthour,Jul,7.35,0,0.009411765
+Alabama,Red,industrial,cents per kilowatthour,Aug,7.28,0,0.010781869
+Alabama,Red,industrial,cents per kilowatthour,Sep,7.16,0,0.008599722
+Alabama,Red,industrial,cents per kilowatthour,Oct,7.36,0,0.01118464
+Alabama,Red,industrial,cents per kilowatthour,Nov,7.21,0,0.006122265
+Alabama,Red,industrial,cents per kilowatthour,Dec,7.3,0,0.005486158
+Alabama,Red,residential,cents per kilowatthour,Jan,14.44,0,0.004940789
+Alabama,Red,residential,cents per kilowatthour,Feb,15.04,0,0.008311955
+Alabama,Red,residential,cents per kilowatthour,Mar,15.91,0,0.010209343
+Alabama,Red,residential,cents per kilowatthour,Apr,15.89,0,0.011649719
+Alabama,Red,residential,cents per kilowatthour,May,14.76,0,0.011383692
+Alabama,Red,residential,cents per kilowatthour,Jun,15.06,0,0.011377489
+Alabama,Red,residential,cents per kilowatthour,Jul,14.97,0,0.009411765
+Alabama,Red,residential,cents per kilowatthour,Aug,14.9,0,0.010781869
+Alabama,Red,residential,cents per kilowatthour,Sep,15.39,0,0.008599722
+Alabama,Red,residential,cents per kilowatthour,Oct,15.58,0,0.01118464
+Alabama,Red,residential,cents per kilowatthour,Nov,15.51,0,0.006122265
+Alabama,Red,residential,cents per kilowatthour,Dec,14.91,0,0.005486158
+Alaska,Red,all sectors,cents per kilowatthour,Jan,21.8,0.019572954,0
+Alaska,Red,all sectors,cents per kilowatthour,Feb,20.93,0.022633745,0
+Alaska,Red,all sectors,cents per kilowatthour,Mar,22.5,0.026748971,0
+Alaska,Red,all sectors,cents per kilowatthour,Apr,22.15,0.029279279,0
+Alaska,Red,all sectors,cents per kilowatthour,May,22.01,0.020491803,0
+Alaska,Red,all sectors,cents per kilowatthour,Jun,22.53,0.019646365,0
+Alaska,Red,all sectors,cents per kilowatthour,Jul,22.06,0,0
+Alaska,Red,all sectors,cents per kilowatthour,Aug,25.07,0,0
+Alaska,Red,all sectors,cents per kilowatthour,Sep,22.04,0,0
+Alaska,Red,all sectors,cents per kilowatthour,Oct,22.41,0.025641026,0
+Alaska,Red,all sectors,cents per kilowatthour,Nov,22.28,0.024896266,0
+Alaska,Red,all sectors,cents per kilowatthour,Dec,19.62,0.022770398,0
+Alaska,Red,commercial,cents per kilowatthour,Jan,21.27,0.019572954,0
+Alaska,Red,commercial,cents per kilowatthour,Feb,21.11,0.022633745,0
+Alaska,Red,commercial,cents per kilowatthour,Mar,21.25,0.026748971,0
+Alaska,Red,commercial,cents per kilowatthour,Apr,21.54,0.029279279,0
+Alaska,Red,commercial,cents per kilowatthour,May,21.06,0.020491803,0
+Alaska,Red,commercial,cents per kilowatthour,Jun,21.77,0.019646365,0
+Alaska,Red,commercial,cents per kilowatthour,Jul,21.15,0,0
+Alaska,Red,commercial,cents per kilowatthour,Aug,25.39,0,0
+Alaska,Red,commercial,cents per kilowatthour,Sep,21.73,0,0
+Alaska,Red,commercial,cents per kilowatthour,Oct,21.78,0.025641026,0
+Alaska,Red,commercial,cents per kilowatthour,Nov,21.16,0.024896266,0
+Alaska,Red,commercial,cents per kilowatthour,Dec,18.43,0.022770398,0
+Alaska,Red,industrial,cents per kilowatthour,Jan,19.11,0.019572954,0
+Alaska,Red,industrial,cents per kilowatthour,Feb,16.94,0.022633745,0
+Alaska,Red,industrial,cents per kilowatthour,Mar,21.37,0.026748971,0
+Alaska,Red,industrial,cents per kilowatthour,Apr,19.42,0.029279279,0
+Alaska,Red,industrial,cents per kilowatthour,May,19.75,0.020491803,0
+Alaska,Red,industrial,cents per kilowatthour,Jun,20.41,0.019646365,0
+Alaska,Red,industrial,cents per kilowatthour,Jul,19.15,0,0
+Alaska,Red,industrial,cents per kilowatthour,Aug,20.47,0,0
+Alaska,Red,industrial,cents per kilowatthour,Sep,17.99,0,0
+Alaska,Red,industrial,cents per kilowatthour,Oct,19.33,0.025641026,0
+Alaska,Red,industrial,cents per kilowatthour,Nov,20.43,0.024896266,0
+Alaska,Red,industrial,cents per kilowatthour,Dec,17.15,0.022770398,0
+Alaska,Red,residential,cents per kilowatthour,Jan,23.78,0.019572954,0
+Alaska,Red,residential,cents per kilowatthour,Feb,22.89,0.022633745,0
+Alaska,Red,residential,cents per kilowatthour,Mar,24.71,0.026748971,0
+Alaska,Red,residential,cents per kilowatthour,Apr,24.89,0.029279279,0
+Alaska,Red,residential,cents per kilowatthour,May,25.02,0.020491803,0
+Alaska,Red,residential,cents per kilowatthour,Jun,25.4,0.019646365,0
+Alaska,Red,residential,cents per kilowatthour,Jul,25.65,0,0
+Alaska,Red,residential,cents per kilowatthour,Aug,28.19,0,0
+Alaska,Red,residential,cents per kilowatthour,Sep,25.7,0,0
+Alaska,Red,residential,cents per kilowatthour,Oct,25.52,0.025641026,0
+Alaska,Red,residential,cents per kilowatthour,Nov,24.7,0.024896266,0
+Alaska,Red,residential,cents per kilowatthour,Dec,22.38,0.022770398,0
+Arizona,Red,all sectors,cents per kilowatthour,Jan,11.95,0.013835511,0.053914571
+Arizona,Red,all sectors,cents per kilowatthour,Feb,12.04,0.024381095,0.071892973
+Arizona,Red,all sectors,cents per kilowatthour,Mar,12.06,0.027847782,0.09375
+Arizona,Red,all sectors,cents per kilowatthour,Apr,12.42,0.025341648,0.121533767
+Arizona,Red,all sectors,cents per kilowatthour,May,13.14,0.03125713,0.124115902
+Arizona,Red,all sectors,cents per kilowatthour,Jun,13.42,0.02470957,0.10870367
+Arizona,Red,all sectors,cents per kilowatthour,Jul,13.56,0.017245471,0.096748675
+Arizona,Red,all sectors,cents per kilowatthour,Aug,13.42,0.018984796,0.092912879
+Arizona,Red,all sectors,cents per kilowatthour,Sep,13.06,0.016960029,0.096993033
+Arizona,Red,all sectors,cents per kilowatthour,Oct,12.82,0.019321253,0.093502853
+Arizona,Red,all sectors,cents per kilowatthour,Nov,12.23,0.029317125,0.084971994
+Arizona,Red,all sectors,cents per kilowatthour,Dec,12.34,0.019719498,0.068965517
+Arizona,Red,commercial,cents per kilowatthour,Jan,11.5,0.013835511,0.053914571
+Arizona,Red,commercial,cents per kilowatthour,Feb,11.54,0.024381095,0.071892973
+Arizona,Red,commercial,cents per kilowatthour,Mar,11.8,0.027847782,0.09375
+Arizona,Red,commercial,cents per kilowatthour,Apr,12.2,0.025341648,0.121533767
+Arizona,Red,commercial,cents per kilowatthour,May,12.86,0.03125713,0.124115902
+Arizona,Red,commercial,cents per kilowatthour,Jun,12.97,0.02470957,0.10870367
+Arizona,Red,commercial,cents per kilowatthour,Jul,13.12,0.017245471,0.096748675
+Arizona,Red,commercial,cents per kilowatthour,Aug,12.77,0.018984796,0.092912879
+Arizona,Red,commercial,cents per kilowatthour,Sep,12.44,0.016960029,0.096993033
+Arizona,Red,commercial,cents per kilowatthour,Oct,12.35,0.019321253,0.093502853
+Arizona,Red,commercial,cents per kilowatthour,Nov,11.89,0.029317125,0.084971994
+Arizona,Red,commercial,cents per kilowatthour,Dec,11.92,0.019719498,0.068965517
+Arizona,Red,industrial,cents per kilowatthour,Jan,7.78,0.013835511,0.053914571
+Arizona,Red,industrial,cents per kilowatthour,Feb,8.31,0.024381095,0.071892973
+Arizona,Red,industrial,cents per kilowatthour,Mar,7.28,0.027847782,0.09375
+Arizona,Red,industrial,cents per kilowatthour,Apr,7.26,0.025341648,0.121533767
+Arizona,Red,industrial,cents per kilowatthour,May,7.88,0.03125713,0.124115902
+Arizona,Red,industrial,cents per kilowatthour,Jun,8.23,0.02470957,0.10870367
+Arizona,Red,industrial,cents per kilowatthour,Jul,9.15,0.017245471,0.096748675
+Arizona,Red,industrial,cents per kilowatthour,Aug,9.37,0.018984796,0.092912879
+Arizona,Red,industrial,cents per kilowatthour,Sep,8.08,0.016960029,0.096993033
+Arizona,Red,industrial,cents per kilowatthour,Oct,7.75,0.019321253,0.093502853
+Arizona,Red,industrial,cents per kilowatthour,Nov,7.76,0.029317125,0.084971994
+Arizona,Red,industrial,cents per kilowatthour,Dec,7.37,0.019719498,0.068965517
+Arizona,Red,residential,cents per kilowatthour,Jan,14.1,0.013835511,0.053914571
+Arizona,Red,residential,cents per kilowatthour,Feb,14.46,0.024381095,0.071892973
+Arizona,Red,residential,cents per kilowatthour,Mar,14.94,0.027847782,0.09375
+Arizona,Red,residential,cents per kilowatthour,Apr,15.24,0.025341648,0.121533767
+Arizona,Red,residential,cents per kilowatthour,May,15.49,0.03125713,0.124115902
+Arizona,Red,residential,cents per kilowatthour,Jun,15.14,0.02470957,0.10870367
+Arizona,Red,residential,cents per kilowatthour,Jul,14.85,0.017245471,0.096748675
+Arizona,Red,residential,cents per kilowatthour,Aug,14.85,0.018984796,0.092912879
+Arizona,Red,residential,cents per kilowatthour,Sep,14.95,0.016960029,0.096993033
+Arizona,Red,residential,cents per kilowatthour,Oct,15.02,0.019321253,0.093502853
+Arizona,Red,residential,cents per kilowatthour,Nov,15.18,0.029317125,0.084971994
+Arizona,Red,residential,cents per kilowatthour,Dec,15.2,0.019719498,0.068965517
+Arkansas,Red,all sectors,cents per kilowatthour,Jan,9.64,0,0.011131725
+Arkansas,Red,all sectors,cents per kilowatthour,Feb,9.55,0,0.027494908
+Arkansas,Red,all sectors,cents per kilowatthour,Mar,9.47,0,0.032302093
+Arkansas,Red,all sectors,cents per kilowatthour,Apr,9.07,0,0.043381535
+Arkansas,Red,all sectors,cents per kilowatthour,May,9,0,0.044429409
+Arkansas,Red,all sectors,cents per kilowatthour,Jun,9.59,0,0.039588949
+Arkansas,Red,all sectors,cents per kilowatthour,Jul,9.94,0,0.036938488
+Arkansas,Red,all sectors,cents per kilowatthour,Aug,9.91,0,0.038539872
+Arkansas,Red,all sectors,cents per kilowatthour,Sep,9.87,0,0.035344302
+Arkansas,Red,all sectors,cents per kilowatthour,Oct,9.41,0,0.063939821
+Arkansas,Red,all sectors,cents per kilowatthour,Nov,9.39,0,0.046126849
+Arkansas,Red,all sectors,cents per kilowatthour,Dec,9.22,0,0.037383178
+Arkansas,Red,commercial,cents per kilowatthour,Jan,10.27,0,0.011131725
+Arkansas,Red,commercial,cents per kilowatthour,Feb,10.54,0,0.027494908
+Arkansas,Red,commercial,cents per kilowatthour,Mar,10.7,0,0.032302093
+Arkansas,Red,commercial,cents per kilowatthour,Apr,10.22,0,0.043381535
+Arkansas,Red,commercial,cents per kilowatthour,May,10.06,0,0.044429409
+Arkansas,Red,commercial,cents per kilowatthour,Jun,10.03,0,0.039588949
+Arkansas,Red,commercial,cents per kilowatthour,Jul,10.11,0,0.036938488
+Arkansas,Red,commercial,cents per kilowatthour,Aug,10.09,0,0.038539872
+Arkansas,Red,commercial,cents per kilowatthour,Sep,10.13,0,0.035344302
+Arkansas,Red,commercial,cents per kilowatthour,Oct,10.42,0,0.063939821
+Arkansas,Red,commercial,cents per kilowatthour,Nov,10.12,0,0.046126849
+Arkansas,Red,commercial,cents per kilowatthour,Dec,10.11,0,0.037383178
+Arkansas,Red,industrial,cents per kilowatthour,Jan,7.09,0,0.011131725
+Arkansas,Red,industrial,cents per kilowatthour,Feb,6.34,0,0.027494908
+Arkansas,Red,industrial,cents per kilowatthour,Mar,6.22,0,0.032302093
+Arkansas,Red,industrial,cents per kilowatthour,Apr,5.86,0,0.043381535
+Arkansas,Red,industrial,cents per kilowatthour,May,5.92,0,0.044429409
+Arkansas,Red,industrial,cents per kilowatthour,Jun,6.52,0,0.039588949
+Arkansas,Red,industrial,cents per kilowatthour,Jul,6.94,0,0.036938488
+Arkansas,Red,industrial,cents per kilowatthour,Aug,6.96,0,0.038539872
+Arkansas,Red,industrial,cents per kilowatthour,Sep,6.77,0,0.035344302
+Arkansas,Red,industrial,cents per kilowatthour,Oct,6.67,0,0.063939821
+Arkansas,Red,industrial,cents per kilowatthour,Nov,6.72,0,0.046126849
+Arkansas,Red,industrial,cents per kilowatthour,Dec,6.39,0,0.037383178
+Arkansas,Red,residential,cents per kilowatthour,Jan,11.26,0,0.011131725
+Arkansas,Red,residential,cents per kilowatthour,Feb,11.92,0,0.027494908
+Arkansas,Red,residential,cents per kilowatthour,Mar,12.9,0,0.032302093
+Arkansas,Red,residential,cents per kilowatthour,Apr,12.62,0,0.043381535
+Arkansas,Red,residential,cents per kilowatthour,May,12.29,0,0.044429409
+Arkansas,Red,residential,cents per kilowatthour,Jun,12.38,0,0.039588949
+Arkansas,Red,residential,cents per kilowatthour,Jul,12.43,0,0.036938488
+Arkansas,Red,residential,cents per kilowatthour,Aug,12.5,0,0.038539872
+Arkansas,Red,residential,cents per kilowatthour,Sep,12.8,0,0.035344302
+Arkansas,Red,residential,cents per kilowatthour,Oct,11.9,0,0.063939821
+Arkansas,Red,residential,cents per kilowatthour,Nov,12.62,0,0.046126849
+Arkansas,Red,residential,cents per kilowatthour,Dec,11.74,0,0.037383178
+California,Blue,all sectors,cents per kilowatthour,Jan,24.77,0.062746048,0.131366967
+California,Blue,all sectors,cents per kilowatthour,Feb,25.55,0.082775577,0.172790602
+California,Blue,all sectors,cents per kilowatthour,Mar,25.96,0.094948097,0.227750865
+California,Blue,all sectors,cents per kilowatthour,Apr,25.7,0.100897971,0.298027293
+California,Blue,all sectors,cents per kilowatthour,May,26.43,0.09834884,0.333049404
+California,Blue,all sectors,cents per kilowatthour,Jun,27.73,0.083023615,0.313682886
+California,Blue,all sectors,cents per kilowatthour,Jul,30.44,0.05133345,0.238582883
+California,Blue,all sectors,cents per kilowatthour,Aug,29.14,0.05759311,0.251384222
+California,Blue,all sectors,cents per kilowatthour,Sep,29.27,0.055628993,0.248898436
+California,Blue,all sectors,cents per kilowatthour,Oct,27.93,0.067768497,0.226763817
+California,Blue,all sectors,cents per kilowatthour,Nov,23.05,0.083434705,0.201359571
+California,Blue,all sectors,cents per kilowatthour,Dec,25.16,0.075504283,0.180022106
+California,Blue,commercial,cents per kilowatthour,Jan,23.03,0.062746048,0.131366967
+California,Blue,commercial,cents per kilowatthour,Feb,23.65,0.082775577,0.172790602
+California,Blue,commercial,cents per kilowatthour,Mar,23.68,0.094948097,0.227750865
+California,Blue,commercial,cents per kilowatthour,Apr,22.79,0.100897971,0.298027293
+California,Blue,commercial,cents per kilowatthour,May,23.71,0.09834884,0.333049404
+California,Blue,commercial,cents per kilowatthour,Jun,26.06,0.083023615,0.313682886
+California,Blue,commercial,cents per kilowatthour,Jul,30.28,0.05133345,0.238582883
+California,Blue,commercial,cents per kilowatthour,Aug,29,0.05759311,0.251384222
+California,Blue,commercial,cents per kilowatthour,Sep,29.14,0.055628993,0.248898436
+California,Blue,commercial,cents per kilowatthour,Oct,27.74,0.067768497,0.226763817
+California,Blue,commercial,cents per kilowatthour,Nov,18.18,0.083434705,0.201359571
+California,Blue,commercial,cents per kilowatthour,Dec,23.13,0.075504283,0.180022106
+California,Blue,industrial,cents per kilowatthour,Jan,18.43,0.062746048,0.131366967
+California,Blue,industrial,cents per kilowatthour,Feb,18.79,0.082775577,0.172790602
+California,Blue,industrial,cents per kilowatthour,Mar,19.68,0.094948097,0.227750865
+California,Blue,industrial,cents per kilowatthour,Apr,19.38,0.100897971,0.298027293
+California,Blue,industrial,cents per kilowatthour,May,21.6,0.09834884,0.333049404
+California,Blue,industrial,cents per kilowatthour,Jun,22.81,0.083023615,0.313682886
+California,Blue,industrial,cents per kilowatthour,Jul,26.13,0.05133345,0.238582883
+California,Blue,industrial,cents per kilowatthour,Aug,25.09,0.05759311,0.251384222
+California,Blue,industrial,cents per kilowatthour,Sep,24.61,0.055628993,0.248898436
+California,Blue,industrial,cents per kilowatthour,Oct,24.04,0.067768497,0.226763817
+California,Blue,industrial,cents per kilowatthour,Nov,19.18,0.083434705,0.201359571
+California,Blue,industrial,cents per kilowatthour,Dec,19.8,0.075504283,0.180022106
+California,Blue,residential,cents per kilowatthour,Jan,29.53,0.062746048,0.131366967
+California,Blue,residential,cents per kilowatthour,Feb,31.28,0.082775577,0.172790602
+California,Blue,residential,cents per kilowatthour,Mar,32.53,0.094948097,0.227750865
+California,Blue,residential,cents per kilowatthour,Apr,34.32,0.100897971,0.298027293
+California,Blue,residential,cents per kilowatthour,May,34.36,0.09834884,0.333049404
+California,Blue,residential,cents per kilowatthour,Jun,33.07,0.083023615,0.313682886
+California,Blue,residential,cents per kilowatthour,Jul,32.61,0.05133345,0.238582883
+California,Blue,residential,cents per kilowatthour,Aug,31.1,0.05759311,0.251384222
+California,Blue,residential,cents per kilowatthour,Sep,31.7,0.055628993,0.248898436
+California,Blue,residential,cents per kilowatthour,Oct,30.27,0.067768497,0.226763817
+California,Blue,residential,cents per kilowatthour,Nov,32.73,0.083434705,0.201359571
+California,Blue,residential,cents per kilowatthour,Dec,30.55,0.075504283,0.180022106
+Colorado,Blue,all sectors,cents per kilowatthour,Jan,11.6,0.2407093,0.049801924
+Colorado,Blue,all sectors,cents per kilowatthour,Feb,11.69,0.292881909,0.063634509
+Colorado,Blue,all sectors,cents per kilowatthour,Mar,11.43,0.332228666,0.086785418
+Colorado,Blue,all sectors,cents per kilowatthour,Apr,11.81,0.40196802,0.109471095
+Colorado,Blue,all sectors,cents per kilowatthour,May,11.77,0.374540441,0.115119485
+Colorado,Blue,all sectors,cents per kilowatthour,Jun,12.96,0.289710673,0.100785591
+Colorado,Blue,all sectors,cents per kilowatthour,Jul,12.96,0.215682819,0.097268722
+Colorado,Blue,all sectors,cents per kilowatthour,Aug,12.96,0.240594605,0.093044595
+Colorado,Blue,all sectors,cents per kilowatthour,Sep,12.88,0.296845624,0.097138082
+Colorado,Blue,all sectors,cents per kilowatthour,Oct,12.04,0.354882155,0.085072952
+Colorado,Blue,all sectors,cents per kilowatthour,Nov,12.04,0.319504778,0.058427454
+Colorado,Blue,all sectors,cents per kilowatthour,Dec,11.91,0.316466371,0.053974278
+Colorado,Blue,commercial,cents per kilowatthour,Jan,10.99,0.2407093,0.049801924
+Colorado,Blue,commercial,cents per kilowatthour,Feb,10.98,0.292881909,0.063634509
+Colorado,Blue,commercial,cents per kilowatthour,Mar,10.96,0.332228666,0.086785418
+Colorado,Blue,commercial,cents per kilowatthour,Apr,11.51,0.40196802,0.109471095
+Colorado,Blue,commercial,cents per kilowatthour,May,11.56,0.374540441,0.115119485
+Colorado,Blue,commercial,cents per kilowatthour,Jun,13.03,0.289710673,0.100785591
+Colorado,Blue,commercial,cents per kilowatthour,Jul,12.83,0.215682819,0.097268722
+Colorado,Blue,commercial,cents per kilowatthour,Aug,12.59,0.240594605,0.093044595
+Colorado,Blue,commercial,cents per kilowatthour,Sep,12.62,0.296845624,0.097138082
+Colorado,Blue,commercial,cents per kilowatthour,Oct,11.62,0.354882155,0.085072952
+Colorado,Blue,commercial,cents per kilowatthour,Nov,11.85,0.319504778,0.058427454
+Colorado,Blue,commercial,cents per kilowatthour,Dec,11.12,0.316466371,0.053974278
+Colorado,Blue,industrial,cents per kilowatthour,Jan,8.32,0.2407093,0.049801924
+Colorado,Blue,industrial,cents per kilowatthour,Feb,8.69,0.292881909,0.063634509
+Colorado,Blue,industrial,cents per kilowatthour,Mar,8.24,0.332228666,0.086785418
+Colorado,Blue,industrial,cents per kilowatthour,Apr,8.84,0.40196802,0.109471095
+Colorado,Blue,industrial,cents per kilowatthour,May,8.68,0.374540441,0.115119485
+Colorado,Blue,industrial,cents per kilowatthour,Jun,9.48,0.289710673,0.100785591
+Colorado,Blue,industrial,cents per kilowatthour,Jul,9.16,0.215682819,0.097268722
+Colorado,Blue,industrial,cents per kilowatthour,Aug,9.18,0.240594605,0.093044595
+Colorado,Blue,industrial,cents per kilowatthour,Sep,9.24,0.296845624,0.097138082
+Colorado,Blue,industrial,cents per kilowatthour,Oct,8.55,0.354882155,0.085072952
+Colorado,Blue,industrial,cents per kilowatthour,Nov,8.23,0.319504778,0.058427454
+Colorado,Blue,industrial,cents per kilowatthour,Dec,8.6,0.316466371,0.053974278
+Colorado,Blue,residential,cents per kilowatthour,Jan,14.35,0.2407093,0.049801924
+Colorado,Blue,residential,cents per kilowatthour,Feb,14.53,0.292881909,0.063634509
+Colorado,Blue,residential,cents per kilowatthour,Mar,14.54,0.332228666,0.086785418
+Colorado,Blue,residential,cents per kilowatthour,Apr,14.67,0.40196802,0.109471095
+Colorado,Blue,residential,cents per kilowatthour,May,14.63,0.374540441,0.115119485
+Colorado,Blue,residential,cents per kilowatthour,Jun,15.14,0.289710673,0.100785591
+Colorado,Blue,residential,cents per kilowatthour,Jul,15.38,0.215682819,0.097268722
+Colorado,Blue,residential,cents per kilowatthour,Aug,15.56,0.240594605,0.093044595
+Colorado,Blue,residential,cents per kilowatthour,Sep,15.68,0.296845624,0.097138082
+Colorado,Blue,residential,cents per kilowatthour,Oct,15.41,0.354882155,0.085072952
+Colorado,Blue,residential,cents per kilowatthour,Nov,15.16,0.319504778,0.058427454
+Colorado,Blue,residential,cents per kilowatthour,Dec,15.16,0.316466371,0.053974278
+Connecticut,Blue,all sectors,cents per kilowatthour,Jan,23.78,0.000289017,0.004913295
+Connecticut,Blue,all sectors,cents per kilowatthour,Feb,24.71,0.000299222,0.009275883
+Connecticut,Blue,all sectors,cents per kilowatthour,Mar,24.03,0.000268097,0.010991957
+Connecticut,Blue,all sectors,cents per kilowatthour,Apr,24.24,0.000311042,0.014307932
+Connecticut,Blue,all sectors,cents per kilowatthour,May,22.14,0.000296209,0.015699052
+Connecticut,Blue,all sectors,cents per kilowatthour,Jun,22.11,0.000259067,0.014507772
+Connecticut,Blue,all sectors,cents per kilowatthour,Jul,23.91,0,0.011778029
+Connecticut,Blue,all sectors,cents per kilowatthour,Aug,25.73,0.000234412,0.011954993
+Connecticut,Blue,all sectors,cents per kilowatthour,Sep,27.14,0,0.012593017
+Connecticut,Blue,all sectors,cents per kilowatthour,Oct,25.33,0.000304692,0.013101767
+Connecticut,Blue,all sectors,cents per kilowatthour,Nov,25.18,0.000265887,0.007976602
+Connecticut,Blue,all sectors,cents per kilowatthour,Dec,25.6,0.000250752,0.006268806
+Connecticut,Blue,commercial,cents per kilowatthour,Jan,20.48,0.000289017,0.004913295
+Connecticut,Blue,commercial,cents per kilowatthour,Feb,20.83,0.000299222,0.009275883
+Connecticut,Blue,commercial,cents per kilowatthour,Mar,20.28,0.000268097,0.010991957
+Connecticut,Blue,commercial,cents per kilowatthour,Apr,20.74,0.000311042,0.014307932
+Connecticut,Blue,commercial,cents per kilowatthour,May,19.42,0.000296209,0.015699052
+Connecticut,Blue,commercial,cents per kilowatthour,Jun,19.28,0.000259067,0.014507772
+Connecticut,Blue,commercial,cents per kilowatthour,Jul,20.09,0,0.011778029
+Connecticut,Blue,commercial,cents per kilowatthour,Aug,22.43,0.000234412,0.011954993
+Connecticut,Blue,commercial,cents per kilowatthour,Sep,23.55,0,0.012593017
+Connecticut,Blue,commercial,cents per kilowatthour,Oct,23.1,0.000304692,0.013101767
+Connecticut,Blue,commercial,cents per kilowatthour,Nov,22.87,0.000265887,0.007976602
+Connecticut,Blue,commercial,cents per kilowatthour,Dec,23.4,0.000250752,0.006268806
+Connecticut,Blue,industrial,cents per kilowatthour,Jan,16.88,0.000289017,0.004913295
+Connecticut,Blue,industrial,cents per kilowatthour,Feb,17.45,0.000299222,0.009275883
+Connecticut,Blue,industrial,cents per kilowatthour,Mar,16.17,0.000268097,0.010991957
+Connecticut,Blue,industrial,cents per kilowatthour,Apr,16.09,0.000311042,0.014307932
+Connecticut,Blue,industrial,cents per kilowatthour,May,15.58,0.000296209,0.015699052
+Connecticut,Blue,industrial,cents per kilowatthour,Jun,15.46,0.000259067,0.014507772
+Connecticut,Blue,industrial,cents per kilowatthour,Jul,17.18,0,0.011778029
+Connecticut,Blue,industrial,cents per kilowatthour,Aug,17.67,0.000234412,0.011954993
+Connecticut,Blue,industrial,cents per kilowatthour,Sep,19.76,0,0.012593017
+Connecticut,Blue,industrial,cents per kilowatthour,Oct,17.6,0.000304692,0.013101767
+Connecticut,Blue,industrial,cents per kilowatthour,Nov,18.15,0.000265887,0.007976602
+Connecticut,Blue,industrial,cents per kilowatthour,Dec,19.9,0.000250752,0.006268806
+Connecticut,Blue,residential,cents per kilowatthour,Jan,27.41,0.000289017,0.004913295
+Connecticut,Blue,residential,cents per kilowatthour,Feb,29.52,0.000299222,0.009275883
+Connecticut,Blue,residential,cents per kilowatthour,Mar,29.12,0.000268097,0.010991957
+Connecticut,Blue,residential,cents per kilowatthour,Apr,29.57,0.000311042,0.014307932
+Connecticut,Blue,residential,cents per kilowatthour,May,26.73,0.000296209,0.015699052
+Connecticut,Blue,residential,cents per kilowatthour,Jun,25.98,0.000259067,0.014507772
+Connecticut,Blue,residential,cents per kilowatthour,Jul,28,0,0.011778029
+Connecticut,Blue,residential,cents per kilowatthour,Aug,29.96,0.000234412,0.011954993
+Connecticut,Blue,residential,cents per kilowatthour,Sep,33.04,0,0.012593017
+Connecticut,Blue,residential,cents per kilowatthour,Oct,29.99,0.000304692,0.013101767
+Connecticut,Blue,residential,cents per kilowatthour,Nov,29.18,0.000265887,0.007976602
+Connecticut,Blue,residential,cents per kilowatthour,Dec,28.16,0.000250752,0.006268806
+Delaware,Blue,all sectors,cents per kilowatthour,Jan,13.18,0,0.021276596
+Delaware,Blue,all sectors,cents per kilowatthour,Feb,13.18,0,0.043859649
+Delaware,Blue,all sectors,cents per kilowatthour,Mar,13.52,0,0.122807018
+Delaware,Blue,all sectors,cents per kilowatthour,Apr,14.03,0,0.052238806
+Delaware,Blue,all sectors,cents per kilowatthour,May,13.07,0,0.095541401
+Delaware,Blue,all sectors,cents per kilowatthour,Jun,13.01,0,0.041758242
+Delaware,Blue,all sectors,cents per kilowatthour,Jul,13.28,0,0.028616852
+Delaware,Blue,all sectors,cents per kilowatthour,Aug,13.24,0,0.045212766
+Delaware,Blue,all sectors,cents per kilowatthour,Sep,13.41,0,0.053030303
+Delaware,Blue,all sectors,cents per kilowatthour,Oct,13.84,0,0.038674033
+Delaware,Blue,all sectors,cents per kilowatthour,Nov,13.79,0,0.047368421
+Delaware,Blue,all sectors,cents per kilowatthour,Dec,13.99,0,0.025
+Delaware,Blue,commercial,cents per kilowatthour,Jan,11.82,0,0.021276596
+Delaware,Blue,commercial,cents per kilowatthour,Feb,11.94,0,0.043859649
+Delaware,Blue,commercial,cents per kilowatthour,Mar,11.76,0,0.122807018
+Delaware,Blue,commercial,cents per kilowatthour,Apr,12.58,0,0.052238806
+Delaware,Blue,commercial,cents per kilowatthour,May,11.36,0,0.095541401
+Delaware,Blue,commercial,cents per kilowatthour,Jun,11.79,0,0.041758242
+Delaware,Blue,commercial,cents per kilowatthour,Jul,12.11,0,0.028616852
+Delaware,Blue,commercial,cents per kilowatthour,Aug,11.99,0,0.045212766
+Delaware,Blue,commercial,cents per kilowatthour,Sep,12.07,0,0.053030303
+Delaware,Blue,commercial,cents per kilowatthour,Oct,12.74,0,0.038674033
+Delaware,Blue,commercial,cents per kilowatthour,Nov,12.51,0,0.047368421
+Delaware,Blue,commercial,cents per kilowatthour,Dec,12.83,0,0.025
+Delaware,Blue,industrial,cents per kilowatthour,Jan,8.57,0,0.021276596
+Delaware,Blue,industrial,cents per kilowatthour,Feb,7.83,0,0.043859649
+Delaware,Blue,industrial,cents per kilowatthour,Mar,8.43,0,0.122807018
+Delaware,Blue,industrial,cents per kilowatthour,Apr,8.54,0,0.052238806
+Delaware,Blue,industrial,cents per kilowatthour,May,7.82,0,0.095541401
+Delaware,Blue,industrial,cents per kilowatthour,Jun,7.72,0,0.041758242
+Delaware,Blue,industrial,cents per kilowatthour,Jul,8.66,0,0.028616852
+Delaware,Blue,industrial,cents per kilowatthour,Aug,8.51,0,0.045212766
+Delaware,Blue,industrial,cents per kilowatthour,Sep,7.95,0,0.053030303
+Delaware,Blue,industrial,cents per kilowatthour,Oct,8.26,0,0.038674033
+Delaware,Blue,industrial,cents per kilowatthour,Nov,8.02,0,0.047368421
+Delaware,Blue,industrial,cents per kilowatthour,Dec,8.45,0,0.025
+Delaware,Blue,residential,cents per kilowatthour,Jan,15.57,0,0.021276596
+Delaware,Blue,residential,cents per kilowatthour,Feb,15.72,0,0.043859649
+Delaware,Blue,residential,cents per kilowatthour,Mar,16.59,0,0.122807018
+Delaware,Blue,residential,cents per kilowatthour,Apr,17.53,0,0.052238806
+Delaware,Blue,residential,cents per kilowatthour,May,17.26,0,0.095541401
+Delaware,Blue,residential,cents per kilowatthour,Jun,16.28,0,0.041758242
+Delaware,Blue,residential,cents per kilowatthour,Jul,15.49,0,0.028616852
+Delaware,Blue,residential,cents per kilowatthour,Aug,15.67,0,0.045212766
+Delaware,Blue,residential,cents per kilowatthour,Sep,16.69,0,0.053030303
+Delaware,Blue,residential,cents per kilowatthour,Oct,17.92,0,0.038674033
+Delaware,Blue,residential,cents per kilowatthour,Nov,18.09,0,0.047368421
+Delaware,Blue,residential,cents per kilowatthour,Dec,16.68,0,0.025
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Jan,16.76,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Feb,17.15,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Mar,16.79,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Apr,16.9,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,all sectors,cents per kilowatthour,May,16.74,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Jun,16.52,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Jul,16.82,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Aug,16.43,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Sep,16.44,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Oct,17.1,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Nov,17.13,0,1
+District Of Columbia,Blue,all sectors,cents per kilowatthour,Dec,17.46,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,commercial,cents per kilowatthour,Jan,17.19,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,commercial,cents per kilowatthour,Feb,17.64,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Mar,16.99,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Apr,17.06,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,commercial,cents per kilowatthour,May,16.89,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,commercial,cents per kilowatthour,Jun,16.89,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Jul,17.08,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Aug,16.5,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Sep,16.51,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Oct,16.97,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Nov,17.06,0,1
+District Of Columbia,Blue,commercial,cents per kilowatthour,Dec,17.53,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,industrial,cents per kilowatthour,Jan,10.97,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,industrial,cents per kilowatthour,Feb,10,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Mar,9.61,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Apr,9.96,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,industrial,cents per kilowatthour,May,11.41,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,industrial,cents per kilowatthour,Jun,8.72,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Jul,14.55,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Aug,10.17,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Sep,0,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Oct,16.54,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Nov,13,0,1
+District Of Columbia,Blue,industrial,cents per kilowatthour,Dec,12.24,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,residential,cents per kilowatthour,Jan,16.89,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,residential,cents per kilowatthour,Feb,17.15,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Mar,17.71,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Apr,17.93,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,residential,cents per kilowatthour,May,17.84,#DIV/0!,#DIV/0!
+District Of Columbia,Blue,residential,cents per kilowatthour,Jun,17.18,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Jul,17.07,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Aug,17.4,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Sep,18.03,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Oct,18.59,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Nov,18.92,0,1
+District Of Columbia,Blue,residential,cents per kilowatthour,Dec,18.83,#DIV/0!,#DIV/0!
+Florida,Red,all sectors,cents per kilowatthour,Jan,13.23,0,0.045508982
+Florida,Red,all sectors,cents per kilowatthour,Feb,13.6,0,0.077830048
+Florida,Red,all sectors,cents per kilowatthour,Mar,12.9,0,0.083257967
+Florida,Red,all sectors,cents per kilowatthour,Apr,12.89,0,0.106854204
+Florida,Red,all sectors,cents per kilowatthour,May,12.04,0,0.083153831
+Florida,Red,all sectors,cents per kilowatthour,Jun,12.33,0,0.073684635
+Florida,Red,all sectors,cents per kilowatthour,Jul,12.26,0,0.064908871
+Florida,Red,all sectors,cents per kilowatthour,Aug,12.17,0,0.064650213
+Florida,Red,all sectors,cents per kilowatthour,Sep,12.41,0,0.057022133
+Florida,Red,all sectors,cents per kilowatthour,Oct,12.59,0,0.067355059
+Florida,Red,all sectors,cents per kilowatthour,Nov,12.53,0,0.067603161
+Florida,Red,all sectors,cents per kilowatthour,Dec,12.53,0,0.074829932
+Florida,Red,commercial,cents per kilowatthour,Jan,11.95,0,0.045508982
+Florida,Red,commercial,cents per kilowatthour,Feb,12.31,0,0.077830048
+Florida,Red,commercial,cents per kilowatthour,Mar,11.62,0,0.083257967
+Florida,Red,commercial,cents per kilowatthour,Apr,11.54,0,0.106854204
+Florida,Red,commercial,cents per kilowatthour,May,10.57,0,0.083153831
+Florida,Red,commercial,cents per kilowatthour,Jun,10.66,0,0.073684635
+Florida,Red,commercial,cents per kilowatthour,Jul,10.59,0,0.064908871
+Florida,Red,commercial,cents per kilowatthour,Aug,10.57,0,0.064650213
+Florida,Red,commercial,cents per kilowatthour,Sep,10.69,0,0.057022133
+Florida,Red,commercial,cents per kilowatthour,Oct,11.07,0,0.067355059
+Florida,Red,commercial,cents per kilowatthour,Nov,11.13,0,0.067603161
+Florida,Red,commercial,cents per kilowatthour,Dec,11.2,0,0.074829932
+Florida,Red,industrial,cents per kilowatthour,Jan,9.04,0,0.045508982
+Florida,Red,industrial,cents per kilowatthour,Feb,9.19,0,0.077830048
+Florida,Red,industrial,cents per kilowatthour,Mar,8.61,0,0.083257967
+Florida,Red,industrial,cents per kilowatthour,Apr,8.74,0,0.106854204
+Florida,Red,industrial,cents per kilowatthour,May,8.21,0,0.083153831
+Florida,Red,industrial,cents per kilowatthour,Jun,8.33,0,0.073684635
+Florida,Red,industrial,cents per kilowatthour,Jul,8.33,0,0.064908871
+Florida,Red,industrial,cents per kilowatthour,Aug,8.27,0,0.064650213
+Florida,Red,industrial,cents per kilowatthour,Sep,8.35,0,0.057022133
+Florida,Red,industrial,cents per kilowatthour,Oct,8.51,0,0.067355059
+Florida,Red,industrial,cents per kilowatthour,Nov,8.37,0,0.067603161
+Florida,Red,industrial,cents per kilowatthour,Dec,8.37,0,0.074829932
+Florida,Red,residential,cents per kilowatthour,Jan,14.74,0,0.045508982
+Florida,Red,residential,cents per kilowatthour,Feb,15.25,0,0.077830048
+Florida,Red,residential,cents per kilowatthour,Mar,14.67,0,0.083257967
+Florida,Red,residential,cents per kilowatthour,Apr,14.64,0,0.106854204
+Florida,Red,residential,cents per kilowatthour,May,13.62,0,0.083153831
+Florida,Red,residential,cents per kilowatthour,Jun,13.87,0,0.073684635
+Florida,Red,residential,cents per kilowatthour,Jul,13.73,0,0.064908871
+Florida,Red,residential,cents per kilowatthour,Aug,13.63,0,0.064650213
+Florida,Red,residential,cents per kilowatthour,Sep,14.03,0,0.057022133
+Florida,Red,residential,cents per kilowatthour,Oct,14.18,0,0.067355059
+Florida,Red,residential,cents per kilowatthour,Nov,14.25,0,0.067603161
+Florida,Red,residential,cents per kilowatthour,Dec,14.2,0,0.074829932
+Georgia,Red,all sectors,cents per kilowatthour,Jan,11.1,0,0.042569462
+Georgia,Red,all sectors,cents per kilowatthour,Feb,10.42,0,0.059277813
+Georgia,Red,all sectors,cents per kilowatthour,Mar,10.41,0,0.070205479
+Georgia,Red,all sectors,cents per kilowatthour,Apr,10.69,0,0.083416384
+Georgia,Red,all sectors,cents per kilowatthour,May,11.2,0,0.075305746
+Georgia,Red,all sectors,cents per kilowatthour,Jun,12.81,0,0.076514678
+Georgia,Red,all sectors,cents per kilowatthour,Jul,12.73,0,0.063082751
+Georgia,Red,all sectors,cents per kilowatthour,Aug,12.88,0,0.065349965
+Georgia,Red,all sectors,cents per kilowatthour,Sep,11.16,0,0.058366123
+Georgia,Red,all sectors,cents per kilowatthour,Oct,10.92,0,0.073573857
+Georgia,Red,all sectors,cents per kilowatthour,Nov,11.06,0,0.053902768
+Georgia,Red,all sectors,cents per kilowatthour,Dec,11.32,0,0.054078333
+Georgia,Red,commercial,cents per kilowatthour,Jan,11.31,0,0.042569462
+Georgia,Red,commercial,cents per kilowatthour,Feb,10.43,0,0.059277813
+Georgia,Red,commercial,cents per kilowatthour,Mar,10.5,0,0.070205479
+Georgia,Red,commercial,cents per kilowatthour,Apr,10.64,0,0.083416384
+Georgia,Red,commercial,cents per kilowatthour,May,10.5,0,0.075305746
+Georgia,Red,commercial,cents per kilowatthour,Jun,11.66,0,0.076514678
+Georgia,Red,commercial,cents per kilowatthour,Jul,11.64,0,0.063082751
+Georgia,Red,commercial,cents per kilowatthour,Aug,11.98,0,0.065349965
+Georgia,Red,commercial,cents per kilowatthour,Sep,10.71,0,0.058366123
+Georgia,Red,commercial,cents per kilowatthour,Oct,10.85,0,0.073573857
+Georgia,Red,commercial,cents per kilowatthour,Nov,11.06,0,0.053902768
+Georgia,Red,commercial,cents per kilowatthour,Dec,11.31,0,0.054078333
+Georgia,Red,industrial,cents per kilowatthour,Jan,7.94,0,0.042569462
+Georgia,Red,industrial,cents per kilowatthour,Feb,5.77,0,0.059277813
+Georgia,Red,industrial,cents per kilowatthour,Mar,5.76,0,0.070205479
+Georgia,Red,industrial,cents per kilowatthour,Apr,5.99,0,0.083416384
+Georgia,Red,industrial,cents per kilowatthour,May,6.34,0,0.075305746
+Georgia,Red,industrial,cents per kilowatthour,Jun,8.7,0,0.076514678
+Georgia,Red,industrial,cents per kilowatthour,Jul,8.82,0,0.063082751
+Georgia,Red,industrial,cents per kilowatthour,Aug,9.88,0,0.065349965
+Georgia,Red,industrial,cents per kilowatthour,Sep,7.11,0,0.058366123
+Georgia,Red,industrial,cents per kilowatthour,Oct,6.37,0,0.073573857
+Georgia,Red,industrial,cents per kilowatthour,Nov,6.3,0,0.053902768
+Georgia,Red,industrial,cents per kilowatthour,Dec,6.92,0,0.054078333
+Georgia,Red,residential,cents per kilowatthour,Jan,12.32,0,0.042569462
+Georgia,Red,residential,cents per kilowatthour,Feb,12.96,0,0.059277813
+Georgia,Red,residential,cents per kilowatthour,Mar,13.54,0,0.070205479
+Georgia,Red,residential,cents per kilowatthour,Apr,14.07,0,0.083416384
+Georgia,Red,residential,cents per kilowatthour,May,14.93,0,0.075305746
+Georgia,Red,residential,cents per kilowatthour,Jun,15.56,0,0.076514678
+Georgia,Red,residential,cents per kilowatthour,Jul,15.23,0,0.063082751
+Georgia,Red,residential,cents per kilowatthour,Aug,14.92,0,0.065349965
+Georgia,Red,residential,cents per kilowatthour,Sep,13.68,0,0.058366123
+Georgia,Red,residential,cents per kilowatthour,Oct,13.98,0,0.073573857
+Georgia,Red,residential,cents per kilowatthour,Nov,14.29,0,0.053902768
+Georgia,Red,residential,cents per kilowatthour,Dec,13.49,0,0.054078333
+Hawaii,Blue,all sectors,cents per kilowatthour,Jan,41.14,0.051966292,0.054775281
+Hawaii,Blue,all sectors,cents per kilowatthour,Feb,40,0.09148265,0.067823344
+Hawaii,Blue,all sectors,cents per kilowatthour,Mar,40.11,0.103975535,0.079510703
+Hawaii,Blue,all sectors,cents per kilowatthour,Apr,40.2,0.093514329,0.085972851
+Hawaii,Blue,all sectors,cents per kilowatthour,May,39.39,0.075498575,0.084045584
+Hawaii,Blue,all sectors,cents per kilowatthour,Jun,37.9,0.095714286,0.107142857
+Hawaii,Blue,all sectors,cents per kilowatthour,Jul,37.41,0.08811749,0.102803738
+Hawaii,Blue,all sectors,cents per kilowatthour,Aug,37.46,0.074968234,0.09021601
+Hawaii,Blue,all sectors,cents per kilowatthour,Sep,36.47,0.065860215,0.095430108
+Hawaii,Blue,all sectors,cents per kilowatthour,Oct,36.26,0.06377551,0.088010204
+Hawaii,Blue,all sectors,cents per kilowatthour,Nov,35.44,0.075070822,0.077903683
+Hawaii,Blue,all sectors,cents per kilowatthour,Dec,37.39,0.051519155,0.07661823
+Hawaii,Blue,commercial,cents per kilowatthour,Jan,42.22,0.051966292,0.054775281
+Hawaii,Blue,commercial,cents per kilowatthour,Feb,40.83,0.09148265,0.067823344
+Hawaii,Blue,commercial,cents per kilowatthour,Mar,40.81,0.103975535,0.079510703
+Hawaii,Blue,commercial,cents per kilowatthour,Apr,40.84,0.093514329,0.085972851
+Hawaii,Blue,commercial,cents per kilowatthour,May,39.77,0.075498575,0.084045584
+Hawaii,Blue,commercial,cents per kilowatthour,Jun,38.57,0.095714286,0.107142857
+Hawaii,Blue,commercial,cents per kilowatthour,Jul,37.82,0.08811749,0.102803738
+Hawaii,Blue,commercial,cents per kilowatthour,Aug,37.95,0.074968234,0.09021601
+Hawaii,Blue,commercial,cents per kilowatthour,Sep,37.09,0.065860215,0.095430108
+Hawaii,Blue,commercial,cents per kilowatthour,Oct,36.88,0.06377551,0.088010204
+Hawaii,Blue,commercial,cents per kilowatthour,Nov,36.16,0.075070822,0.077903683
+Hawaii,Blue,commercial,cents per kilowatthour,Dec,38.29,0.051519155,0.07661823
+Hawaii,Blue,industrial,cents per kilowatthour,Jan,37.68,0.051966292,0.054775281
+Hawaii,Blue,industrial,cents per kilowatthour,Feb,36.34,0.09148265,0.067823344
+Hawaii,Blue,industrial,cents per kilowatthour,Mar,35.86,0.103975535,0.079510703
+Hawaii,Blue,industrial,cents per kilowatthour,Apr,36.11,0.093514329,0.085972851
+Hawaii,Blue,industrial,cents per kilowatthour,May,35.57,0.075498575,0.084045584
+Hawaii,Blue,industrial,cents per kilowatthour,Jun,33.8,0.095714286,0.107142857
+Hawaii,Blue,industrial,cents per kilowatthour,Jul,33.11,0.08811749,0.102803738
+Hawaii,Blue,industrial,cents per kilowatthour,Aug,33.44,0.074968234,0.09021601
+Hawaii,Blue,industrial,cents per kilowatthour,Sep,32.43,0.065860215,0.095430108
+Hawaii,Blue,industrial,cents per kilowatthour,Oct,31.99,0.06377551,0.088010204
+Hawaii,Blue,industrial,cents per kilowatthour,Nov,31.5,0.075070822,0.077903683
+Hawaii,Blue,industrial,cents per kilowatthour,Dec,32.92,0.051519155,0.07661823
+Hawaii,Blue,residential,cents per kilowatthour,Jan,44.28,0.051966292,0.054775281
+Hawaii,Blue,residential,cents per kilowatthour,Feb,43.93,0.09148265,0.067823344
+Hawaii,Blue,residential,cents per kilowatthour,Mar,45.25,0.103975535,0.079510703
+Hawaii,Blue,residential,cents per kilowatthour,Apr,45.19,0.093514329,0.085972851
+Hawaii,Blue,residential,cents per kilowatthour,May,44.14,0.075498575,0.084045584
+Hawaii,Blue,residential,cents per kilowatthour,Jun,42.45,0.095714286,0.107142857
+Hawaii,Blue,residential,cents per kilowatthour,Jul,42.67,0.08811749,0.102803738
+Hawaii,Blue,residential,cents per kilowatthour,Aug,42.1,0.074968234,0.09021601
+Hawaii,Blue,residential,cents per kilowatthour,Sep,40.75,0.065860215,0.095430108
+Hawaii,Blue,residential,cents per kilowatthour,Oct,41.27,0.06377551,0.088010204
+Hawaii,Blue,residential,cents per kilowatthour,Nov,39.62,0.075070822,0.077903683
+Hawaii,Blue,residential,cents per kilowatthour,Dec,42.34,0.051519155,0.07661823
+Idaho,Red,all sectors,cents per kilowatthour,Jan,9.17,0.13933895,0.02073882
+Idaho,Red,all sectors,cents per kilowatthour,Feb,9.44,0.160739687,0.030583215
+Idaho,Red,all sectors,cents per kilowatthour,Mar,9.16,0.173114754,0.045901639
+Idaho,Red,all sectors,cents per kilowatthour,Apr,9.22,0.237915408,0.067220544
+Idaho,Red,all sectors,cents per kilowatthour,May,9.01,0.186950147,0.07771261
+Idaho,Red,all sectors,cents per kilowatthour,Jun,10.37,0.146794488,0.087477531
+Idaho,Red,all sectors,cents per kilowatthour,Jul,9.94,0.088423502,0.079697499
+Idaho,Red,all sectors,cents per kilowatthour,Aug,9.9,0.102372035,0.071785268
+Idaho,Red,all sectors,cents per kilowatthour,Sep,10.02,0.140695915,0.077155825
+Idaho,Red,all sectors,cents per kilowatthour,Oct,9.12,0.220665499,0.07267951
+Idaho,Red,all sectors,cents per kilowatthour,Nov,9.4,0.184434271,0.03204709
+Idaho,Red,all sectors,cents per kilowatthour,Dec,9.05,0.168594035,0.022519781
+Idaho,Red,commercial,cents per kilowatthour,Jan,8.61,0.13933895,0.02073882
+Idaho,Red,commercial,cents per kilowatthour,Feb,9.12,0.160739687,0.030583215
+Idaho,Red,commercial,cents per kilowatthour,Mar,9.14,0.173114754,0.045901639
+Idaho,Red,commercial,cents per kilowatthour,Apr,9.24,0.237915408,0.067220544
+Idaho,Red,commercial,cents per kilowatthour,May,9.19,0.186950147,0.07771261
+Idaho,Red,commercial,cents per kilowatthour,Jun,9.67,0.146794488,0.087477531
+Idaho,Red,commercial,cents per kilowatthour,Jul,9.72,0.088423502,0.079697499
+Idaho,Red,commercial,cents per kilowatthour,Aug,9.27,0.102372035,0.071785268
+Idaho,Red,commercial,cents per kilowatthour,Sep,9.55,0.140695915,0.077155825
+Idaho,Red,commercial,cents per kilowatthour,Oct,9.44,0.220665499,0.07267951
+Idaho,Red,commercial,cents per kilowatthour,Nov,9.08,0.184434271,0.03204709
+Idaho,Red,commercial,cents per kilowatthour,Dec,8.34,0.168594035,0.022519781
+Idaho,Red,industrial,cents per kilowatthour,Jan,6.77,0.13933895,0.02073882
+Idaho,Red,industrial,cents per kilowatthour,Feb,7.01,0.160739687,0.030583215
+Idaho,Red,industrial,cents per kilowatthour,Mar,6.54,0.173114754,0.045901639
+Idaho,Red,industrial,cents per kilowatthour,Apr,6.97,0.237915408,0.067220544
+Idaho,Red,industrial,cents per kilowatthour,May,7.08,0.186950147,0.07771261
+Idaho,Red,industrial,cents per kilowatthour,Jun,9.57,0.146794488,0.087477531
+Idaho,Red,industrial,cents per kilowatthour,Jul,8.42,0.088423502,0.079697499
+Idaho,Red,industrial,cents per kilowatthour,Aug,8.58,0.102372035,0.071785268
+Idaho,Red,industrial,cents per kilowatthour,Sep,8.53,0.140695915,0.077155825
+Idaho,Red,industrial,cents per kilowatthour,Oct,6.13,0.220665499,0.07267951
+Idaho,Red,industrial,cents per kilowatthour,Nov,6.96,0.184434271,0.03204709
+Idaho,Red,industrial,cents per kilowatthour,Dec,6.46,0.168594035,0.022519781
+Idaho,Red,residential,cents per kilowatthour,Jan,10.73,0.13933895,0.02073882
+Idaho,Red,residential,cents per kilowatthour,Feb,11.2,0.160739687,0.030583215
+Idaho,Red,residential,cents per kilowatthour,Mar,11.01,0.173114754,0.045901639
+Idaho,Red,residential,cents per kilowatthour,Apr,11.39,0.237915408,0.067220544
+Idaho,Red,residential,cents per kilowatthour,May,11.5,0.186950147,0.07771261
+Idaho,Red,residential,cents per kilowatthour,Jun,12.22,0.146794488,0.087477531
+Idaho,Red,residential,cents per kilowatthour,Jul,12.19,0.088423502,0.079697499
+Idaho,Red,residential,cents per kilowatthour,Aug,12.07,0.102372035,0.071785268
+Idaho,Red,residential,cents per kilowatthour,Sep,12.38,0.140695915,0.077155825
+Idaho,Red,residential,cents per kilowatthour,Oct,12.23,0.220665499,0.07267951
+Idaho,Red,residential,cents per kilowatthour,Nov,11.3,0.184434271,0.03204709
+Idaho,Red,residential,cents per kilowatthour,Dec,10.97,0.168594035,0.022519781
+Illinois,Blue,all sectors,cents per kilowatthour,Jan,11.85,0.131155534,0.005667967
+Illinois,Blue,all sectors,cents per kilowatthour,Feb,11.98,0.163731656,0.01222921
+Illinois,Blue,all sectors,cents per kilowatthour,Mar,11.44,0.19707192,0.01437053
+Illinois,Blue,all sectors,cents per kilowatthour,Apr,12.01,0.197250018,0.016557483
+Illinois,Blue,all sectors,cents per kilowatthour,May,12.63,0.131232857,0.019480976
+Illinois,Blue,all sectors,cents per kilowatthour,Jun,12.93,0.116436653,0.017779436
+Illinois,Blue,all sectors,cents per kilowatthour,Jul,12.55,0.059131869,0.017197715
+Illinois,Blue,all sectors,cents per kilowatthour,Aug,12.66,0.064700341,0.016072059
+Illinois,Blue,all sectors,cents per kilowatthour,Sep,12.58,0.085304462,0.016412661
+Illinois,Blue,all sectors,cents per kilowatthour,Oct,12.52,0.146971202,0.016153592
+Illinois,Blue,all sectors,cents per kilowatthour,Nov,12.24,0.173707596,0.013470626
+Illinois,Blue,all sectors,cents per kilowatthour,Dec,12.39,0.155383663,0.011509901
+Illinois,Blue,commercial,cents per kilowatthour,Jan,11.28,0.131155534,0.005667967
+Illinois,Blue,commercial,cents per kilowatthour,Feb,11.35,0.163731656,0.01222921
+Illinois,Blue,commercial,cents per kilowatthour,Mar,10.79,0.19707192,0.01437053
+Illinois,Blue,commercial,cents per kilowatthour,Apr,11.47,0.197250018,0.016557483
+Illinois,Blue,commercial,cents per kilowatthour,May,12.53,0.131232857,0.019480976
+Illinois,Blue,commercial,cents per kilowatthour,Jun,12.17,0.116436653,0.017779436
+Illinois,Blue,commercial,cents per kilowatthour,Jul,11.91,0.059131869,0.017197715
+Illinois,Blue,commercial,cents per kilowatthour,Aug,12.03,0.064700341,0.016072059
+Illinois,Blue,commercial,cents per kilowatthour,Sep,12.24,0.085304462,0.016412661
+Illinois,Blue,commercial,cents per kilowatthour,Oct,12.27,0.146971202,0.016153592
+Illinois,Blue,commercial,cents per kilowatthour,Nov,11.45,0.173707596,0.013470626
+Illinois,Blue,commercial,cents per kilowatthour,Dec,11.64,0.155383663,0.011509901
+Illinois,Blue,industrial,cents per kilowatthour,Jan,8.83,0.131155534,0.005667967
+Illinois,Blue,industrial,cents per kilowatthour,Feb,8.95,0.163731656,0.01222921
+Illinois,Blue,industrial,cents per kilowatthour,Mar,8.38,0.19707192,0.01437053
+Illinois,Blue,industrial,cents per kilowatthour,Apr,8.86,0.197250018,0.016557483
+Illinois,Blue,industrial,cents per kilowatthour,May,8.58,0.131232857,0.019480976
+Illinois,Blue,industrial,cents per kilowatthour,Jun,9.68,0.116436653,0.017779436
+Illinois,Blue,industrial,cents per kilowatthour,Jul,9.55,0.059131869,0.017197715
+Illinois,Blue,industrial,cents per kilowatthour,Aug,9.25,0.064700341,0.016072059
+Illinois,Blue,industrial,cents per kilowatthour,Sep,9.62,0.085304462,0.016412661
+Illinois,Blue,industrial,cents per kilowatthour,Oct,9.5,0.146971202,0.016153592
+Illinois,Blue,industrial,cents per kilowatthour,Nov,9.2,0.173707596,0.013470626
+Illinois,Blue,industrial,cents per kilowatthour,Dec,9.47,0.155383663,0.011509901
+Illinois,Blue,residential,cents per kilowatthour,Jan,14.88,0.131155534,0.005667967
+Illinois,Blue,residential,cents per kilowatthour,Feb,15.63,0.163731656,0.01222921
+Illinois,Blue,residential,cents per kilowatthour,Mar,15.96,0.19707192,0.01437053
+Illinois,Blue,residential,cents per kilowatthour,Apr,16.54,0.197250018,0.016557483
+Illinois,Blue,residential,cents per kilowatthour,May,16.59,0.131232857,0.019480976
+Illinois,Blue,residential,cents per kilowatthour,Jun,16.05,0.116436653,0.017779436
+Illinois,Blue,residential,cents per kilowatthour,Jul,15.23,0.059131869,0.017197715
+Illinois,Blue,residential,cents per kilowatthour,Aug,15.69,0.064700341,0.016072059
+Illinois,Blue,residential,cents per kilowatthour,Sep,15.85,0.085304462,0.016412661
+Illinois,Blue,residential,cents per kilowatthour,Oct,16.51,0.146971202,0.016153592
+Illinois,Blue,residential,cents per kilowatthour,Nov,17.14,0.173707596,0.013470626
+Illinois,Blue,residential,cents per kilowatthour,Dec,15.99,0.155383663,0.011509901
+Indiana,Red,all sectors,cents per kilowatthour,Jan,11.42,0.101031154,0.007898201
+Indiana,Red,all sectors,cents per kilowatthour,Feb,11.28,0.135827932,0.022392457
+Indiana,Red,all sectors,cents per kilowatthour,Mar,11.12,0.172362994,0.02695934
+Indiana,Red,all sectors,cents per kilowatthour,Apr,11.29,0.181498079,0.037131882
+Indiana,Red,all sectors,cents per kilowatthour,May,11.1,0.1084527,0.053360617
+Indiana,Red,all sectors,cents per kilowatthour,Jun,11.42,0.091363138,0.046412474
+Indiana,Red,all sectors,cents per kilowatthour,Jul,11.62,0.043497173,0.041648543
+Indiana,Red,all sectors,cents per kilowatthour,Aug,11.54,0.047468724,0.047351806
+Indiana,Red,all sectors,cents per kilowatthour,Sep,11.24,0.075512741,0.050341827
+Indiana,Red,all sectors,cents per kilowatthour,Oct,11.33,0.11908284,0.046597633
+Indiana,Red,all sectors,cents per kilowatthour,Nov,11.57,0.140753328,0.021665251
+Indiana,Red,all sectors,cents per kilowatthour,Dec,11.31,0.127237487,0.018469958
+Indiana,Red,commercial,cents per kilowatthour,Jan,12.5,0.101031154,0.007898201
+Indiana,Red,commercial,cents per kilowatthour,Feb,12.56,0.135827932,0.022392457
+Indiana,Red,commercial,cents per kilowatthour,Mar,12.9,0.172362994,0.02695934
+Indiana,Red,commercial,cents per kilowatthour,Apr,12.74,0.181498079,0.037131882
+Indiana,Red,commercial,cents per kilowatthour,May,12.63,0.1084527,0.053360617
+Indiana,Red,commercial,cents per kilowatthour,Jun,12.62,0.091363138,0.046412474
+Indiana,Red,commercial,cents per kilowatthour,Jul,12.54,0.043497173,0.041648543
+Indiana,Red,commercial,cents per kilowatthour,Aug,12.44,0.047468724,0.047351806
+Indiana,Red,commercial,cents per kilowatthour,Sep,12.58,0.075512741,0.050341827
+Indiana,Red,commercial,cents per kilowatthour,Oct,12.64,0.11908284,0.046597633
+Indiana,Red,commercial,cents per kilowatthour,Nov,12.95,0.140753328,0.021665251
+Indiana,Red,commercial,cents per kilowatthour,Dec,12.45,0.127237487,0.018469958
+Indiana,Red,industrial,cents per kilowatthour,Jan,8.22,0.101031154,0.007898201
+Indiana,Red,industrial,cents per kilowatthour,Feb,8.14,0.135827932,0.022392457
+Indiana,Red,industrial,cents per kilowatthour,Mar,7.97,0.172362994,0.02695934
+Indiana,Red,industrial,cents per kilowatthour,Apr,8.01,0.181498079,0.037131882
+Indiana,Red,industrial,cents per kilowatthour,May,7.94,0.1084527,0.053360617
+Indiana,Red,industrial,cents per kilowatthour,Jun,7.81,0.091363138,0.046412474
+Indiana,Red,industrial,cents per kilowatthour,Jul,8.19,0.043497173,0.041648543
+Indiana,Red,industrial,cents per kilowatthour,Aug,8.04,0.047468724,0.047351806
+Indiana,Red,industrial,cents per kilowatthour,Sep,7.76,0.075512741,0.050341827
+Indiana,Red,industrial,cents per kilowatthour,Oct,7.96,0.11908284,0.046597633
+Indiana,Red,industrial,cents per kilowatthour,Nov,8.02,0.140753328,0.021665251
+Indiana,Red,industrial,cents per kilowatthour,Dec,7.87,0.127237487,0.018469958
+Indiana,Red,residential,cents per kilowatthour,Jan,13.86,0.101031154,0.007898201
+Indiana,Red,residential,cents per kilowatthour,Feb,14.12,0.135827932,0.022392457
+Indiana,Red,residential,cents per kilowatthour,Mar,14.53,0.172362994,0.02695934
+Indiana,Red,residential,cents per kilowatthour,Apr,15.34,0.181498079,0.037131882
+Indiana,Red,residential,cents per kilowatthour,May,15.27,0.1084527,0.053360617
+Indiana,Red,residential,cents per kilowatthour,Jun,14.89,0.091363138,0.046412474
+Indiana,Red,residential,cents per kilowatthour,Jul,14.8,0.043497173,0.041648543
+Indiana,Red,residential,cents per kilowatthour,Aug,14.87,0.047468724,0.047351806
+Indiana,Red,residential,cents per kilowatthour,Sep,14.93,0.075512741,0.050341827
+Indiana,Red,residential,cents per kilowatthour,Oct,15.82,0.11908284,0.046597633
+Indiana,Red,residential,cents per kilowatthour,Nov,16.33,0.140753328,0.021665251
+Indiana,Red,residential,cents per kilowatthour,Dec,14.42,0.127237487,0.018469958
+Iowa,Red,all sectors,cents per kilowatthour,Jan,8.92,0.565356183,0.003192204
+Iowa,Red,all sectors,cents per kilowatthour,Feb,8.52,0.762181409,0.007121439
+Iowa,Red,all sectors,cents per kilowatthour,Mar,8.58,0.846153846,0.007893853
+Iowa,Red,all sectors,cents per kilowatthour,Apr,8.56,0.915369476,0.011093219
+Iowa,Red,all sectors,cents per kilowatthour,May,8.99,0.68315508,0.014514897
+Iowa,Red,all sectors,cents per kilowatthour,Jun,10.72,0.61251809,0.013929088
+Iowa,Red,all sectors,cents per kilowatthour,Jul,11.01,0.381482904,0.014790626
+Iowa,Red,all sectors,cents per kilowatthour,Aug,10.77,0.436090226,0.013909774
+Iowa,Red,all sectors,cents per kilowatthour,Sep,10.17,0.568896512,0.012388031
+Iowa,Red,all sectors,cents per kilowatthour,Oct,8.82,0.752276867,0.0102666
+Iowa,Red,all sectors,cents per kilowatthour,Nov,8.82,0.687244898,0.006632653
+Iowa,Red,all sectors,cents per kilowatthour,Dec,8.91,0.623733719,0.005627914
+Iowa,Red,commercial,cents per kilowatthour,Jan,9.65,0.565356183,0.003192204
+Iowa,Red,commercial,cents per kilowatthour,Feb,9.39,0.762181409,0.007121439
+Iowa,Red,commercial,cents per kilowatthour,Mar,9.45,0.846153846,0.007893853
+Iowa,Red,commercial,cents per kilowatthour,Apr,9.41,0.915369476,0.011093219
+Iowa,Red,commercial,cents per kilowatthour,May,10.12,0.68315508,0.014514897
+Iowa,Red,commercial,cents per kilowatthour,Jun,11.37,0.61251809,0.013929088
+Iowa,Red,commercial,cents per kilowatthour,Jul,11.66,0.381482904,0.014790626
+Iowa,Red,commercial,cents per kilowatthour,Aug,11.51,0.436090226,0.013909774
+Iowa,Red,commercial,cents per kilowatthour,Sep,10.81,0.568896512,0.012388031
+Iowa,Red,commercial,cents per kilowatthour,Oct,10.12,0.752276867,0.0102666
+Iowa,Red,commercial,cents per kilowatthour,Nov,10.18,0.687244898,0.006632653
+Iowa,Red,commercial,cents per kilowatthour,Dec,10.19,0.623733719,0.005627914
+Iowa,Red,industrial,cents per kilowatthour,Jan,6.45,0.565356183,0.003192204
+Iowa,Red,industrial,cents per kilowatthour,Feb,6.01,0.762181409,0.007121439
+Iowa,Red,industrial,cents per kilowatthour,Mar,5.99,0.846153846,0.007893853
+Iowa,Red,industrial,cents per kilowatthour,Apr,6.11,0.915369476,0.011093219
+Iowa,Red,industrial,cents per kilowatthour,May,6.24,0.68315508,0.014514897
+Iowa,Red,industrial,cents per kilowatthour,Jun,8.15,0.61251809,0.013929088
+Iowa,Red,industrial,cents per kilowatthour,Jul,8.24,0.381482904,0.014790626
+Iowa,Red,industrial,cents per kilowatthour,Aug,8.02,0.436090226,0.013909774
+Iowa,Red,industrial,cents per kilowatthour,Sep,7.87,0.568896512,0.012388031
+Iowa,Red,industrial,cents per kilowatthour,Oct,6.41,0.752276867,0.0102666
+Iowa,Red,industrial,cents per kilowatthour,Nov,6.29,0.687244898,0.006632653
+Iowa,Red,industrial,cents per kilowatthour,Dec,6.21,0.623733719,0.005627914
+Iowa,Red,residential,cents per kilowatthour,Jan,11.92,0.565356183,0.003192204
+Iowa,Red,residential,cents per kilowatthour,Feb,12.22,0.762181409,0.007121439
+Iowa,Red,residential,cents per kilowatthour,Mar,12.93,0.846153846,0.007893853
+Iowa,Red,residential,cents per kilowatthour,Apr,13.17,0.915369476,0.011093219
+Iowa,Red,residential,cents per kilowatthour,May,14.3,0.68315508,0.014514897
+Iowa,Red,residential,cents per kilowatthour,Jun,14.88,0.61251809,0.013929088
+Iowa,Red,residential,cents per kilowatthour,Jul,15.01,0.381482904,0.014790626
+Iowa,Red,residential,cents per kilowatthour,Aug,14.93,0.436090226,0.013909774
+Iowa,Red,residential,cents per kilowatthour,Sep,14.19,0.568896512,0.012388031
+Iowa,Red,residential,cents per kilowatthour,Oct,13.33,0.752276867,0.0102666
+Iowa,Red,residential,cents per kilowatthour,Nov,13.34,0.687244898,0.006632653
+Iowa,Red,residential,cents per kilowatthour,Dec,12.43,0.623733719,0.005627914
+Kansas,Red,all sectors,cents per kilowatthour,Jan,10.69,0.417250779,0.000778816
+Kansas,Red,all sectors,cents per kilowatthour,Feb,10.83,0.621529358,0.001137915
+Kansas,Red,all sectors,cents per kilowatthour,Mar,10.77,0.651680582,0.001284522
+Kansas,Red,all sectors,cents per kilowatthour,Apr,10.78,0.804851158,0.001653804
+Kansas,Red,all sectors,cents per kilowatthour,May,10.57,0.54281243,0.002012072
+Kansas,Red,all sectors,cents per kilowatthour,Jun,11.73,0.51010101,0.001683502
+Kansas,Red,all sectors,cents per kilowatthour,Jul,12.25,0.373790677,0.001759015
+Kansas,Red,all sectors,cents per kilowatthour,Aug,11.87,0.383605327,0.001500657
+Kansas,Red,all sectors,cents per kilowatthour,Sep,11.73,0.42481639,0.001739467
+Kansas,Red,all sectors,cents per kilowatthour,Oct,11.01,0.612572162,0.001282874
+Kansas,Red,all sectors,cents per kilowatthour,Nov,11.08,0.574935401,0.000861326
+Kansas,Red,all sectors,cents per kilowatthour,Dec,10.9,0.484157417,0.001009082
+Kansas,Red,commercial,cents per kilowatthour,Jan,10.33,0.417250779,0.000778816
+Kansas,Red,commercial,cents per kilowatthour,Feb,10.86,0.621529358,0.001137915
+Kansas,Red,commercial,cents per kilowatthour,Mar,10.99,0.651680582,0.001284522
+Kansas,Red,commercial,cents per kilowatthour,Apr,10.89,0.804851158,0.001653804
+Kansas,Red,commercial,cents per kilowatthour,May,10.51,0.54281243,0.002012072
+Kansas,Red,commercial,cents per kilowatthour,Jun,11.54,0.51010101,0.001683502
+Kansas,Red,commercial,cents per kilowatthour,Jul,12.34,0.373790677,0.001759015
+Kansas,Red,commercial,cents per kilowatthour,Aug,12.04,0.383605327,0.001500657
+Kansas,Red,commercial,cents per kilowatthour,Sep,11.87,0.42481639,0.001739467
+Kansas,Red,commercial,cents per kilowatthour,Oct,10.96,0.612572162,0.001282874
+Kansas,Red,commercial,cents per kilowatthour,Nov,11.06,0.574935401,0.000861326
+Kansas,Red,commercial,cents per kilowatthour,Dec,10.74,0.484157417,0.001009082
+Kansas,Red,industrial,cents per kilowatthour,Jan,7.71,0.417250779,0.000778816
+Kansas,Red,industrial,cents per kilowatthour,Feb,7.58,0.621529358,0.001137915
+Kansas,Red,industrial,cents per kilowatthour,Mar,7.47,0.651680582,0.001284522
+Kansas,Red,industrial,cents per kilowatthour,Apr,7.49,0.804851158,0.001653804
+Kansas,Red,industrial,cents per kilowatthour,May,7.31,0.54281243,0.002012072
+Kansas,Red,industrial,cents per kilowatthour,Jun,8.19,0.51010101,0.001683502
+Kansas,Red,industrial,cents per kilowatthour,Jul,7.98,0.373790677,0.001759015
+Kansas,Red,industrial,cents per kilowatthour,Aug,7.59,0.383605327,0.001500657
+Kansas,Red,industrial,cents per kilowatthour,Sep,7.74,0.42481639,0.001739467
+Kansas,Red,industrial,cents per kilowatthour,Oct,7.63,0.612572162,0.001282874
+Kansas,Red,industrial,cents per kilowatthour,Nov,7.75,0.574935401,0.000861326
+Kansas,Red,industrial,cents per kilowatthour,Dec,7.6,0.484157417,0.001009082
+Kansas,Red,residential,cents per kilowatthour,Jan,12.98,0.417250779,0.000778816
+Kansas,Red,residential,cents per kilowatthour,Feb,13.67,0.621529358,0.001137915
+Kansas,Red,residential,cents per kilowatthour,Mar,14.16,0.651680582,0.001284522
+Kansas,Red,residential,cents per kilowatthour,Apr,14.3,0.804851158,0.001653804
+Kansas,Red,residential,cents per kilowatthour,May,14.06,0.54281243,0.002012072
+Kansas,Red,residential,cents per kilowatthour,Jun,14.16,0.51010101,0.001683502
+Kansas,Red,residential,cents per kilowatthour,Jul,14.9,0.373790677,0.001759015
+Kansas,Red,residential,cents per kilowatthour,Aug,14.49,0.383605327,0.001500657
+Kansas,Red,residential,cents per kilowatthour,Sep,14.76,0.42481639,0.001739467
+Kansas,Red,residential,cents per kilowatthour,Oct,14.43,0.612572162,0.001282874
+Kansas,Red,residential,cents per kilowatthour,Nov,14.75,0.574935401,0.000861326
+Kansas,Red,residential,cents per kilowatthour,Dec,13.85,0.484157417,0.001009082
+Kentucky,Red,all sectors,cents per kilowatthour,Jan,10.46,0,0.000739973
+Kentucky,Red,all sectors,cents per kilowatthour,Feb,10.1,0,0.001997603
+Kentucky,Red,all sectors,cents per kilowatthour,Mar,10.11,0,0.002908928
+Kentucky,Red,all sectors,cents per kilowatthour,Apr,9.87,0,0.003357958
+Kentucky,Red,all sectors,cents per kilowatthour,May,9.84,0,0.003068038
+Kentucky,Red,all sectors,cents per kilowatthour,Jun,10.27,0,0.003854802
+Kentucky,Red,all sectors,cents per kilowatthour,Jul,10.23,0,0.004269247
+Kentucky,Red,all sectors,cents per kilowatthour,Aug,10.34,0,0.004914715
+Kentucky,Red,all sectors,cents per kilowatthour,Sep,9.88,0,0.004673771
+Kentucky,Red,all sectors,cents per kilowatthour,Oct,10.07,0,0.005982513
+Kentucky,Red,all sectors,cents per kilowatthour,Nov,10.31,0,0.002986446
+Kentucky,Red,all sectors,cents per kilowatthour,Dec,10.6,0,0.005312967
+Kentucky,Red,commercial,cents per kilowatthour,Jan,11.48,0,0.000739973
+Kentucky,Red,commercial,cents per kilowatthour,Feb,11.97,0,0.001997603
+Kentucky,Red,commercial,cents per kilowatthour,Mar,11.82,0,0.002908928
+Kentucky,Red,commercial,cents per kilowatthour,Apr,11.6,0,0.003357958
+Kentucky,Red,commercial,cents per kilowatthour,May,11.53,0,0.003068038
+Kentucky,Red,commercial,cents per kilowatthour,Jun,11.74,0,0.003854802
+Kentucky,Red,commercial,cents per kilowatthour,Jul,11.25,0,0.004269247
+Kentucky,Red,commercial,cents per kilowatthour,Aug,11.51,0,0.004914715
+Kentucky,Red,commercial,cents per kilowatthour,Sep,11.33,0,0.004673771
+Kentucky,Red,commercial,cents per kilowatthour,Oct,11.61,0,0.005982513
+Kentucky,Red,commercial,cents per kilowatthour,Nov,11.98,0,0.002986446
+Kentucky,Red,commercial,cents per kilowatthour,Dec,11.91,0,0.005312967
+Kentucky,Red,industrial,cents per kilowatthour,Jan,7.06,0,0.000739973
+Kentucky,Red,industrial,cents per kilowatthour,Feb,6.23,0,0.001997603
+Kentucky,Red,industrial,cents per kilowatthour,Mar,6.51,0,0.002908928
+Kentucky,Red,industrial,cents per kilowatthour,Apr,6.38,0,0.003357958
+Kentucky,Red,industrial,cents per kilowatthour,May,6.13,0,0.003068038
+Kentucky,Red,industrial,cents per kilowatthour,Jun,6.45,0,0.003854802
+Kentucky,Red,industrial,cents per kilowatthour,Jul,6.6,0,0.004269247
+Kentucky,Red,industrial,cents per kilowatthour,Aug,6.64,0,0.004914715
+Kentucky,Red,industrial,cents per kilowatthour,Sep,6.39,0,0.004673771
+Kentucky,Red,industrial,cents per kilowatthour,Oct,6.58,0,0.005982513
+Kentucky,Red,industrial,cents per kilowatthour,Nov,6.56,0,0.002986446
+Kentucky,Red,industrial,cents per kilowatthour,Dec,6.85,0,0.005312967
+Kentucky,Red,residential,cents per kilowatthour,Jan,12.49,0,0.000739973
+Kentucky,Red,residential,cents per kilowatthour,Feb,12.66,0,0.001997603
+Kentucky,Red,residential,cents per kilowatthour,Mar,13.17,0,0.002908928
+Kentucky,Red,residential,cents per kilowatthour,Apr,13.18,0,0.003357958
+Kentucky,Red,residential,cents per kilowatthour,May,13.11,0,0.003068038
+Kentucky,Red,residential,cents per kilowatthour,Jun,13.04,0,0.003854802
+Kentucky,Red,residential,cents per kilowatthour,Jul,12.63,0,0.004269247
+Kentucky,Red,residential,cents per kilowatthour,Aug,12.85,0,0.004914715
+Kentucky,Red,residential,cents per kilowatthour,Sep,12.62,0,0.004673771
+Kentucky,Red,residential,cents per kilowatthour,Oct,13.5,0,0.005982513
+Kentucky,Red,residential,cents per kilowatthour,Nov,13.94,0,0.002986446
+Kentucky,Red,residential,cents per kilowatthour,Dec,13.28,0,0.005312967
+Louisiana,Red,all sectors,cents per kilowatthour,Jan,8.43,0,0.005859038
+Louisiana,Red,all sectors,cents per kilowatthour,Feb,8.74,0,0.01065449
+Louisiana,Red,all sectors,cents per kilowatthour,Mar,9.37,0,0.011480363
+Louisiana,Red,all sectors,cents per kilowatthour,Apr,8.84,0,0.014867485
+Louisiana,Red,all sectors,cents per kilowatthour,May,8.23,0,0.012414024
+Louisiana,Red,all sectors,cents per kilowatthour,Jun,8.6,0,0.011995319
+Louisiana,Red,all sectors,cents per kilowatthour,Jul,8.9,0,0.016703641
+Louisiana,Red,all sectors,cents per kilowatthour,Aug,8.87,0,0.024038462
+Louisiana,Red,all sectors,cents per kilowatthour,Sep,9,0,0.022582152
+Louisiana,Red,all sectors,cents per kilowatthour,Oct,8.61,0,0.025365854
+Louisiana,Red,all sectors,cents per kilowatthour,Nov,8.18,0,0.01956115
+Louisiana,Red,all sectors,cents per kilowatthour,Dec,8.38,0,0.021374608
+Louisiana,Red,commercial,cents per kilowatthour,Jan,9.55,0,0.005859038
+Louisiana,Red,commercial,cents per kilowatthour,Feb,10.81,0,0.01065449
+Louisiana,Red,commercial,cents per kilowatthour,Mar,11.53,0,0.011480363
+Louisiana,Red,commercial,cents per kilowatthour,Apr,10.89,0,0.014867485
+Louisiana,Red,commercial,cents per kilowatthour,May,10.12,0,0.012414024
+Louisiana,Red,commercial,cents per kilowatthour,Jun,9.85,0,0.011995319
+Louisiana,Red,commercial,cents per kilowatthour,Jul,10.04,0,0.016703641
+Louisiana,Red,commercial,cents per kilowatthour,Aug,10,0,0.024038462
+Louisiana,Red,commercial,cents per kilowatthour,Sep,10.52,0,0.022582152
+Louisiana,Red,commercial,cents per kilowatthour,Oct,10.41,0,0.025365854
+Louisiana,Red,commercial,cents per kilowatthour,Nov,10.5,0,0.01956115
+Louisiana,Red,commercial,cents per kilowatthour,Dec,10.73,0,0.021374608
+Louisiana,Red,industrial,cents per kilowatthour,Jan,5.73,0,0.005859038
+Louisiana,Red,industrial,cents per kilowatthour,Feb,5.73,0,0.01065449
+Louisiana,Red,industrial,cents per kilowatthour,Mar,6.36,0,0.011480363
+Louisiana,Red,industrial,cents per kilowatthour,Apr,6.09,0,0.014867485
+Louisiana,Red,industrial,cents per kilowatthour,May,5.27,0,0.012414024
+Louisiana,Red,industrial,cents per kilowatthour,Jun,5.36,0,0.011995319
+Louisiana,Red,industrial,cents per kilowatthour,Jul,5.61,0,0.016703641
+Louisiana,Red,industrial,cents per kilowatthour,Aug,5.59,0,0.024038462
+Louisiana,Red,industrial,cents per kilowatthour,Sep,5.63,0,0.022582152
+Louisiana,Red,industrial,cents per kilowatthour,Oct,5.41,0,0.025365854
+Louisiana,Red,industrial,cents per kilowatthour,Nov,5.04,0,0.01956115
+Louisiana,Red,industrial,cents per kilowatthour,Dec,5.28,0,0.021374608
+Louisiana,Red,residential,cents per kilowatthour,Jan,10.85,0,0.005859038
+Louisiana,Red,residential,cents per kilowatthour,Feb,11.3,0,0.01065449
+Louisiana,Red,residential,cents per kilowatthour,Mar,12.42,0,0.011480363
+Louisiana,Red,residential,cents per kilowatthour,Apr,12.12,0,0.014867485
+Louisiana,Red,residential,cents per kilowatthour,May,11.52,0,0.012414024
+Louisiana,Red,residential,cents per kilowatthour,Jun,11.45,0,0.011995319
+Louisiana,Red,residential,cents per kilowatthour,Jul,11.53,0,0.016703641
+Louisiana,Red,residential,cents per kilowatthour,Aug,11.61,0,0.024038462
+Louisiana,Red,residential,cents per kilowatthour,Sep,11.96,0,0.022582152
+Louisiana,Red,residential,cents per kilowatthour,Oct,11.87,0,0.025365854
+Louisiana,Red,residential,cents per kilowatthour,Nov,11.91,0,0.01956115
+Louisiana,Red,residential,cents per kilowatthour,Dec,11.7,0,0.021374608
+Maine,Blue,all sectors,cents per kilowatthour,Jan,21.7,0.223090278,0.032986111
+Maine,Blue,all sectors,cents per kilowatthour,Feb,20.91,0.278543307,0.061023622
+Maine,Blue,all sectors,cents per kilowatthour,Mar,19.36,0.265050167,0.06270903
+Maine,Blue,all sectors,cents per kilowatthour,Apr,18.14,0.291384318,0.0803485
+Maine,Blue,all sectors,cents per kilowatthour,May,17.95,0.183054393,0.111924686
+Maine,Blue,all sectors,cents per kilowatthour,Jun,18.14,0.179558011,0.098526703
+Maine,Blue,all sectors,cents per kilowatthour,Jul,18.59,0.11739503,0.11311054
+Maine,Blue,all sectors,cents per kilowatthour,Aug,18.69,0.127012522,0.113595707
+Maine,Blue,all sectors,cents per kilowatthour,Sep,19.8,0.154375615,0.109144543
+Maine,Blue,all sectors,cents per kilowatthour,Oct,20.13,0.266733267,0.100899101
+Maine,Blue,all sectors,cents per kilowatthour,Nov,20.38,0.334006054,0.067608476
+Maine,Blue,all sectors,cents per kilowatthour,Dec,21.6,0.279503106,0.068322981
+Maine,Blue,commercial,cents per kilowatthour,Jan,19.39,0.223090278,0.032986111
+Maine,Blue,commercial,cents per kilowatthour,Feb,19.3,0.278543307,0.061023622
+Maine,Blue,commercial,cents per kilowatthour,Mar,18.78,0.265050167,0.06270903
+Maine,Blue,commercial,cents per kilowatthour,Apr,18.06,0.291384318,0.0803485
+Maine,Blue,commercial,cents per kilowatthour,May,18.45,0.183054393,0.111924686
+Maine,Blue,commercial,cents per kilowatthour,Jun,17.51,0.179558011,0.098526703
+Maine,Blue,commercial,cents per kilowatthour,Jul,17.23,0.11739503,0.11311054
+Maine,Blue,commercial,cents per kilowatthour,Aug,17.18,0.127012522,0.113595707
+Maine,Blue,commercial,cents per kilowatthour,Sep,17.84,0.154375615,0.109144543
+Maine,Blue,commercial,cents per kilowatthour,Oct,18.53,0.266733267,0.100899101
+Maine,Blue,commercial,cents per kilowatthour,Nov,18.69,0.334006054,0.067608476
+Maine,Blue,commercial,cents per kilowatthour,Dec,19.57,0.279503106,0.068322981
+Maine,Blue,industrial,cents per kilowatthour,Jan,14.76,0.223090278,0.032986111
+Maine,Blue,industrial,cents per kilowatthour,Feb,13.31,0.278543307,0.061023622
+Maine,Blue,industrial,cents per kilowatthour,Mar,12.78,0.265050167,0.06270903
+Maine,Blue,industrial,cents per kilowatthour,Apr,12.31,0.291384318,0.0803485
+Maine,Blue,industrial,cents per kilowatthour,May,11.94,0.183054393,0.111924686
+Maine,Blue,industrial,cents per kilowatthour,Jun,11.69,0.179558011,0.098526703
+Maine,Blue,industrial,cents per kilowatthour,Jul,12.71,0.11739503,0.11311054
+Maine,Blue,industrial,cents per kilowatthour,Aug,12.17,0.127012522,0.113595707
+Maine,Blue,industrial,cents per kilowatthour,Sep,11.31,0.154375615,0.109144543
+Maine,Blue,industrial,cents per kilowatthour,Oct,12.36,0.266733267,0.100899101
+Maine,Blue,industrial,cents per kilowatthour,Nov,12.9,0.334006054,0.067608476
+Maine,Blue,industrial,cents per kilowatthour,Dec,14.85,0.279503106,0.068322981
+Maine,Blue,residential,cents per kilowatthour,Jan,25.92,0.223090278,0.032986111
+Maine,Blue,residential,cents per kilowatthour,Feb,24.97,0.278543307,0.061023622
+Maine,Blue,residential,cents per kilowatthour,Mar,22.26,0.265050167,0.06270903
+Maine,Blue,residential,cents per kilowatthour,Apr,20.48,0.291384318,0.0803485
+Maine,Blue,residential,cents per kilowatthour,May,20.48,0.183054393,0.111924686
+Maine,Blue,residential,cents per kilowatthour,Jun,22.26,0.179558011,0.098526703
+Maine,Blue,residential,cents per kilowatthour,Jul,22.6,0.11739503,0.11311054
+Maine,Blue,residential,cents per kilowatthour,Aug,23.39,0.127012522,0.113595707
+Maine,Blue,residential,cents per kilowatthour,Sep,26.34,0.154375615,0.109144543
+Maine,Blue,residential,cents per kilowatthour,Oct,26.22,0.266733267,0.100899101
+Maine,Blue,residential,cents per kilowatthour,Nov,26.26,0.334006054,0.067608476
+Maine,Blue,residential,cents per kilowatthour,Dec,26.29,0.279503106,0.068322981
+Maryland,Blue,all sectors,cents per kilowatthour,Jan,15.23,0.021956732,0.015175977
+Maryland,Blue,all sectors,cents per kilowatthour,Feb,14.98,0.024857587,0.035732781
+Maryland,Blue,all sectors,cents per kilowatthour,Mar,14.97,0.025934401,0.033943555
+Maryland,Blue,all sectors,cents per kilowatthour,Apr,14.63,0.016086575,0.029833285
+Maryland,Blue,all sectors,cents per kilowatthour,May,14.45,0.010223642,0.035463259
+Maryland,Blue,all sectors,cents per kilowatthour,Jun,14.78,0.011520737,0.042132982
+Maryland,Blue,all sectors,cents per kilowatthour,Jul,15.02,0.007203842,0.031750267
+Maryland,Blue,all sectors,cents per kilowatthour,Aug,15.15,0.006648534,0.035055908
+Maryland,Blue,all sectors,cents per kilowatthour,Sep,15.28,0.015304218,0.035087719
+Maryland,Blue,all sectors,cents per kilowatthour,Oct,15.36,0.012291207,0.030255279
+Maryland,Blue,all sectors,cents per kilowatthour,Nov,15.28,0.029991431,0.027420737
+Maryland,Blue,all sectors,cents per kilowatthour,Dec,15.69,0.018392371,0.01873297
+Maryland,Blue,commercial,cents per kilowatthour,Jan,13.07,0.021956732,0.015175977
+Maryland,Blue,commercial,cents per kilowatthour,Feb,12.78,0.024857587,0.035732781
+Maryland,Blue,commercial,cents per kilowatthour,Mar,12.71,0.025934401,0.033943555
+Maryland,Blue,commercial,cents per kilowatthour,Apr,12.61,0.016086575,0.029833285
+Maryland,Blue,commercial,cents per kilowatthour,May,12.49,0.010223642,0.035463259
+Maryland,Blue,commercial,cents per kilowatthour,Jun,12.88,0.011520737,0.042132982
+Maryland,Blue,commercial,cents per kilowatthour,Jul,13.05,0.007203842,0.031750267
+Maryland,Blue,commercial,cents per kilowatthour,Aug,13.06,0.006648534,0.035055908
+Maryland,Blue,commercial,cents per kilowatthour,Sep,13.22,0.015304218,0.035087719
+Maryland,Blue,commercial,cents per kilowatthour,Oct,13.17,0.012291207,0.030255279
+Maryland,Blue,commercial,cents per kilowatthour,Nov,13.12,0.029991431,0.027420737
+Maryland,Blue,commercial,cents per kilowatthour,Dec,13.55,0.018392371,0.01873297
+Maryland,Blue,industrial,cents per kilowatthour,Jan,10.75,0.021956732,0.015175977
+Maryland,Blue,industrial,cents per kilowatthour,Feb,9.26,0.024857587,0.035732781
+Maryland,Blue,industrial,cents per kilowatthour,Mar,9.31,0.025934401,0.033943555
+Maryland,Blue,industrial,cents per kilowatthour,Apr,9.58,0.016086575,0.029833285
+Maryland,Blue,industrial,cents per kilowatthour,May,9.63,0.010223642,0.035463259
+Maryland,Blue,industrial,cents per kilowatthour,Jun,9.58,0.011520737,0.042132982
+Maryland,Blue,industrial,cents per kilowatthour,Jul,11.03,0.007203842,0.031750267
+Maryland,Blue,industrial,cents per kilowatthour,Aug,10.05,0.006648534,0.035055908
+Maryland,Blue,industrial,cents per kilowatthour,Sep,10.46,0.015304218,0.035087719
+Maryland,Blue,industrial,cents per kilowatthour,Oct,9.95,0.012291207,0.030255279
+Maryland,Blue,industrial,cents per kilowatthour,Nov,10.25,0.029991431,0.027420737
+Maryland,Blue,industrial,cents per kilowatthour,Dec,10.72,0.018392371,0.01873297
+Maryland,Blue,residential,cents per kilowatthour,Jan,17.49,0.021956732,0.015175977
+Maryland,Blue,residential,cents per kilowatthour,Feb,17.6,0.024857587,0.035732781
+Maryland,Blue,residential,cents per kilowatthour,Mar,18.09,0.025934401,0.033943555
+Maryland,Blue,residential,cents per kilowatthour,Apr,17.85,0.016086575,0.029833285
+Maryland,Blue,residential,cents per kilowatthour,May,17.63,0.010223642,0.035463259
+Maryland,Blue,residential,cents per kilowatthour,Jun,17.41,0.011520737,0.042132982
+Maryland,Blue,residential,cents per kilowatthour,Jul,17.25,0.007203842,0.031750267
+Maryland,Blue,residential,cents per kilowatthour,Aug,17.85,0.006648534,0.035055908
+Maryland,Blue,residential,cents per kilowatthour,Sep,18.39,0.015304218,0.035087719
+Maryland,Blue,residential,cents per kilowatthour,Oct,19.22,0.012291207,0.030255279
+Maryland,Blue,residential,cents per kilowatthour,Nov,18.43,0.029991431,0.027420737
+Maryland,Blue,residential,cents per kilowatthour,Dec,18.15,0.018392371,0.01873297
+Massachusetts,Blue,all sectors,cents per kilowatthour,Jan,23.94,0.006506507,0.054554555
+Massachusetts,Blue,all sectors,cents per kilowatthour,Feb,24.28,0.006008011,0.097463284
+Massachusetts,Blue,all sectors,cents per kilowatthour,Mar,23.93,0.010173549,0.10951526
+Massachusetts,Blue,all sectors,cents per kilowatthour,Apr,23.26,0.011599006,0.174813587
+Massachusetts,Blue,all sectors,cents per kilowatthour,May,23.3,0.01056338,0.209507042
+Massachusetts,Blue,all sectors,cents per kilowatthour,Jun,23.2,0.008879781,0.170081967
+Massachusetts,Blue,all sectors,cents per kilowatthour,Jul,24.17,0.003603604,0.105855856
+Massachusetts,Blue,all sectors,cents per kilowatthour,Aug,24.29,0.005199307,0.135759676
+Massachusetts,Blue,all sectors,cents per kilowatthour,Sep,23.8,0.007627119,0.166101695
+Massachusetts,Blue,all sectors,cents per kilowatthour,Oct,23.66,0.010460251,0.131799163
+Massachusetts,Blue,all sectors,cents per kilowatthour,Nov,24.18,0.012262416,0.07786634
+Massachusetts,Blue,all sectors,cents per kilowatthour,Dec,25.58,0.009765625,0.075520833
+Massachusetts,Blue,commercial,cents per kilowatthour,Jan,21.27,0.006506507,0.054554555
+Massachusetts,Blue,commercial,cents per kilowatthour,Feb,21.35,0.006008011,0.097463284
+Massachusetts,Blue,commercial,cents per kilowatthour,Mar,20.65,0.010173549,0.10951526
+Massachusetts,Blue,commercial,cents per kilowatthour,Apr,19.73,0.011599006,0.174813587
+Massachusetts,Blue,commercial,cents per kilowatthour,May,20.72,0.01056338,0.209507042
+Massachusetts,Blue,commercial,cents per kilowatthour,Jun,20.86,0.008879781,0.170081967
+Massachusetts,Blue,commercial,cents per kilowatthour,Jul,21.04,0.003603604,0.105855856
+Massachusetts,Blue,commercial,cents per kilowatthour,Aug,20.99,0.005199307,0.135759676
+Massachusetts,Blue,commercial,cents per kilowatthour,Sep,20.69,0.007627119,0.166101695
+Massachusetts,Blue,commercial,cents per kilowatthour,Oct,20.6,0.010460251,0.131799163
+Massachusetts,Blue,commercial,cents per kilowatthour,Nov,20.94,0.012262416,0.07786634
+Massachusetts,Blue,commercial,cents per kilowatthour,Dec,22.46,0.009765625,0.075520833
+Massachusetts,Blue,industrial,cents per kilowatthour,Jan,18.81,0.006506507,0.054554555
+Massachusetts,Blue,industrial,cents per kilowatthour,Feb,18.33,0.006008011,0.097463284
+Massachusetts,Blue,industrial,cents per kilowatthour,Mar,17.86,0.010173549,0.10951526
+Massachusetts,Blue,industrial,cents per kilowatthour,Apr,17.85,0.011599006,0.174813587
+Massachusetts,Blue,industrial,cents per kilowatthour,May,17.5,0.01056338,0.209507042
+Massachusetts,Blue,industrial,cents per kilowatthour,Jun,16.28,0.008879781,0.170081967
+Massachusetts,Blue,industrial,cents per kilowatthour,Jul,18.21,0.003603604,0.105855856
+Massachusetts,Blue,industrial,cents per kilowatthour,Aug,18.18,0.005199307,0.135759676
+Massachusetts,Blue,industrial,cents per kilowatthour,Sep,18.25,0.007627119,0.166101695
+Massachusetts,Blue,industrial,cents per kilowatthour,Oct,18.97,0.010460251,0.131799163
+Massachusetts,Blue,industrial,cents per kilowatthour,Nov,18.23,0.012262416,0.07786634
+Massachusetts,Blue,industrial,cents per kilowatthour,Dec,19.02,0.009765625,0.075520833
+Massachusetts,Blue,residential,cents per kilowatthour,Jan,28.43,0.006506507,0.054554555
+Massachusetts,Blue,residential,cents per kilowatthour,Feb,29.29,0.006008011,0.097463284
+Massachusetts,Blue,residential,cents per kilowatthour,Mar,29.67,0.010173549,0.10951526
+Massachusetts,Blue,residential,cents per kilowatthour,Apr,29.53,0.011599006,0.174813587
+Massachusetts,Blue,residential,cents per kilowatthour,May,28.72,0.01056338,0.209507042
+Massachusetts,Blue,residential,cents per kilowatthour,Jun,28.19,0.008879781,0.170081967
+Massachusetts,Blue,residential,cents per kilowatthour,Jul,28.84,0.003603604,0.105855856
+Massachusetts,Blue,residential,cents per kilowatthour,Aug,29.51,0.005199307,0.135759676
+Massachusetts,Blue,residential,cents per kilowatthour,Sep,29.26,0.007627119,0.166101695
+Massachusetts,Blue,residential,cents per kilowatthour,Oct,29.31,0.010460251,0.131799163
+Massachusetts,Blue,residential,cents per kilowatthour,Nov,30.36,0.012262416,0.07786634
+Massachusetts,Blue,residential,cents per kilowatthour,Dec,31.22,0.009765625,0.075520833
+Michigan,Red,all sectors,cents per kilowatthour,Jan,14.02,0.08033787,0.005255748
+Michigan,Red,all sectors,cents per kilowatthour,Feb,13.74,0.089112051,0.012579281
+Michigan,Red,all sectors,cents per kilowatthour,Mar,13.71,0.127806361,0.016019645
+Michigan,Red,all sectors,cents per kilowatthour,Apr,13.89,0.136308218,0.021458181
+Michigan,Red,all sectors,cents per kilowatthour,May,14.31,0.07357004,0.022715645
+Michigan,Red,all sectors,cents per kilowatthour,Jun,14.89,0.072889306,0.020919325
+Michigan,Red,all sectors,cents per kilowatthour,Jul,14.92,0.031437966,0.018606143
+Michigan,Red,all sectors,cents per kilowatthour,Aug,14.52,0.0374488,0.018473627
+Michigan,Red,all sectors,cents per kilowatthour,Sep,14.34,0.051699783,0.017798286
+Michigan,Red,all sectors,cents per kilowatthour,Oct,13.74,0.097151577,0.017700916
+Michigan,Red,all sectors,cents per kilowatthour,Nov,13.53,0.10053509,0.009466969
+Michigan,Red,all sectors,cents per kilowatthour,Dec,13.9,0.096395641,0.006892056
+Michigan,Red,commercial,cents per kilowatthour,Jan,13.74,0.08033787,0.005255748
+Michigan,Red,commercial,cents per kilowatthour,Feb,13.77,0.089112051,0.012579281
+Michigan,Red,commercial,cents per kilowatthour,Mar,13.85,0.127806361,0.016019645
+Michigan,Red,commercial,cents per kilowatthour,Apr,14.21,0.136308218,0.021458181
+Michigan,Red,commercial,cents per kilowatthour,May,14.48,0.07357004,0.022715645
+Michigan,Red,commercial,cents per kilowatthour,Jun,14.61,0.072889306,0.020919325
+Michigan,Red,commercial,cents per kilowatthour,Jul,14.41,0.031437966,0.018606143
+Michigan,Red,commercial,cents per kilowatthour,Aug,13.96,0.0374488,0.018473627
+Michigan,Red,commercial,cents per kilowatthour,Sep,13.94,0.051699783,0.017798286
+Michigan,Red,commercial,cents per kilowatthour,Oct,13.58,0.097151577,0.017700916
+Michigan,Red,commercial,cents per kilowatthour,Nov,13.36,0.10053509,0.009466969
+Michigan,Red,commercial,cents per kilowatthour,Dec,13.73,0.096395641,0.006892056
+Michigan,Red,industrial,cents per kilowatthour,Jan,8.44,0.08033787,0.005255748
+Michigan,Red,industrial,cents per kilowatthour,Feb,7.99,0.089112051,0.012579281
+Michigan,Red,industrial,cents per kilowatthour,Mar,8,0.127806361,0.016019645
+Michigan,Red,industrial,cents per kilowatthour,Apr,8.21,0.136308218,0.021458181
+Michigan,Red,industrial,cents per kilowatthour,May,8.65,0.07357004,0.022715645
+Michigan,Red,industrial,cents per kilowatthour,Jun,8.49,0.072889306,0.020919325
+Michigan,Red,industrial,cents per kilowatthour,Jul,8.44,0.031437966,0.018606143
+Michigan,Red,industrial,cents per kilowatthour,Aug,8.2,0.0374488,0.018473627
+Michigan,Red,industrial,cents per kilowatthour,Sep,8.3,0.051699783,0.017798286
+Michigan,Red,industrial,cents per kilowatthour,Oct,8.39,0.097151577,0.017700916
+Michigan,Red,industrial,cents per kilowatthour,Nov,8.13,0.10053509,0.009466969
+Michigan,Red,industrial,cents per kilowatthour,Dec,7.92,0.096395641,0.006892056
+Michigan,Red,residential,cents per kilowatthour,Jan,18.49,0.08033787,0.005255748
+Michigan,Red,residential,cents per kilowatthour,Feb,18.71,0.089112051,0.012579281
+Michigan,Red,residential,cents per kilowatthour,Mar,18.84,0.127806361,0.016019645
+Michigan,Red,residential,cents per kilowatthour,Apr,19.37,0.136308218,0.021458181
+Michigan,Red,residential,cents per kilowatthour,May,19.56,0.07357004,0.022715645
+Michigan,Red,residential,cents per kilowatthour,Jun,19.98,0.072889306,0.020919325
+Michigan,Red,residential,cents per kilowatthour,Jul,19.8,0.031437966,0.018606143
+Michigan,Red,residential,cents per kilowatthour,Aug,19.77,0.0374488,0.018473627
+Michigan,Red,residential,cents per kilowatthour,Sep,20.12,0.051699783,0.017798286
+Michigan,Red,residential,cents per kilowatthour,Oct,19.39,0.097151577,0.017700916
+Michigan,Red,residential,cents per kilowatthour,Nov,18.83,0.10053509,0.009466969
+Michigan,Red,residential,cents per kilowatthour,Dec,18.41,0.096395641,0.006892056
+Minnesota,Blue,all sectors,cents per kilowatthour,Jan,11.91,0.242642643,0.020620621
+Minnesota,Blue,all sectors,cents per kilowatthour,Feb,11.89,0.303464203,0.033949192
+Minnesota,Blue,all sectors,cents per kilowatthour,Mar,11.97,0.334156887,0.038295244
+Minnesota,Blue,all sectors,cents per kilowatthour,Apr,12.03,0.354915548,0.044174968
+Minnesota,Blue,all sectors,cents per kilowatthour,May,12.36,0.276862228,0.053394858
+Minnesota,Blue,all sectors,cents per kilowatthour,Jun,13.18,0.238016186,0.051670471
+Minnesota,Blue,all sectors,cents per kilowatthour,Jul,13.38,0.123205105,0.043609289
+Minnesota,Blue,all sectors,cents per kilowatthour,Aug,13.17,0.155605131,0.044617959
+Minnesota,Blue,all sectors,cents per kilowatthour,Sep,12.91,0.250792214,0.047080127
+Minnesota,Blue,all sectors,cents per kilowatthour,Oct,12.23,0.365942977,0.048391316
+Minnesota,Blue,all sectors,cents per kilowatthour,Nov,11.69,0.31024735,0.031566549
+Minnesota,Blue,all sectors,cents per kilowatthour,Dec,11.42,0.273369675,0.023823945
+Minnesota,Blue,commercial,cents per kilowatthour,Jan,11.52,0.242642643,0.020620621
+Minnesota,Blue,commercial,cents per kilowatthour,Feb,11.73,0.303464203,0.033949192
+Minnesota,Blue,commercial,cents per kilowatthour,Mar,11.85,0.334156887,0.038295244
+Minnesota,Blue,commercial,cents per kilowatthour,Apr,11.9,0.354915548,0.044174968
+Minnesota,Blue,commercial,cents per kilowatthour,May,12.31,0.276862228,0.053394858
+Minnesota,Blue,commercial,cents per kilowatthour,Jun,13.36,0.238016186,0.051670471
+Minnesota,Blue,commercial,cents per kilowatthour,Jul,13.25,0.123205105,0.043609289
+Minnesota,Blue,commercial,cents per kilowatthour,Aug,13.11,0.155605131,0.044617959
+Minnesota,Blue,commercial,cents per kilowatthour,Sep,12.88,0.250792214,0.047080127
+Minnesota,Blue,commercial,cents per kilowatthour,Oct,12.07,0.365942977,0.048391316
+Minnesota,Blue,commercial,cents per kilowatthour,Nov,11.51,0.31024735,0.031566549
+Minnesota,Blue,commercial,cents per kilowatthour,Dec,10.98,0.273369675,0.023823945
+Minnesota,Blue,industrial,cents per kilowatthour,Jan,9.16,0.242642643,0.020620621
+Minnesota,Blue,industrial,cents per kilowatthour,Feb,8.93,0.303464203,0.033949192
+Minnesota,Blue,industrial,cents per kilowatthour,Mar,9,0.334156887,0.038295244
+Minnesota,Blue,industrial,cents per kilowatthour,Apr,8.98,0.354915548,0.044174968
+Minnesota,Blue,industrial,cents per kilowatthour,May,9.28,0.276862228,0.053394858
+Minnesota,Blue,industrial,cents per kilowatthour,Jun,9.51,0.238016186,0.051670471
+Minnesota,Blue,industrial,cents per kilowatthour,Jul,9.76,0.123205105,0.043609289
+Minnesota,Blue,industrial,cents per kilowatthour,Aug,9.43,0.155605131,0.044617959
+Minnesota,Blue,industrial,cents per kilowatthour,Sep,9.36,0.250792214,0.047080127
+Minnesota,Blue,industrial,cents per kilowatthour,Oct,9.07,0.365942977,0.048391316
+Minnesota,Blue,industrial,cents per kilowatthour,Nov,8.52,0.31024735,0.031566549
+Minnesota,Blue,industrial,cents per kilowatthour,Dec,8.57,0.273369675,0.023823945
+Minnesota,Blue,residential,cents per kilowatthour,Jan,14.19,0.242642643,0.020620621
+Minnesota,Blue,residential,cents per kilowatthour,Feb,14.54,0.303464203,0.033949192
+Minnesota,Blue,residential,cents per kilowatthour,Mar,14.85,0.334156887,0.038295244
+Minnesota,Blue,residential,cents per kilowatthour,Apr,15.23,0.354915548,0.044174968
+Minnesota,Blue,residential,cents per kilowatthour,May,15.84,0.276862228,0.053394858
+Minnesota,Blue,residential,cents per kilowatthour,Jun,16.51,0.238016186,0.051670471
+Minnesota,Blue,residential,cents per kilowatthour,Jul,16.47,0.123205105,0.043609289
+Minnesota,Blue,residential,cents per kilowatthour,Aug,16.46,0.155605131,0.044617959
+Minnesota,Blue,residential,cents per kilowatthour,Sep,16.43,0.250792214,0.047080127
+Minnesota,Blue,residential,cents per kilowatthour,Oct,15.94,0.365942977,0.048391316
+Minnesota,Blue,residential,cents per kilowatthour,Nov,14.99,0.31024735,0.031566549
+Minnesota,Blue,residential,cents per kilowatthour,Dec,14.05,0.273369675,0.023823945
+Mississippi,Red,all sectors,cents per kilowatthour,Jan,10.45,0,0.00659868
+Mississippi,Red,all sectors,cents per kilowatthour,Feb,10.85,0,0.010542169
+Mississippi,Red,all sectors,cents per kilowatthour,Mar,10.9,0,0.015451473
+Mississippi,Red,all sectors,cents per kilowatthour,Apr,11,0.011754069,0.015370705
+Mississippi,Red,all sectors,cents per kilowatthour,May,10.7,0.005988024,0.017503455
+Mississippi,Red,all sectors,cents per kilowatthour,Jun,10.99,0.003409428,0.024162467
+Mississippi,Red,all sectors,cents per kilowatthour,Jul,10.82,0.002489518,0.024109015
+Mississippi,Red,all sectors,cents per kilowatthour,Aug,10.85,0.003425127,0.031922181
+Mississippi,Red,all sectors,cents per kilowatthour,Sep,10.85,0.004730658,0.02380589
+Mississippi,Red,all sectors,cents per kilowatthour,Oct,10.71,0.006960982,0.03681993
+Mississippi,Red,all sectors,cents per kilowatthour,Nov,10.95,0.00999001,0.024375624
+Mississippi,Red,all sectors,cents per kilowatthour,Dec,10.87,0.009980739,0.022587988
+Mississippi,Red,commercial,cents per kilowatthour,Jan,11.01,0,0.00659868
+Mississippi,Red,commercial,cents per kilowatthour,Feb,12.65,0,0.010542169
+Mississippi,Red,commercial,cents per kilowatthour,Mar,12.54,0,0.015451473
+Mississippi,Red,commercial,cents per kilowatthour,Apr,12.61,0.011754069,0.015370705
+Mississippi,Red,commercial,cents per kilowatthour,May,11.99,0.005988024,0.017503455
+Mississippi,Red,commercial,cents per kilowatthour,Jun,12.13,0.003409428,0.024162467
+Mississippi,Red,commercial,cents per kilowatthour,Jul,11.76,0.002489518,0.024109015
+Mississippi,Red,commercial,cents per kilowatthour,Aug,11.83,0.003425127,0.031922181
+Mississippi,Red,commercial,cents per kilowatthour,Sep,11.99,0.004730658,0.02380589
+Mississippi,Red,commercial,cents per kilowatthour,Oct,12.01,0.006960982,0.03681993
+Mississippi,Red,commercial,cents per kilowatthour,Nov,12.56,0.00999001,0.024375624
+Mississippi,Red,commercial,cents per kilowatthour,Dec,12.34,0.009980739,0.022587988
+Mississippi,Red,industrial,cents per kilowatthour,Jan,6.8,0,0.00659868
+Mississippi,Red,industrial,cents per kilowatthour,Feb,6.59,0,0.010542169
+Mississippi,Red,industrial,cents per kilowatthour,Mar,6.79,0,0.015451473
+Mississippi,Red,industrial,cents per kilowatthour,Apr,6.71,0.011754069,0.015370705
+Mississippi,Red,industrial,cents per kilowatthour,May,6.52,0.005988024,0.017503455
+Mississippi,Red,industrial,cents per kilowatthour,Jun,6.79,0.003409428,0.024162467
+Mississippi,Red,industrial,cents per kilowatthour,Jul,6.82,0.002489518,0.024109015
+Mississippi,Red,industrial,cents per kilowatthour,Aug,6.86,0.003425127,0.031922181
+Mississippi,Red,industrial,cents per kilowatthour,Sep,6.72,0.004730658,0.02380589
+Mississippi,Red,industrial,cents per kilowatthour,Oct,6.59,0.006960982,0.03681993
+Mississippi,Red,industrial,cents per kilowatthour,Nov,6.71,0.00999001,0.024375624
+Mississippi,Red,industrial,cents per kilowatthour,Dec,6.83,0.009980739,0.022587988
+Mississippi,Red,residential,cents per kilowatthour,Jan,12.57,0,0.00659868
+Mississippi,Red,residential,cents per kilowatthour,Feb,13.05,0,0.010542169
+Mississippi,Red,residential,cents per kilowatthour,Mar,14.06,0,0.015451473
+Mississippi,Red,residential,cents per kilowatthour,Apr,14.46,0.011754069,0.015370705
+Mississippi,Red,residential,cents per kilowatthour,May,13.69,0.005988024,0.017503455
+Mississippi,Red,residential,cents per kilowatthour,Jun,13.23,0.003409428,0.024162467
+Mississippi,Red,residential,cents per kilowatthour,Jul,12.84,0.002489518,0.024109015
+Mississippi,Red,residential,cents per kilowatthour,Aug,12.82,0.003425127,0.031922181
+Mississippi,Red,residential,cents per kilowatthour,Sep,13.06,0.004730658,0.02380589
+Mississippi,Red,residential,cents per kilowatthour,Oct,13.59,0.006960982,0.03681993
+Mississippi,Red,residential,cents per kilowatthour,Nov,14.07,0.00999001,0.024375624
+Mississippi,Red,residential,cents per kilowatthour,Dec,13.44,0.009980739,0.022587988
+Missouri,Red,all sectors,cents per kilowatthour,Jan,9.65,0.073126901,0.001105889
+Missouri,Red,all sectors,cents per kilowatthour,Feb,9.88,0.166445623,0.00265252
+Missouri,Red,all sectors,cents per kilowatthour,Mar,10.46,0.191063174,0.003301783
+Missouri,Red,all sectors,cents per kilowatthour,Apr,10.29,0.173884514,0.003718285
+Missouri,Red,all sectors,cents per kilowatthour,May,10.22,0.089745967,0.003523085
+Missouri,Red,all sectors,cents per kilowatthour,Jun,12.59,0.083033057,0.003133323
+Missouri,Red,all sectors,cents per kilowatthour,Jul,12.75,0.047299113,0.002553077
+Missouri,Red,all sectors,cents per kilowatthour,Aug,12.84,0.052788845,0.003699488
+Missouri,Red,all sectors,cents per kilowatthour,Sep,12.5,0.075571821,0.002927722
+Missouri,Red,all sectors,cents per kilowatthour,Oct,10.21,0.121456693,0.004330709
+Missouri,Red,all sectors,cents per kilowatthour,Nov,10.31,0.130579297,0.00308642
+Missouri,Red,all sectors,cents per kilowatthour,Dec,10.19,0.094287681,0.002064694
+Missouri,Red,commercial,cents per kilowatthour,Jan,8.8,0.073126901,0.001105889
+Missouri,Red,commercial,cents per kilowatthour,Feb,9.3,0.166445623,0.00265252
+Missouri,Red,commercial,cents per kilowatthour,Mar,9.74,0.191063174,0.003301783
+Missouri,Red,commercial,cents per kilowatthour,Apr,9.56,0.173884514,0.003718285
+Missouri,Red,commercial,cents per kilowatthour,May,9.42,0.089745967,0.003523085
+Missouri,Red,commercial,cents per kilowatthour,Jun,11.7,0.083033057,0.003133323
+Missouri,Red,commercial,cents per kilowatthour,Jul,11.9,0.047299113,0.002553077
+Missouri,Red,commercial,cents per kilowatthour,Aug,12,0.052788845,0.003699488
+Missouri,Red,commercial,cents per kilowatthour,Sep,11.72,0.075571821,0.002927722
+Missouri,Red,commercial,cents per kilowatthour,Oct,9.48,0.121456693,0.004330709
+Missouri,Red,commercial,cents per kilowatthour,Nov,9.45,0.130579297,0.00308642
+Missouri,Red,commercial,cents per kilowatthour,Dec,9.45,0.094287681,0.002064694
+Missouri,Red,industrial,cents per kilowatthour,Jan,7.44,0.073126901,0.001105889
+Missouri,Red,industrial,cents per kilowatthour,Feb,7.16,0.166445623,0.00265252
+Missouri,Red,industrial,cents per kilowatthour,Mar,7.55,0.191063174,0.003301783
+Missouri,Red,industrial,cents per kilowatthour,Apr,7.32,0.173884514,0.003718285
+Missouri,Red,industrial,cents per kilowatthour,May,7.24,0.089745967,0.003523085
+Missouri,Red,industrial,cents per kilowatthour,Jun,8.81,0.083033057,0.003133323
+Missouri,Red,industrial,cents per kilowatthour,Jul,8.98,0.047299113,0.002553077
+Missouri,Red,industrial,cents per kilowatthour,Aug,8.99,0.052788845,0.003699488
+Missouri,Red,industrial,cents per kilowatthour,Sep,8.77,0.075571821,0.002927722
+Missouri,Red,industrial,cents per kilowatthour,Oct,7.39,0.121456693,0.004330709
+Missouri,Red,industrial,cents per kilowatthour,Nov,7.27,0.130579297,0.00308642
+Missouri,Red,industrial,cents per kilowatthour,Dec,7.56,0.094287681,0.002064694
+Missouri,Red,residential,cents per kilowatthour,Jan,10.79,0.073126901,0.001105889
+Missouri,Red,residential,cents per kilowatthour,Feb,11.26,0.166445623,0.00265252
+Missouri,Red,residential,cents per kilowatthour,Mar,12.38,0.191063174,0.003301783
+Missouri,Red,residential,cents per kilowatthour,Apr,12.35,0.173884514,0.003718285
+Missouri,Red,residential,cents per kilowatthour,May,12.45,0.089745967,0.003523085
+Missouri,Red,residential,cents per kilowatthour,Jun,14.49,0.083033057,0.003133323
+Missouri,Red,residential,cents per kilowatthour,Jul,14.55,0.047299113,0.002553077
+Missouri,Red,residential,cents per kilowatthour,Aug,14.67,0.052788845,0.003699488
+Missouri,Red,residential,cents per kilowatthour,Sep,14.61,0.075571821,0.002927722
+Missouri,Red,residential,cents per kilowatthour,Oct,12.4,0.121456693,0.004330709
+Missouri,Red,residential,cents per kilowatthour,Nov,12.53,0.130579297,0.00308642
+Missouri,Red,residential,cents per kilowatthour,Dec,11.57,0.094287681,0.002064694
+Montana,Red,all sectors,cents per kilowatthour,Jan,12,0.190709046,0.004889976
+Montana,Red,all sectors,cents per kilowatthour,Feb,10.44,0.231244484,0.008384819
+Montana,Red,all sectors,cents per kilowatthour,Mar,10.56,0.199341796,0.013164081
+Montana,Red,all sectors,cents per kilowatthour,Apr,10.32,0.298363811,0.016843118
+Montana,Red,all sectors,cents per kilowatthour,May,10.72,0.314337133,0.021595681
+Montana,Red,all sectors,cents per kilowatthour,Jun,10.82,0.256004367,0.026746725
+Montana,Red,all sectors,cents per kilowatthour,Jul,11.29,0.138490042,0.02315887
+Montana,Red,all sectors,cents per kilowatthour,Aug,10.96,0.157118056,0.01953125
+Montana,Red,all sectors,cents per kilowatthour,Sep,10.88,0.207345421,0.016736402
+Montana,Red,all sectors,cents per kilowatthour,Oct,10.91,0.224303554,0.0129683
+Montana,Red,all sectors,cents per kilowatthour,Nov,10.44,0.245922208,0.006273526
+Montana,Red,all sectors,cents per kilowatthour,Dec,10.5,0.234441301,0.003889675
+Montana,Red,commercial,cents per kilowatthour,Jan,11.54,0.190709046,0.004889976
+Montana,Red,commercial,cents per kilowatthour,Feb,11.4,0.231244484,0.008384819
+Montana,Red,commercial,cents per kilowatthour,Mar,11.59,0.199341796,0.013164081
+Montana,Red,commercial,cents per kilowatthour,Apr,11.67,0.298363811,0.016843118
+Montana,Red,commercial,cents per kilowatthour,May,12.19,0.314337133,0.021595681
+Montana,Red,commercial,cents per kilowatthour,Jun,12.4,0.256004367,0.026746725
+Montana,Red,commercial,cents per kilowatthour,Jul,12.26,0.138490042,0.02315887
+Montana,Red,commercial,cents per kilowatthour,Aug,12,0.157118056,0.01953125
+Montana,Red,commercial,cents per kilowatthour,Sep,12.07,0.207345421,0.016736402
+Montana,Red,commercial,cents per kilowatthour,Oct,12.07,0.224303554,0.0129683
+Montana,Red,commercial,cents per kilowatthour,Nov,11.52,0.245922208,0.006273526
+Montana,Red,commercial,cents per kilowatthour,Dec,10.95,0.234441301,0.003889675
+Montana,Red,industrial,cents per kilowatthour,Jan,12.57,0.190709046,0.004889976
+Montana,Red,industrial,cents per kilowatthour,Feb,7.02,0.231244484,0.008384819
+Montana,Red,industrial,cents per kilowatthour,Mar,7.1,0.199341796,0.013164081
+Montana,Red,industrial,cents per kilowatthour,Apr,6.69,0.298363811,0.016843118
+Montana,Red,industrial,cents per kilowatthour,May,6.84,0.314337133,0.021595681
+Montana,Red,industrial,cents per kilowatthour,Jun,7,0.256004367,0.026746725
+Montana,Red,industrial,cents per kilowatthour,Jul,8.13,0.138490042,0.02315887
+Montana,Red,industrial,cents per kilowatthour,Aug,7.28,0.157118056,0.01953125
+Montana,Red,industrial,cents per kilowatthour,Sep,7.05,0.207345421,0.016736402
+Montana,Red,industrial,cents per kilowatthour,Oct,7.26,0.224303554,0.0129683
+Montana,Red,industrial,cents per kilowatthour,Nov,6.79,0.245922208,0.006273526
+Montana,Red,industrial,cents per kilowatthour,Dec,7.73,0.234441301,0.003889675
+Montana,Red,residential,cents per kilowatthour,Jan,11.97,0.190709046,0.004889976
+Montana,Red,residential,cents per kilowatthour,Feb,11.95,0.231244484,0.008384819
+Montana,Red,residential,cents per kilowatthour,Mar,12.2,0.199341796,0.013164081
+Montana,Red,residential,cents per kilowatthour,Apr,12.5,0.298363811,0.016843118
+Montana,Red,residential,cents per kilowatthour,May,13.24,0.314337133,0.021595681
+Montana,Red,residential,cents per kilowatthour,Jun,13.56,0.256004367,0.026746725
+Montana,Red,residential,cents per kilowatthour,Jul,13.42,0.138490042,0.02315887
+Montana,Red,residential,cents per kilowatthour,Aug,13.3,0.157118056,0.01953125
+Montana,Red,residential,cents per kilowatthour,Sep,13.46,0.207345421,0.016736402
+Montana,Red,residential,cents per kilowatthour,Oct,13.33,0.224303554,0.0129683
+Montana,Red,residential,cents per kilowatthour,Nov,12.52,0.245922208,0.006273526
+Montana,Red,residential,cents per kilowatthour,Dec,11.87,0.234441301,0.003889675
+Nebraska,Red,all sectors,cents per kilowatthour,Jan,8.75,0.248678802,0.001174398
+Nebraska,Red,all sectors,cents per kilowatthour,Feb,8.89,0.352711919,0.001623904
+Nebraska,Red,all sectors,cents per kilowatthour,Mar,8.9,0.422121896,0.00193486
+Nebraska,Red,all sectors,cents per kilowatthour,Apr,9.1,0.469755925,0.002829855
+Nebraska,Red,all sectors,cents per kilowatthour,May,9.04,0.386887608,0.009726225
+Nebraska,Red,all sectors,cents per kilowatthour,Jun,9.93,0.331139591,0.009698649
+Nebraska,Red,all sectors,cents per kilowatthour,Jul,9.68,0.185610641,0.007859734
+Nebraska,Red,all sectors,cents per kilowatthour,Aug,9.72,0.199603624,0.00594564
+Nebraska,Red,all sectors,cents per kilowatthour,Sep,9.58,0.305396443,0.006632499
+Nebraska,Red,all sectors,cents per kilowatthour,Oct,8.88,0.449139865,0.007479432
+Nebraska,Red,all sectors,cents per kilowatthour,Nov,8.86,0.357411845,0.003423485
+Nebraska,Red,all sectors,cents per kilowatthour,Dec,8.72,0.301184433,0.002538071
+Nebraska,Red,commercial,cents per kilowatthour,Jan,8.48,0.248678802,0.001174398
+Nebraska,Red,commercial,cents per kilowatthour,Feb,9.04,0.352711919,0.001623904
+Nebraska,Red,commercial,cents per kilowatthour,Mar,8.54,0.422121896,0.00193486
+Nebraska,Red,commercial,cents per kilowatthour,Apr,8.11,0.469755925,0.002829855
+Nebraska,Red,commercial,cents per kilowatthour,May,8.29,0.386887608,0.009726225
+Nebraska,Red,commercial,cents per kilowatthour,Jun,9.31,0.331139591,0.009698649
+Nebraska,Red,commercial,cents per kilowatthour,Jul,9.21,0.185610641,0.007859734
+Nebraska,Red,commercial,cents per kilowatthour,Aug,9.21,0.199603624,0.00594564
+Nebraska,Red,commercial,cents per kilowatthour,Sep,9.08,0.305396443,0.006632499
+Nebraska,Red,commercial,cents per kilowatthour,Oct,8.36,0.449139865,0.007479432
+Nebraska,Red,commercial,cents per kilowatthour,Nov,8.31,0.357411845,0.003423485
+Nebraska,Red,commercial,cents per kilowatthour,Dec,8.2,0.301184433,0.002538071
+Nebraska,Red,industrial,cents per kilowatthour,Jan,7.64,0.248678802,0.001174398
+Nebraska,Red,industrial,cents per kilowatthour,Feb,6.76,0.352711919,0.001623904
+Nebraska,Red,industrial,cents per kilowatthour,Mar,7.1,0.422121896,0.00193486
+Nebraska,Red,industrial,cents per kilowatthour,Apr,8.04,0.469755925,0.002829855
+Nebraska,Red,industrial,cents per kilowatthour,May,7.61,0.386887608,0.009726225
+Nebraska,Red,industrial,cents per kilowatthour,Jun,8.18,0.331139591,0.009698649
+Nebraska,Red,industrial,cents per kilowatthour,Jul,7.8,0.185610641,0.007859734
+Nebraska,Red,industrial,cents per kilowatthour,Aug,7.91,0.199603624,0.00594564
+Nebraska,Red,industrial,cents per kilowatthour,Sep,7.6,0.305396443,0.006632499
+Nebraska,Red,industrial,cents per kilowatthour,Oct,7.13,0.449139865,0.007479432
+Nebraska,Red,industrial,cents per kilowatthour,Nov,7.09,0.357411845,0.003423485
+Nebraska,Red,industrial,cents per kilowatthour,Dec,7.22,0.301184433,0.002538071
+Nebraska,Red,residential,cents per kilowatthour,Jan,9.82,0.248678802,0.001174398
+Nebraska,Red,residential,cents per kilowatthour,Feb,10.69,0.352711919,0.001623904
+Nebraska,Red,residential,cents per kilowatthour,Mar,11.58,0.422121896,0.00193486
+Nebraska,Red,residential,cents per kilowatthour,Apr,11.82,0.469755925,0.002829855
+Nebraska,Red,residential,cents per kilowatthour,May,12.19,0.386887608,0.009726225
+Nebraska,Red,residential,cents per kilowatthour,Jun,12.89,0.331139591,0.009698649
+Nebraska,Red,residential,cents per kilowatthour,Jul,12.26,0.185610641,0.007859734
+Nebraska,Red,residential,cents per kilowatthour,Aug,12.5,0.199603624,0.00594564
+Nebraska,Red,residential,cents per kilowatthour,Sep,13.12,0.305396443,0.006632499
+Nebraska,Red,residential,cents per kilowatthour,Oct,12.1,0.449139865,0.007479432
+Nebraska,Red,residential,cents per kilowatthour,Nov,12.21,0.357411845,0.003423485
+Nebraska,Red,residential,cents per kilowatthour,Dec,10.78,0.301184433,0.002538071
+Nevada,Red,all sectors,cents per kilowatthour,Jan,11.88,0.006406685,0.133147632
+Nevada,Red,all sectors,cents per kilowatthour,Feb,11.75,0.009743423,0.182526794
+Nevada,Red,all sectors,cents per kilowatthour,Mar,11.57,0.012436224,0.259885204
+Nevada,Red,all sectors,cents per kilowatthour,Apr,11.35,0.008525418,0.359330597
+Nevada,Red,all sectors,cents per kilowatthour,May,11.47,0.007419184,0.384472708
+Nevada,Red,all sectors,cents per kilowatthour,Jun,12.88,0.005459509,0.339399454
+Nevada,Red,all sectors,cents per kilowatthour,Jul,11.65,0.002712127,0.28574196
+Nevada,Red,all sectors,cents per kilowatthour,Aug,11.5,0.006896552,0.28987069
+Nevada,Red,all sectors,cents per kilowatthour,Sep,11.49,0.004929751,0.300468326
+Nevada,Red,all sectors,cents per kilowatthour,Oct,10.65,0.006556517,0.276422764
+Nevada,Red,all sectors,cents per kilowatthour,Nov,10.27,0.010788941,0.247471342
+Nevada,Red,all sectors,cents per kilowatthour,Dec,10.42,0.007614213,0.20748731
+Nevada,Red,commercial,cents per kilowatthour,Jan,11.47,0.006406685,0.133147632
+Nevada,Red,commercial,cents per kilowatthour,Feb,11.33,0.009743423,0.182526794
+Nevada,Red,commercial,cents per kilowatthour,Mar,11.12,0.012436224,0.259885204
+Nevada,Red,commercial,cents per kilowatthour,Apr,10.66,0.008525418,0.359330597
+Nevada,Red,commercial,cents per kilowatthour,May,10.5,0.007419184,0.384472708
+Nevada,Red,commercial,cents per kilowatthour,Jun,11.22,0.005459509,0.339399454
+Nevada,Red,commercial,cents per kilowatthour,Jul,10.02,0.002712127,0.28574196
+Nevada,Red,commercial,cents per kilowatthour,Aug,9.83,0.006896552,0.28987069
+Nevada,Red,commercial,cents per kilowatthour,Sep,10.24,0.004929751,0.300468326
+Nevada,Red,commercial,cents per kilowatthour,Oct,9.79,0.006556517,0.276422764
+Nevada,Red,commercial,cents per kilowatthour,Nov,10.06,0.010788941,0.247471342
+Nevada,Red,commercial,cents per kilowatthour,Dec,9.85,0.007614213,0.20748731
+Nevada,Red,industrial,cents per kilowatthour,Jan,8.06,0.006406685,0.133147632
+Nevada,Red,industrial,cents per kilowatthour,Feb,7.99,0.009743423,0.182526794
+Nevada,Red,industrial,cents per kilowatthour,Mar,7.93,0.012436224,0.259885204
+Nevada,Red,industrial,cents per kilowatthour,Apr,7.83,0.008525418,0.359330597
+Nevada,Red,industrial,cents per kilowatthour,May,7.9,0.007419184,0.384472708
+Nevada,Red,industrial,cents per kilowatthour,Jun,10.63,0.005459509,0.339399454
+Nevada,Red,industrial,cents per kilowatthour,Jul,9.98,0.002712127,0.28574196
+Nevada,Red,industrial,cents per kilowatthour,Aug,9.79,0.006896552,0.28987069
+Nevada,Red,industrial,cents per kilowatthour,Sep,9.6,0.004929751,0.300468326
+Nevada,Red,industrial,cents per kilowatthour,Oct,7.71,0.006556517,0.276422764
+Nevada,Red,industrial,cents per kilowatthour,Nov,6.5,0.010788941,0.247471342
+Nevada,Red,industrial,cents per kilowatthour,Dec,6.87,0.007614213,0.20748731
+Nevada,Red,residential,cents per kilowatthour,Jan,16.37,0.006406685,0.133147632
+Nevada,Red,residential,cents per kilowatthour,Feb,16.68,0.009743423,0.182526794
+Nevada,Red,residential,cents per kilowatthour,Mar,16.81,0.012436224,0.259885204
+Nevada,Red,residential,cents per kilowatthour,Apr,16.58,0.008525418,0.359330597
+Nevada,Red,residential,cents per kilowatthour,May,16.18,0.007419184,0.384472708
+Nevada,Red,residential,cents per kilowatthour,Jun,15.5,0.005459509,0.339399454
+Nevada,Red,residential,cents per kilowatthour,Jul,13.56,0.002712127,0.28574196
+Nevada,Red,residential,cents per kilowatthour,Aug,13.73,0.006896552,0.28987069
+Nevada,Red,residential,cents per kilowatthour,Sep,14.03,0.004929751,0.300468326
+Nevada,Red,residential,cents per kilowatthour,Oct,14.6,0.006556517,0.276422764
+Nevada,Red,residential,cents per kilowatthour,Nov,15.26,0.010788941,0.247471342
+Nevada,Red,residential,cents per kilowatthour,Dec,14.88,0.007614213,0.20748731
+New Hampshire,Blue,all sectors,cents per kilowatthour,Jan,21.91,0.026494147,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Feb,21.17,0.032477341,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Mar,20,0.034083163,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Apr,20.08,0.029778393,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,May,20.04,0.017627119,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Jun,19.87,0.019583843,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Jul,19.72,0.015492958,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Aug,20.18,0.010514665,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Sep,21.08,0.013356562,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Oct,20.96,0.041353383,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Nov,20.91,0.074494949,0
+New Hampshire,Blue,all sectors,cents per kilowatthour,Dec,21.26,0.027739251,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Jan,20.24,0.026494147,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Feb,20.2,0.032477341,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Mar,19.12,0.034083163,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Apr,19.13,0.029778393,0
+New Hampshire,Blue,commercial,cents per kilowatthour,May,19.23,0.017627119,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Jun,18.99,0.019583843,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Jul,18.68,0.015492958,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Aug,18.67,0.010514665,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Sep,19.98,0.013356562,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Oct,19.98,0.041353383,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Nov,19.44,0.074494949,0
+New Hampshire,Blue,commercial,cents per kilowatthour,Dec,19.91,0.027739251,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Jan,17.29,0.026494147,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Feb,16.91,0.032477341,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Mar,16.37,0.034083163,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Apr,15.79,0.029778393,0
+New Hampshire,Blue,industrial,cents per kilowatthour,May,15.8,0.017627119,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Jun,15.99,0.019583843,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Jul,15.93,0.015492958,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Aug,16,0.010514665,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Sep,15.64,0.013356562,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Oct,15.53,0.041353383,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Nov,16.31,0.074494949,0
+New Hampshire,Blue,industrial,cents per kilowatthour,Dec,17.02,0.027739251,0
+New Hampshire,Blue,residential,cents per kilowatthour,Jan,24.84,0.026494147,0
+New Hampshire,Blue,residential,cents per kilowatthour,Feb,23.52,0.032477341,0
+New Hampshire,Blue,residential,cents per kilowatthour,Mar,22.21,0.034083163,0
+New Hampshire,Blue,residential,cents per kilowatthour,Apr,22.73,0.029778393,0
+New Hampshire,Blue,residential,cents per kilowatthour,May,23.01,0.017627119,0
+New Hampshire,Blue,residential,cents per kilowatthour,Jun,22.43,0.019583843,0
+New Hampshire,Blue,residential,cents per kilowatthour,Jul,21.71,0.015492958,0
+New Hampshire,Blue,residential,cents per kilowatthour,Aug,22.85,0.010514665,0
+New Hampshire,Blue,residential,cents per kilowatthour,Sep,24.86,0.013356562,0
+New Hampshire,Blue,residential,cents per kilowatthour,Oct,24.7,0.041353383,0
+New Hampshire,Blue,residential,cents per kilowatthour,Nov,24.39,0.074494949,0
+New Hampshire,Blue,residential,cents per kilowatthour,Dec,23.62,0.027739251,0
+New Jersey,Blue,all sectors,cents per kilowatthour,Jan,14.97,0.0003663,0.014285714
+New Jersey,Blue,all sectors,cents per kilowatthour,Feb,15.11,0.000427259,0.023071993
+New Jersey,Blue,all sectors,cents per kilowatthour,Mar,15.12,0.000457875,0.030677656
+New Jersey,Blue,all sectors,cents per kilowatthour,Apr,15.47,0.0004385,0.033764525
+New Jersey,Blue,all sectors,cents per kilowatthour,May,15.99,0.000234687,0.040600798
+New Jersey,Blue,all sectors,cents per kilowatthour,Jun,17.3,0.000359583,0.03236246
+New Jersey,Blue,all sectors,cents per kilowatthour,Jul,18.12,0.000151194,0.02555186
+New Jersey,Blue,all sectors,cents per kilowatthour,Aug,17.94,0.000182648,0.03086758
+New Jersey,Blue,all sectors,cents per kilowatthour,Sep,16.56,0.00021164,0.02984127
+New Jersey,Blue,all sectors,cents per kilowatthour,Oct,15.85,0.000215146,0.029905336
+New Jersey,Blue,all sectors,cents per kilowatthour,Nov,16.31,0.000473149,0.021764845
+New Jersey,Blue,all sectors,cents per kilowatthour,Dec,16.34,0.000413479,0.017366136
+New Jersey,Blue,commercial,cents per kilowatthour,Jan,13.21,0.0003663,0.014285714
+New Jersey,Blue,commercial,cents per kilowatthour,Feb,13.69,0.000427259,0.023071993
+New Jersey,Blue,commercial,cents per kilowatthour,Mar,14.01,0.000457875,0.030677656
+New Jersey,Blue,commercial,cents per kilowatthour,Apr,14.28,0.0004385,0.033764525
+New Jersey,Blue,commercial,cents per kilowatthour,May,14.88,0.000234687,0.040600798
+New Jersey,Blue,commercial,cents per kilowatthour,Jun,15.51,0.000359583,0.03236246
+New Jersey,Blue,commercial,cents per kilowatthour,Jul,15.84,0.000151194,0.02555186
+New Jersey,Blue,commercial,cents per kilowatthour,Aug,15.95,0.000182648,0.03086758
+New Jersey,Blue,commercial,cents per kilowatthour,Sep,15.52,0.00021164,0.02984127
+New Jersey,Blue,commercial,cents per kilowatthour,Oct,14.44,0.000215146,0.029905336
+New Jersey,Blue,commercial,cents per kilowatthour,Nov,14.74,0.000473149,0.021764845
+New Jersey,Blue,commercial,cents per kilowatthour,Dec,14.76,0.000413479,0.017366136
+New Jersey,Blue,industrial,cents per kilowatthour,Jan,11.21,0.0003663,0.014285714
+New Jersey,Blue,industrial,cents per kilowatthour,Feb,11.9,0.000427259,0.023071993
+New Jersey,Blue,industrial,cents per kilowatthour,Mar,11.73,0.000457875,0.030677656
+New Jersey,Blue,industrial,cents per kilowatthour,Apr,11.1,0.0004385,0.033764525
+New Jersey,Blue,industrial,cents per kilowatthour,May,11.67,0.000234687,0.040600798
+New Jersey,Blue,industrial,cents per kilowatthour,Jun,12.15,0.000359583,0.03236246
+New Jersey,Blue,industrial,cents per kilowatthour,Jul,13.15,0.000151194,0.02555186
+New Jersey,Blue,industrial,cents per kilowatthour,Aug,13.02,0.000182648,0.03086758
+New Jersey,Blue,industrial,cents per kilowatthour,Sep,12.31,0.00021164,0.02984127
+New Jersey,Blue,industrial,cents per kilowatthour,Oct,11.36,0.000215146,0.029905336
+New Jersey,Blue,industrial,cents per kilowatthour,Nov,11.98,0.000473149,0.021764845
+New Jersey,Blue,industrial,cents per kilowatthour,Dec,12.54,0.000413479,0.017366136
+New Jersey,Blue,residential,cents per kilowatthour,Jan,17.94,0.0003663,0.014285714
+New Jersey,Blue,residential,cents per kilowatthour,Feb,17.71,0.000427259,0.023071993
+New Jersey,Blue,residential,cents per kilowatthour,Mar,18.06,0.000457875,0.030677656
+New Jersey,Blue,residential,cents per kilowatthour,Apr,18.47,0.0004385,0.033764525
+New Jersey,Blue,residential,cents per kilowatthour,May,18.6,0.000234687,0.040600798
+New Jersey,Blue,residential,cents per kilowatthour,Jun,19.9,0.000359583,0.03236246
+New Jersey,Blue,residential,cents per kilowatthour,Jul,20.71,0.000151194,0.02555186
+New Jersey,Blue,residential,cents per kilowatthour,Aug,20.65,0.000182648,0.03086758
+New Jersey,Blue,residential,cents per kilowatthour,Sep,19.37,0.00021164,0.02984127
+New Jersey,Blue,residential,cents per kilowatthour,Oct,19.57,0.000215146,0.029905336
+New Jersey,Blue,residential,cents per kilowatthour,Nov,19.64,0.000473149,0.021764845
+New Jersey,Blue,residential,cents per kilowatthour,Dec,19.49,0.000413479,0.017366136
+New Mexico,Blue,all sectors,cents per kilowatthour,Jan,9.08,0.356645305,0.052382279
+New Mexico,Blue,all sectors,cents per kilowatthour,Feb,9.14,0.414735099,0.061258278
+New Mexico,Blue,all sectors,cents per kilowatthour,Mar,8.96,0.467321264,0.08530224
+New Mexico,Blue,all sectors,cents per kilowatthour,Apr,8.81,0.450686642,0.11423221
+New Mexico,Blue,all sectors,cents per kilowatthour,May,8.9,0.394173093,0.117966295
+New Mexico,Blue,all sectors,cents per kilowatthour,Jun,9.68,0.313329793,0.114179501
+New Mexico,Blue,all sectors,cents per kilowatthour,Jul,10.27,0.246278755,0.124221922
+New Mexico,Blue,all sectors,cents per kilowatthour,Aug,9.81,0.285353535,0.138573232
+New Mexico,Blue,all sectors,cents per kilowatthour,Sep,9.86,0.310967742,0.133225806
+New Mexico,Blue,all sectors,cents per kilowatthour,Oct,8.71,0.428144706,0.132758048
+New Mexico,Blue,all sectors,cents per kilowatthour,Nov,8.91,0.509853099,0.12611967
+New Mexico,Blue,all sectors,cents per kilowatthour,Dec,9.04,0.453933272,0.109886746
+New Mexico,Blue,commercial,cents per kilowatthour,Jan,10.33,0.356645305,0.052382279
+New Mexico,Blue,commercial,cents per kilowatthour,Feb,10.3,0.414735099,0.061258278
+New Mexico,Blue,commercial,cents per kilowatthour,Mar,10.17,0.467321264,0.08530224
+New Mexico,Blue,commercial,cents per kilowatthour,Apr,10.18,0.450686642,0.11423221
+New Mexico,Blue,commercial,cents per kilowatthour,May,10.02,0.394173093,0.117966295
+New Mexico,Blue,commercial,cents per kilowatthour,Jun,11.07,0.313329793,0.114179501
+New Mexico,Blue,commercial,cents per kilowatthour,Jul,11.92,0.246278755,0.124221922
+New Mexico,Blue,commercial,cents per kilowatthour,Aug,10.97,0.285353535,0.138573232
+New Mexico,Blue,commercial,cents per kilowatthour,Sep,11.22,0.310967742,0.133225806
+New Mexico,Blue,commercial,cents per kilowatthour,Oct,10.18,0.428144706,0.132758048
+New Mexico,Blue,commercial,cents per kilowatthour,Nov,10.38,0.509853099,0.12611967
+New Mexico,Blue,commercial,cents per kilowatthour,Dec,10.49,0.453933272,0.109886746
+New Mexico,Blue,industrial,cents per kilowatthour,Jan,5.32,0.356645305,0.052382279
+New Mexico,Blue,industrial,cents per kilowatthour,Feb,5.49,0.414735099,0.061258278
+New Mexico,Blue,industrial,cents per kilowatthour,Mar,5.73,0.467321264,0.08530224
+New Mexico,Blue,industrial,cents per kilowatthour,Apr,5.63,0.450686642,0.11423221
+New Mexico,Blue,industrial,cents per kilowatthour,May,5.83,0.394173093,0.117966295
+New Mexico,Blue,industrial,cents per kilowatthour,Jun,5.51,0.313329793,0.114179501
+New Mexico,Blue,industrial,cents per kilowatthour,Jul,5.51,0.246278755,0.124221922
+New Mexico,Blue,industrial,cents per kilowatthour,Aug,4.84,0.285353535,0.138573232
+New Mexico,Blue,industrial,cents per kilowatthour,Sep,5.72,0.310967742,0.133225806
+New Mexico,Blue,industrial,cents per kilowatthour,Oct,5.4,0.428144706,0.132758048
+New Mexico,Blue,industrial,cents per kilowatthour,Nov,5.61,0.509853099,0.12611967
+New Mexico,Blue,industrial,cents per kilowatthour,Dec,5.67,0.453933272,0.109886746
+New Mexico,Blue,residential,cents per kilowatthour,Jan,13.57,0.356645305,0.052382279
+New Mexico,Blue,residential,cents per kilowatthour,Feb,13.94,0.414735099,0.061258278
+New Mexico,Blue,residential,cents per kilowatthour,Mar,14.25,0.467321264,0.08530224
+New Mexico,Blue,residential,cents per kilowatthour,Apr,14.03,0.450686642,0.11423221
+New Mexico,Blue,residential,cents per kilowatthour,May,13.59,0.394173093,0.117966295
+New Mexico,Blue,residential,cents per kilowatthour,Jun,14.22,0.313329793,0.114179501
+New Mexico,Blue,residential,cents per kilowatthour,Jul,15.13,0.246278755,0.124221922
+New Mexico,Blue,residential,cents per kilowatthour,Aug,15.01,0.285353535,0.138573232
+New Mexico,Blue,residential,cents per kilowatthour,Sep,15.33,0.310967742,0.133225806
+New Mexico,Blue,residential,cents per kilowatthour,Oct,13.96,0.428144706,0.132758048
+New Mexico,Blue,residential,cents per kilowatthour,Nov,14.25,0.509853099,0.12611967
+New Mexico,Blue,residential,cents per kilowatthour,Dec,14.26,0.453933272,0.109886746
+New York,Blue,all sectors,cents per kilowatthour,Jan,18.89,0.045036011,0.012763242
+New York,Blue,all sectors,cents per kilowatthour,Feb,19.35,0.051964637,0.019449902
+New York,Blue,all sectors,cents per kilowatthour,Mar,18.39,0.063825449,0.025183524
+New York,Blue,all sectors,cents per kilowatthour,Apr,17.99,0.061456594,0.030467446
+New York,Blue,all sectors,cents per kilowatthour,May,18.47,0.039577836,0.033225838
+New York,Blue,all sectors,cents per kilowatthour,Jun,20.14,0.040993021,0.032423359
+New York,Blue,all sectors,cents per kilowatthour,Jul,21.27,0.023713305,0.026915745
+New York,Blue,all sectors,cents per kilowatthour,Aug,21.03,0.028569049,0.030901216
+New York,Blue,all sectors,cents per kilowatthour,Sep,20.74,0.035625187,0.031533779
+New York,Blue,all sectors,cents per kilowatthour,Oct,19.72,0.054136253,0.031123277
+New York,Blue,all sectors,cents per kilowatthour,Nov,18.87,0.066368672,0.02166942
+New York,Blue,all sectors,cents per kilowatthour,Dec,19.82,0.05864838,0.018587025
+New York,Blue,commercial,cents per kilowatthour,Jan,17.9,0.045036011,0.012763242
+New York,Blue,commercial,cents per kilowatthour,Feb,18.27,0.051964637,0.019449902
+New York,Blue,commercial,cents per kilowatthour,Mar,17.34,0.063825449,0.025183524
+New York,Blue,commercial,cents per kilowatthour,Apr,17.44,0.061456594,0.030467446
+New York,Blue,commercial,cents per kilowatthour,May,17.79,0.039577836,0.033225838
+New York,Blue,commercial,cents per kilowatthour,Jun,19.48,0.040993021,0.032423359
+New York,Blue,commercial,cents per kilowatthour,Jul,20.49,0.023713305,0.026915745
+New York,Blue,commercial,cents per kilowatthour,Aug,20.08,0.028569049,0.030901216
+New York,Blue,commercial,cents per kilowatthour,Sep,20.53,0.035625187,0.031533779
+New York,Blue,commercial,cents per kilowatthour,Oct,19.11,0.054136253,0.031123277
+New York,Blue,commercial,cents per kilowatthour,Nov,17.73,0.066368672,0.02166942
+New York,Blue,commercial,cents per kilowatthour,Dec,18.77,0.05864838,0.018587025
+New York,Blue,industrial,cents per kilowatthour,Jan,8.96,0.045036011,0.012763242
+New York,Blue,industrial,cents per kilowatthour,Feb,9.06,0.051964637,0.019449902
+New York,Blue,industrial,cents per kilowatthour,Mar,8.32,0.063825449,0.025183524
+New York,Blue,industrial,cents per kilowatthour,Apr,7.33,0.061456594,0.030467446
+New York,Blue,industrial,cents per kilowatthour,May,8.8,0.039577836,0.033225838
+New York,Blue,industrial,cents per kilowatthour,Jun,9.53,0.040993021,0.032423359
+New York,Blue,industrial,cents per kilowatthour,Jul,9.94,0.023713305,0.026915745
+New York,Blue,industrial,cents per kilowatthour,Aug,9.83,0.028569049,0.030901216
+New York,Blue,industrial,cents per kilowatthour,Sep,9.29,0.035625187,0.031533779
+New York,Blue,industrial,cents per kilowatthour,Oct,9.4,0.054136253,0.031123277
+New York,Blue,industrial,cents per kilowatthour,Nov,8.92,0.066368672,0.02166942
+New York,Blue,industrial,cents per kilowatthour,Dec,9.78,0.05864838,0.018587025
+New York,Blue,residential,cents per kilowatthour,Jan,23.45,0.045036011,0.012763242
+New York,Blue,residential,cents per kilowatthour,Feb,24.24,0.051964637,0.019449902
+New York,Blue,residential,cents per kilowatthour,Mar,23.65,0.063825449,0.025183524
+New York,Blue,residential,cents per kilowatthour,Apr,22.97,0.061456594,0.030467446
+New York,Blue,residential,cents per kilowatthour,May,23.6,0.039577836,0.033225838
+New York,Blue,residential,cents per kilowatthour,Jun,24.52,0.040993021,0.032423359
+New York,Blue,residential,cents per kilowatthour,Jul,25.02,0.023713305,0.026915745
+New York,Blue,residential,cents per kilowatthour,Aug,25.13,0.028569049,0.030901216
+New York,Blue,residential,cents per kilowatthour,Sep,24.98,0.035625187,0.031533779
+New York,Blue,residential,cents per kilowatthour,Oct,24.98,0.054136253,0.031123277
+New York,Blue,residential,cents per kilowatthour,Nov,24.7,0.066368672,0.02166942
+New York,Blue,residential,cents per kilowatthour,Dec,24.37,0.05864838,0.018587025
+North Carolina,Red,all sectors,cents per kilowatthour,Jan,11.07,0.004470939,0.051995363
+North Carolina,Red,all sectors,cents per kilowatthour,Feb,12.43,0.005154639,0.080857085
+North Carolina,Red,all sectors,cents per kilowatthour,Mar,11.93,0.00644684,0.104417671
+North Carolina,Red,all sectors,cents per kilowatthour,Apr,11.49,0.006663026,0.125177499
+North Carolina,Red,all sectors,cents per kilowatthour,May,11.14,0.002900127,0.114283125
+North Carolina,Red,all sectors,cents per kilowatthour,Jun,11.24,0.002182725,0.107421266
+North Carolina,Red,all sectors,cents per kilowatthour,Jul,11.51,0.002162474,0.092193469
+North Carolina,Red,all sectors,cents per kilowatthour,Aug,11.48,0.001863169,0.093978238
+North Carolina,Red,all sectors,cents per kilowatthour,Sep,12.08,0.003432167,0.095528649
+North Carolina,Red,all sectors,cents per kilowatthour,Oct,11.91,0.003194888,0.105231629
+North Carolina,Red,all sectors,cents per kilowatthour,Nov,11.87,0.004817342,0.071055801
+North Carolina,Red,all sectors,cents per kilowatthour,Dec,11.63,0.006286637,0.055220457
+North Carolina,Red,commercial,cents per kilowatthour,Jan,10.14,0.004470939,0.051995363
+North Carolina,Red,commercial,cents per kilowatthour,Feb,11.24,0.005154639,0.080857085
+North Carolina,Red,commercial,cents per kilowatthour,Mar,10.65,0.00644684,0.104417671
+North Carolina,Red,commercial,cents per kilowatthour,Apr,10.55,0.006663026,0.125177499
+North Carolina,Red,commercial,cents per kilowatthour,May,10.15,0.002900127,0.114283125
+North Carolina,Red,commercial,cents per kilowatthour,Jun,10.22,0.002182725,0.107421266
+North Carolina,Red,commercial,cents per kilowatthour,Jul,10.32,0.002162474,0.092193469
+North Carolina,Red,commercial,cents per kilowatthour,Aug,10.25,0.001863169,0.093978238
+North Carolina,Red,commercial,cents per kilowatthour,Sep,10.91,0.003432167,0.095528649
+North Carolina,Red,commercial,cents per kilowatthour,Oct,10.94,0.003194888,0.105231629
+North Carolina,Red,commercial,cents per kilowatthour,Nov,10.73,0.004817342,0.071055801
+North Carolina,Red,commercial,cents per kilowatthour,Dec,10.92,0.006286637,0.055220457
+North Carolina,Red,industrial,cents per kilowatthour,Jan,7.33,0.004470939,0.051995363
+North Carolina,Red,industrial,cents per kilowatthour,Feb,8.26,0.005154639,0.080857085
+North Carolina,Red,industrial,cents per kilowatthour,Mar,7.72,0.00644684,0.104417671
+North Carolina,Red,industrial,cents per kilowatthour,Apr,7.49,0.006663026,0.125177499
+North Carolina,Red,industrial,cents per kilowatthour,May,7.38,0.002900127,0.114283125
+North Carolina,Red,industrial,cents per kilowatthour,Jun,7.61,0.002182725,0.107421266
+North Carolina,Red,industrial,cents per kilowatthour,Jul,7.74,0.002162474,0.092193469
+North Carolina,Red,industrial,cents per kilowatthour,Aug,7.69,0.001863169,0.093978238
+North Carolina,Red,industrial,cents per kilowatthour,Sep,8,0.003432167,0.095528649
+North Carolina,Red,industrial,cents per kilowatthour,Oct,7.72,0.003194888,0.105231629
+North Carolina,Red,industrial,cents per kilowatthour,Nov,7.65,0.004817342,0.071055801
+North Carolina,Red,industrial,cents per kilowatthour,Dec,7.72,0.006286637,0.055220457
+North Carolina,Red,residential,cents per kilowatthour,Jan,12.83,0.004470939,0.051995363
+North Carolina,Red,residential,cents per kilowatthour,Feb,14.87,0.005154639,0.080857085
+North Carolina,Red,residential,cents per kilowatthour,Mar,15.34,0.00644684,0.104417671
+North Carolina,Red,residential,cents per kilowatthour,Apr,14.7,0.006663026,0.125177499
+North Carolina,Red,residential,cents per kilowatthour,May,13.9,0.002900127,0.114283125
+North Carolina,Red,residential,cents per kilowatthour,Jun,13.43,0.002182725,0.107421266
+North Carolina,Red,residential,cents per kilowatthour,Jul,13.65,0.002162474,0.092193469
+North Carolina,Red,residential,cents per kilowatthour,Aug,13.9,0.001863169,0.093978238
+North Carolina,Red,residential,cents per kilowatthour,Sep,14.85,0.003432167,0.095528649
+North Carolina,Red,residential,cents per kilowatthour,Oct,15.22,0.003194888,0.105231629
+North Carolina,Red,residential,cents per kilowatthour,Nov,14.85,0.004817342,0.071055801
+North Carolina,Red,residential,cents per kilowatthour,Dec,13.49,0.006286637,0.055220457
+North Dakota,Red,all sectors,cents per kilowatthour,Jan,8.1,0.29331652,0
+North Dakota,Red,all sectors,cents per kilowatthour,Feb,8.1,0.352370391,0
+North Dakota,Red,all sectors,cents per kilowatthour,Mar,7.96,0.373513085,0
+North Dakota,Red,all sectors,cents per kilowatthour,Apr,7.93,0.466821886,0
+North Dakota,Red,all sectors,cents per kilowatthour,May,8.04,0.388871522,0
+North Dakota,Red,all sectors,cents per kilowatthour,Jun,8.24,0.357350378,0
+North Dakota,Red,all sectors,cents per kilowatthour,Jul,8.29,0.215157536,0
+North Dakota,Red,all sectors,cents per kilowatthour,Aug,8.11,0.287327824,0
+North Dakota,Red,all sectors,cents per kilowatthour,Sep,7.93,0.367378521,0
+North Dakota,Red,all sectors,cents per kilowatthour,Oct,7.76,0.400828893,0
+North Dakota,Red,all sectors,cents per kilowatthour,Nov,7.78,0.353351206,0
+North Dakota,Red,all sectors,cents per kilowatthour,Dec,7.83,0.347012239,0
+North Dakota,Red,commercial,cents per kilowatthour,Jan,7.68,0.29331652,0
+North Dakota,Red,commercial,cents per kilowatthour,Feb,7.57,0.352370391,0
+North Dakota,Red,commercial,cents per kilowatthour,Mar,7.29,0.373513085,0
+North Dakota,Red,commercial,cents per kilowatthour,Apr,7.13,0.466821886,0
+North Dakota,Red,commercial,cents per kilowatthour,May,7.22,0.388871522,0
+North Dakota,Red,commercial,cents per kilowatthour,Jun,7.32,0.357350378,0
+North Dakota,Red,commercial,cents per kilowatthour,Jul,7.53,0.215157536,0
+North Dakota,Red,commercial,cents per kilowatthour,Aug,7.18,0.287327824,0
+North Dakota,Red,commercial,cents per kilowatthour,Sep,6.85,0.367378521,0
+North Dakota,Red,commercial,cents per kilowatthour,Oct,6.74,0.400828893,0
+North Dakota,Red,commercial,cents per kilowatthour,Nov,6.82,0.353351206,0
+North Dakota,Red,commercial,cents per kilowatthour,Dec,7.18,0.347012239,0
+North Dakota,Red,industrial,cents per kilowatthour,Jan,7.43,0.29331652,0
+North Dakota,Red,industrial,cents per kilowatthour,Feb,7.46,0.352370391,0
+North Dakota,Red,industrial,cents per kilowatthour,Mar,7.43,0.373513085,0
+North Dakota,Red,industrial,cents per kilowatthour,Apr,7.42,0.466821886,0
+North Dakota,Red,industrial,cents per kilowatthour,May,7.35,0.388871522,0
+North Dakota,Red,industrial,cents per kilowatthour,Jun,7.51,0.357350378,0
+North Dakota,Red,industrial,cents per kilowatthour,Jul,7.36,0.215157536,0
+North Dakota,Red,industrial,cents per kilowatthour,Aug,7.39,0.287327824,0
+North Dakota,Red,industrial,cents per kilowatthour,Sep,7.38,0.367378521,0
+North Dakota,Red,industrial,cents per kilowatthour,Oct,7.4,0.400828893,0
+North Dakota,Red,industrial,cents per kilowatthour,Nov,7.31,0.353351206,0
+North Dakota,Red,industrial,cents per kilowatthour,Dec,7.23,0.347012239,0
+North Dakota,Red,residential,cents per kilowatthour,Jan,9.94,0.29331652,0
+North Dakota,Red,residential,cents per kilowatthour,Feb,10.52,0.352370391,0
+North Dakota,Red,residential,cents per kilowatthour,Mar,10.5,0.373513085,0
+North Dakota,Red,residential,cents per kilowatthour,Apr,11.38,0.466821886,0
+North Dakota,Red,residential,cents per kilowatthour,May,13.08,0.388871522,0
+North Dakota,Red,residential,cents per kilowatthour,Jun,13.65,0.357350378,0
+North Dakota,Red,residential,cents per kilowatthour,Jul,12.92,0.215157536,0
+North Dakota,Red,residential,cents per kilowatthour,Aug,12.72,0.287327824,0
+North Dakota,Red,residential,cents per kilowatthour,Sep,12.84,0.367378521,0
+North Dakota,Red,residential,cents per kilowatthour,Oct,12.06,0.400828893,0
+North Dakota,Red,residential,cents per kilowatthour,Nov,11.3,0.353351206,0
+North Dakota,Red,residential,cents per kilowatthour,Dec,10.21,0.347012239,0
+Ohio,Red,all sectors,cents per kilowatthour,Jan,11.5,0.021147589,0.006506951
+Ohio,Red,all sectors,cents per kilowatthour,Feb,11.41,0.024604098,0.020041156
+Ohio,Red,all sectors,cents per kilowatthour,Mar,11.21,0.032832659,0.023685731
+Ohio,Red,all sectors,cents per kilowatthour,Apr,11.2,0.032451679,0.032349949
+Ohio,Red,all sectors,cents per kilowatthour,May,11,0.016818566,0.035892136
+Ohio,Red,all sectors,cents per kilowatthour,Jun,11.31,0.016259524,0.03738905
+Ohio,Red,all sectors,cents per kilowatthour,Jul,11.6,0.008082558,0.038608645
+Ohio,Red,all sectors,cents per kilowatthour,Aug,11.52,0.007299808,0.035761687
+Ohio,Red,all sectors,cents per kilowatthour,Sep,11.36,0.011510791,0.035886585
+Ohio,Red,all sectors,cents per kilowatthour,Oct,11.3,0.020808323,0.041816727
+Ohio,Red,all sectors,cents per kilowatthour,Nov,11.39,0.026294241,0.020198344
+Ohio,Red,all sectors,cents per kilowatthour,Dec,11.64,0.024144415,0.014667168
+Ohio,Red,commercial,cents per kilowatthour,Jan,10.51,0.021147589,0.006506951
+Ohio,Red,commercial,cents per kilowatthour,Feb,11.19,0.024604098,0.020041156
+Ohio,Red,commercial,cents per kilowatthour,Mar,11.24,0.032832659,0.023685731
+Ohio,Red,commercial,cents per kilowatthour,Apr,10.72,0.032451679,0.032349949
+Ohio,Red,commercial,cents per kilowatthour,May,10.43,0.016818566,0.035892136
+Ohio,Red,commercial,cents per kilowatthour,Jun,10.47,0.016259524,0.03738905
+Ohio,Red,commercial,cents per kilowatthour,Jul,10.59,0.008082558,0.038608645
+Ohio,Red,commercial,cents per kilowatthour,Aug,10.73,0.007299808,0.035761687
+Ohio,Red,commercial,cents per kilowatthour,Sep,11.07,0.011510791,0.035886585
+Ohio,Red,commercial,cents per kilowatthour,Oct,10.91,0.020808323,0.041816727
+Ohio,Red,commercial,cents per kilowatthour,Nov,10.9,0.026294241,0.020198344
+Ohio,Red,commercial,cents per kilowatthour,Dec,10.68,0.024144415,0.014667168
+Ohio,Red,industrial,cents per kilowatthour,Jan,7.22,0.021147589,0.006506951
+Ohio,Red,industrial,cents per kilowatthour,Feb,6.94,0.024604098,0.020041156
+Ohio,Red,industrial,cents per kilowatthour,Mar,6.8,0.032832659,0.023685731
+Ohio,Red,industrial,cents per kilowatthour,Apr,6.83,0.032451679,0.032349949
+Ohio,Red,industrial,cents per kilowatthour,May,6.91,0.016818566,0.035892136
+Ohio,Red,industrial,cents per kilowatthour,Jun,7.03,0.016259524,0.03738905
+Ohio,Red,industrial,cents per kilowatthour,Jul,7.31,0.008082558,0.038608645
+Ohio,Red,industrial,cents per kilowatthour,Aug,7.26,0.007299808,0.035761687
+Ohio,Red,industrial,cents per kilowatthour,Sep,7.16,0.011510791,0.035886585
+Ohio,Red,industrial,cents per kilowatthour,Oct,7.31,0.020808323,0.041816727
+Ohio,Red,industrial,cents per kilowatthour,Nov,7.63,0.026294241,0.020198344
+Ohio,Red,industrial,cents per kilowatthour,Dec,7.51,0.024144415,0.014667168
+Ohio,Red,residential,cents per kilowatthour,Jan,15.61,0.021147589,0.006506951
+Ohio,Red,residential,cents per kilowatthour,Feb,15.73,0.024604098,0.020041156
+Ohio,Red,residential,cents per kilowatthour,Mar,16.28,0.032832659,0.023685731
+Ohio,Red,residential,cents per kilowatthour,Apr,16.73,0.032451679,0.032349949
+Ohio,Red,residential,cents per kilowatthour,May,16.64,0.016818566,0.035892136
+Ohio,Red,residential,cents per kilowatthour,Jun,15.9,0.016259524,0.03738905
+Ohio,Red,residential,cents per kilowatthour,Jul,15.83,0.008082558,0.038608645
+Ohio,Red,residential,cents per kilowatthour,Aug,15.81,0.007299808,0.035761687
+Ohio,Red,residential,cents per kilowatthour,Sep,15.82,0.011510791,0.035886585
+Ohio,Red,residential,cents per kilowatthour,Oct,16.63,0.020808323,0.041816727
+Ohio,Red,residential,cents per kilowatthour,Nov,16.56,0.026294241,0.020198344
+Ohio,Red,residential,cents per kilowatthour,Dec,15.98,0.024144415,0.014667168
+Oklahoma,Red,all sectors,cents per kilowatthour,Jan,8.91,0.324868232,0.000479157
+Oklahoma,Red,all sectors,cents per kilowatthour,Feb,8.19,0.551370895,0.000753239
+Oklahoma,Red,all sectors,cents per kilowatthour,Mar,7.87,0.561733071,0.001060445
+Oklahoma,Red,all sectors,cents per kilowatthour,Apr,8.22,0.525219743,0.001081812
+Oklahoma,Red,all sectors,cents per kilowatthour,May,8.14,0.398204761,0.004423052
+Oklahoma,Red,all sectors,cents per kilowatthour,Jun,9.57,0.380438411,0.004673417
+Oklahoma,Red,all sectors,cents per kilowatthour,Jul,9.84,0.318704729,0.004793353
+Oklahoma,Red,all sectors,cents per kilowatthour,Aug,9.89,0.289960965,0.004403964
+Oklahoma,Red,all sectors,cents per kilowatthour,Sep,10.32,0.320910973,0.00510697
+Oklahoma,Red,all sectors,cents per kilowatthour,Oct,9.78,0.459085933,0.004652436
+Oklahoma,Red,all sectors,cents per kilowatthour,Nov,8.52,0.457394711,0.002798377
+Oklahoma,Red,all sectors,cents per kilowatthour,Dec,8.61,0.451691147,0.002290796
+Oklahoma,Red,commercial,cents per kilowatthour,Jan,9.22,0.324868232,0.000479157
+Oklahoma,Red,commercial,cents per kilowatthour,Feb,8.21,0.551370895,0.000753239
+Oklahoma,Red,commercial,cents per kilowatthour,Mar,7.72,0.561733071,0.001060445
+Oklahoma,Red,commercial,cents per kilowatthour,Apr,8.15,0.525219743,0.001081812
+Oklahoma,Red,commercial,cents per kilowatthour,May,8.04,0.398204761,0.004423052
+Oklahoma,Red,commercial,cents per kilowatthour,Jun,9.55,0.380438411,0.004673417
+Oklahoma,Red,commercial,cents per kilowatthour,Jul,9.37,0.318704729,0.004793353
+Oklahoma,Red,commercial,cents per kilowatthour,Aug,9.52,0.289960965,0.004403964
+Oklahoma,Red,commercial,cents per kilowatthour,Sep,10.11,0.320910973,0.00510697
+Oklahoma,Red,commercial,cents per kilowatthour,Oct,9.71,0.459085933,0.004652436
+Oklahoma,Red,commercial,cents per kilowatthour,Nov,8.27,0.457394711,0.002798377
+Oklahoma,Red,commercial,cents per kilowatthour,Dec,8.48,0.451691147,0.002290796
+Oklahoma,Red,industrial,cents per kilowatthour,Jan,6.43,0.324868232,0.000479157
+Oklahoma,Red,industrial,cents per kilowatthour,Feb,5.21,0.551370895,0.000753239
+Oklahoma,Red,industrial,cents per kilowatthour,Mar,4.98,0.561733071,0.001060445
+Oklahoma,Red,industrial,cents per kilowatthour,Apr,5.24,0.525219743,0.001081812
+Oklahoma,Red,industrial,cents per kilowatthour,May,5.19,0.398204761,0.004423052
+Oklahoma,Red,industrial,cents per kilowatthour,Jun,6.12,0.380438411,0.004673417
+Oklahoma,Red,industrial,cents per kilowatthour,Jul,6.18,0.318704729,0.004793353
+Oklahoma,Red,industrial,cents per kilowatthour,Aug,6.19,0.289960965,0.004403964
+Oklahoma,Red,industrial,cents per kilowatthour,Sep,6.42,0.320910973,0.00510697
+Oklahoma,Red,industrial,cents per kilowatthour,Oct,6.21,0.459085933,0.004652436
+Oklahoma,Red,industrial,cents per kilowatthour,Nov,5.44,0.457394711,0.002798377
+Oklahoma,Red,industrial,cents per kilowatthour,Dec,5.65,0.451691147,0.002290796
+Oklahoma,Red,residential,cents per kilowatthour,Jan,10.46,0.324868232,0.000479157
+Oklahoma,Red,residential,cents per kilowatthour,Feb,11.12,0.551370895,0.000753239
+Oklahoma,Red,residential,cents per kilowatthour,Mar,11.64,0.561733071,0.001060445
+Oklahoma,Red,residential,cents per kilowatthour,Apr,12.25,0.525219743,0.001081812
+Oklahoma,Red,residential,cents per kilowatthour,May,11.51,0.398204761,0.004423052
+Oklahoma,Red,residential,cents per kilowatthour,Jun,12.2,0.380438411,0.004673417
+Oklahoma,Red,residential,cents per kilowatthour,Jul,12.78,0.318704729,0.004793353
+Oklahoma,Red,residential,cents per kilowatthour,Aug,12.76,0.289960965,0.004403964
+Oklahoma,Red,residential,cents per kilowatthour,Sep,13.82,0.320910973,0.00510697
+Oklahoma,Red,residential,cents per kilowatthour,Oct,13.89,0.459085933,0.004652436
+Oklahoma,Red,residential,cents per kilowatthour,Nov,12.9,0.457394711,0.002798377
+Oklahoma,Red,residential,cents per kilowatthour,Dec,11.52,0.451691147,0.002290796
+Oregon,Blue,all sectors,cents per kilowatthour,Jan,11.41,0.118449782,0.013464338
+Oregon,Blue,all sectors,cents per kilowatthour,Feb,11.57,0.139813582,0.019402701
+Oregon,Blue,all sectors,cents per kilowatthour,Mar,11.37,0.141243919,0.028318277
+Oregon,Blue,all sectors,cents per kilowatthour,Apr,11.22,0.203097082,0.038514989
+Oregon,Blue,all sectors,cents per kilowatthour,May,11.25,0.24767521,0.0567022
+Oregon,Blue,all sectors,cents per kilowatthour,Jun,11.3,0.174233605,0.051028328
+Oregon,Blue,all sectors,cents per kilowatthour,Jul,11.45,0.142624139,0.046937296
+Oregon,Blue,all sectors,cents per kilowatthour,Aug,11.34,0.141796585,0.045100223
+Oregon,Blue,all sectors,cents per kilowatthour,Sep,11.26,0.15895288,0.040837696
+Oregon,Blue,all sectors,cents per kilowatthour,Oct,11.37,0.153366028,0.035443602
+Oregon,Blue,all sectors,cents per kilowatthour,Nov,11.46,0.138868343,0.017196746
+Oregon,Blue,all sectors,cents per kilowatthour,Dec,11.28,0.107229332,0.013836043
+Oregon,Blue,commercial,cents per kilowatthour,Jan,10.54,0.118449782,0.013464338
+Oregon,Blue,commercial,cents per kilowatthour,Feb,10.88,0.139813582,0.019402701
+Oregon,Blue,commercial,cents per kilowatthour,Mar,10.96,0.141243919,0.028318277
+Oregon,Blue,commercial,cents per kilowatthour,Apr,10.87,0.203097082,0.038514989
+Oregon,Blue,commercial,cents per kilowatthour,May,10.89,0.24767521,0.0567022
+Oregon,Blue,commercial,cents per kilowatthour,Jun,10.91,0.174233605,0.051028328
+Oregon,Blue,commercial,cents per kilowatthour,Jul,10.86,0.142624139,0.046937296
+Oregon,Blue,commercial,cents per kilowatthour,Aug,10.85,0.141796585,0.045100223
+Oregon,Blue,commercial,cents per kilowatthour,Sep,10.83,0.15895288,0.040837696
+Oregon,Blue,commercial,cents per kilowatthour,Oct,10.88,0.153366028,0.035443602
+Oregon,Blue,commercial,cents per kilowatthour,Nov,10.77,0.138868343,0.017196746
+Oregon,Blue,commercial,cents per kilowatthour,Dec,10.58,0.107229332,0.013836043
+Oregon,Blue,industrial,cents per kilowatthour,Jan,8.3,0.118449782,0.013464338
+Oregon,Blue,industrial,cents per kilowatthour,Feb,8.3,0.139813582,0.019402701
+Oregon,Blue,industrial,cents per kilowatthour,Mar,7.64,0.141243919,0.028318277
+Oregon,Blue,industrial,cents per kilowatthour,Apr,7.61,0.203097082,0.038514989
+Oregon,Blue,industrial,cents per kilowatthour,May,7.69,0.24767521,0.0567022
+Oregon,Blue,industrial,cents per kilowatthour,Jun,7.85,0.174233605,0.051028328
+Oregon,Blue,industrial,cents per kilowatthour,Jul,8.05,0.142624139,0.046937296
+Oregon,Blue,industrial,cents per kilowatthour,Aug,8.11,0.141796585,0.045100223
+Oregon,Blue,industrial,cents per kilowatthour,Sep,7.91,0.15895288,0.040837696
+Oregon,Blue,industrial,cents per kilowatthour,Oct,8.04,0.153366028,0.035443602
+Oregon,Blue,industrial,cents per kilowatthour,Nov,7.84,0.138868343,0.017196746
+Oregon,Blue,industrial,cents per kilowatthour,Dec,7.7,0.107229332,0.013836043
+Oregon,Blue,residential,cents per kilowatthour,Jan,13.86,0.118449782,0.013464338
+Oregon,Blue,residential,cents per kilowatthour,Feb,14.25,0.139813582,0.019402701
+Oregon,Blue,residential,cents per kilowatthour,Mar,14.33,0.141243919,0.028318277
+Oregon,Blue,residential,cents per kilowatthour,Apr,14.62,0.203097082,0.038514989
+Oregon,Blue,residential,cents per kilowatthour,May,15.05,0.24767521,0.0567022
+Oregon,Blue,residential,cents per kilowatthour,Jun,15.14,0.174233605,0.051028328
+Oregon,Blue,residential,cents per kilowatthour,Jul,14.88,0.142624139,0.046937296
+Oregon,Blue,residential,cents per kilowatthour,Aug,14.91,0.141796585,0.045100223
+Oregon,Blue,residential,cents per kilowatthour,Sep,15.22,0.15895288,0.040837696
+Oregon,Blue,residential,cents per kilowatthour,Oct,15.27,0.153366028,0.035443602
+Oregon,Blue,residential,cents per kilowatthour,Nov,14.85,0.138868343,0.017196746
+Oregon,Blue,residential,cents per kilowatthour,Dec,14.12,0.107229332,0.013836043
+Pennsylvania,Red,all sectors,cents per kilowatthour,Jan,12.76,0.014844299,0.001592133
+Pennsylvania,Red,all sectors,cents per kilowatthour,Feb,12.69,0.015808445,0.003347065
+Pennsylvania,Red,all sectors,cents per kilowatthour,Mar,12.51,0.019977633,0.003965026
+Pennsylvania,Red,all sectors,cents per kilowatthour,Apr,12.34,0.023856605,0.006314984
+Pennsylvania,Red,all sectors,cents per kilowatthour,May,12.21,0.014209498,0.006285986
+Pennsylvania,Red,all sectors,cents per kilowatthour,Jun,12.43,0.012232697,0.006944125
+Pennsylvania,Red,all sectors,cents per kilowatthour,Jul,12.72,0.007144349,0.006141634
+Pennsylvania,Red,all sectors,cents per kilowatthour,Aug,12.66,0.008113323,0.006052101
+Pennsylvania,Red,all sectors,cents per kilowatthour,Sep,12.2,0.011972574,0.005590717
+Pennsylvania,Red,all sectors,cents per kilowatthour,Oct,12.15,0.018293777,0.006396843
+Pennsylvania,Red,all sectors,cents per kilowatthour,Nov,12.4,0.021038718,0.003910338
+Pennsylvania,Red,all sectors,cents per kilowatthour,Dec,12.92,0.017491231,0.002861362
+Pennsylvania,Red,commercial,cents per kilowatthour,Jan,10.89,0.014844299,0.001592133
+Pennsylvania,Red,commercial,cents per kilowatthour,Feb,10.81,0.015808445,0.003347065
+Pennsylvania,Red,commercial,cents per kilowatthour,Mar,11.28,0.019977633,0.003965026
+Pennsylvania,Red,commercial,cents per kilowatthour,Apr,11.23,0.023856605,0.006314984
+Pennsylvania,Red,commercial,cents per kilowatthour,May,11.1,0.014209498,0.006285986
+Pennsylvania,Red,commercial,cents per kilowatthour,Jun,10.71,0.012232697,0.006944125
+Pennsylvania,Red,commercial,cents per kilowatthour,Jul,10.92,0.007144349,0.006141634
+Pennsylvania,Red,commercial,cents per kilowatthour,Aug,10.88,0.008113323,0.006052101
+Pennsylvania,Red,commercial,cents per kilowatthour,Sep,11.02,0.011972574,0.005590717
+Pennsylvania,Red,commercial,cents per kilowatthour,Oct,10.97,0.018293777,0.006396843
+Pennsylvania,Red,commercial,cents per kilowatthour,Nov,11.32,0.021038718,0.003910338
+Pennsylvania,Red,commercial,cents per kilowatthour,Dec,11.12,0.017491231,0.002861362
+Pennsylvania,Red,industrial,cents per kilowatthour,Jan,8.01,0.014844299,0.001592133
+Pennsylvania,Red,industrial,cents per kilowatthour,Feb,7.98,0.015808445,0.003347065
+Pennsylvania,Red,industrial,cents per kilowatthour,Mar,7.72,0.019977633,0.003965026
+Pennsylvania,Red,industrial,cents per kilowatthour,Apr,7.73,0.023856605,0.006314984
+Pennsylvania,Red,industrial,cents per kilowatthour,May,7.66,0.014209498,0.006285986
+Pennsylvania,Red,industrial,cents per kilowatthour,Jun,7.73,0.012232697,0.006944125
+Pennsylvania,Red,industrial,cents per kilowatthour,Jul,7.87,0.007144349,0.006141634
+Pennsylvania,Red,industrial,cents per kilowatthour,Aug,8.07,0.008113323,0.006052101
+Pennsylvania,Red,industrial,cents per kilowatthour,Sep,7.84,0.011972574,0.005590717
+Pennsylvania,Red,industrial,cents per kilowatthour,Oct,7.78,0.018293777,0.006396843
+Pennsylvania,Red,industrial,cents per kilowatthour,Nov,7.76,0.021038718,0.003910338
+Pennsylvania,Red,industrial,cents per kilowatthour,Dec,7.98,0.017491231,0.002861362
+Pennsylvania,Red,residential,cents per kilowatthour,Jan,17.42,0.014844299,0.001592133
+Pennsylvania,Red,residential,cents per kilowatthour,Feb,17.29,0.015808445,0.003347065
+Pennsylvania,Red,residential,cents per kilowatthour,Mar,17.99,0.019977633,0.003965026
+Pennsylvania,Red,residential,cents per kilowatthour,Apr,18.33,0.023856605,0.006314984
+Pennsylvania,Red,residential,cents per kilowatthour,May,18.58,0.014209498,0.006285986
+Pennsylvania,Red,residential,cents per kilowatthour,Jun,17.69,0.012232697,0.006944125
+Pennsylvania,Red,residential,cents per kilowatthour,Jul,17.46,0.007144349,0.006141634
+Pennsylvania,Red,residential,cents per kilowatthour,Aug,17.59,0.008113323,0.006052101
+Pennsylvania,Red,residential,cents per kilowatthour,Sep,17.81,0.011972574,0.005590717
+Pennsylvania,Red,residential,cents per kilowatthour,Oct,18.45,0.018293777,0.006396843
+Pennsylvania,Red,residential,cents per kilowatthour,Nov,18.08,0.021038718,0.003910338
+Pennsylvania,Red,residential,cents per kilowatthour,Dec,17.6,0.017491231,0.002861362
+Rhode Island,Blue,all sectors,cents per kilowatthour,Jan,25.52,0.028400598,0.038863976
+Rhode Island,Blue,all sectors,cents per kilowatthour,Feb,24.99,0.029038113,0.068965517
+Rhode Island,Blue,all sectors,cents per kilowatthour,Mar,23.39,0.036166365,0.09403255
+Rhode Island,Blue,all sectors,cents per kilowatthour,Apr,22.59,0.028169014,0.102112676
+Rhode Island,Blue,all sectors,cents per kilowatthour,May,22.93,0.018703242,0.082294264
+Rhode Island,Blue,all sectors,cents per kilowatthour,Jun,22.52,0.01452514,0.080446927
+Rhode Island,Blue,all sectors,cents per kilowatthour,Jul,22.85,0.008122744,0.059566787
+Rhode Island,Blue,all sectors,cents per kilowatthour,Aug,23.96,0.008628955,0.063279003
+Rhode Island,Blue,all sectors,cents per kilowatthour,Sep,25.01,0.012437811,0.069651741
+Rhode Island,Blue,all sectors,cents per kilowatthour,Oct,23.04,0.01369863,0.060502283
+Rhode Island,Blue,all sectors,cents per kilowatthour,Nov,25.47,0.02351314,0.051175657
+Rhode Island,Blue,all sectors,cents per kilowatthour,Dec,24.32,0.027190332,0.049848943
+Rhode Island,Blue,commercial,cents per kilowatthour,Jan,21.23,0.028400598,0.038863976
+Rhode Island,Blue,commercial,cents per kilowatthour,Feb,20.76,0.029038113,0.068965517
+Rhode Island,Blue,commercial,cents per kilowatthour,Mar,19.12,0.036166365,0.09403255
+Rhode Island,Blue,commercial,cents per kilowatthour,Apr,19.29,0.028169014,0.102112676
+Rhode Island,Blue,commercial,cents per kilowatthour,May,19.99,0.018703242,0.082294264
+Rhode Island,Blue,commercial,cents per kilowatthour,Jun,19.83,0.01452514,0.080446927
+Rhode Island,Blue,commercial,cents per kilowatthour,Jul,20.57,0.008122744,0.059566787
+Rhode Island,Blue,commercial,cents per kilowatthour,Aug,21.7,0.008628955,0.063279003
+Rhode Island,Blue,commercial,cents per kilowatthour,Sep,22.97,0.012437811,0.069651741
+Rhode Island,Blue,commercial,cents per kilowatthour,Oct,20.04,0.01369863,0.060502283
+Rhode Island,Blue,commercial,cents per kilowatthour,Nov,22.68,0.02351314,0.051175657
+Rhode Island,Blue,commercial,cents per kilowatthour,Dec,24.08,0.027190332,0.049848943
+Rhode Island,Blue,industrial,cents per kilowatthour,Jan,19.35,0.028400598,0.038863976
+Rhode Island,Blue,industrial,cents per kilowatthour,Feb,19.35,0.029038113,0.068965517
+Rhode Island,Blue,industrial,cents per kilowatthour,Mar,17.47,0.036166365,0.09403255
+Rhode Island,Blue,industrial,cents per kilowatthour,Apr,18.22,0.028169014,0.102112676
+Rhode Island,Blue,industrial,cents per kilowatthour,May,19.53,0.018703242,0.082294264
+Rhode Island,Blue,industrial,cents per kilowatthour,Jun,18.98,0.01452514,0.080446927
+Rhode Island,Blue,industrial,cents per kilowatthour,Jul,20.5,0.008122744,0.059566787
+Rhode Island,Blue,industrial,cents per kilowatthour,Aug,20.37,0.008628955,0.063279003
+Rhode Island,Blue,industrial,cents per kilowatthour,Sep,20.45,0.012437811,0.069651741
+Rhode Island,Blue,industrial,cents per kilowatthour,Oct,18.81,0.01369863,0.060502283
+Rhode Island,Blue,industrial,cents per kilowatthour,Nov,22.74,0.02351314,0.051175657
+Rhode Island,Blue,industrial,cents per kilowatthour,Dec,20.41,0.027190332,0.049848943
+Rhode Island,Blue,residential,cents per kilowatthour,Jan,31.26,0.028400598,0.038863976
+Rhode Island,Blue,residential,cents per kilowatthour,Feb,31.01,0.029038113,0.068965517
+Rhode Island,Blue,residential,cents per kilowatthour,Mar,30.31,0.036166365,0.09403255
+Rhode Island,Blue,residential,cents per kilowatthour,Apr,27.97,0.028169014,0.102112676
+Rhode Island,Blue,residential,cents per kilowatthour,May,28.12,0.018703242,0.082294264
+Rhode Island,Blue,residential,cents per kilowatthour,Jun,27.06,0.01452514,0.080446927
+Rhode Island,Blue,residential,cents per kilowatthour,Jul,25.6,0.008122744,0.059566787
+Rhode Island,Blue,residential,cents per kilowatthour,Aug,26.66,0.008628955,0.063279003
+Rhode Island,Blue,residential,cents per kilowatthour,Sep,28.56,0.012437811,0.069651741
+Rhode Island,Blue,residential,cents per kilowatthour,Oct,27.57,0.01369863,0.060502283
+Rhode Island,Blue,residential,cents per kilowatthour,Nov,29.1,0.02351314,0.051175657
+Rhode Island,Blue,residential,cents per kilowatthour,Dec,25.31,0.027190332,0.049848943
+South Carolina,Red,all sectors,cents per kilowatthour,Jan,10.85,0,0.017797179
+South Carolina,Red,all sectors,cents per kilowatthour,Feb,10.61,0,0.0234712
+South Carolina,Red,all sectors,cents per kilowatthour,Mar,10.4,0,0.032335012
+South Carolina,Red,all sectors,cents per kilowatthour,Apr,10.3,0,0.041131105
+South Carolina,Red,all sectors,cents per kilowatthour,May,10.11,0,0.037551316
+South Carolina,Red,all sectors,cents per kilowatthour,Jun,10.96,0,0.039085288
+South Carolina,Red,all sectors,cents per kilowatthour,Jul,11.09,0,0.031988443
+South Carolina,Red,all sectors,cents per kilowatthour,Aug,11.18,0,0.031226923
+South Carolina,Red,all sectors,cents per kilowatthour,Sep,11.24,0,0.027293774
+South Carolina,Red,all sectors,cents per kilowatthour,Oct,11.09,0,0.035171638
+South Carolina,Red,all sectors,cents per kilowatthour,Nov,10.97,0,0.024209627
+South Carolina,Red,all sectors,cents per kilowatthour,Dec,10.79,0,0.018598163
+South Carolina,Red,commercial,cents per kilowatthour,Jan,10.62,0,0.017797179
+South Carolina,Red,commercial,cents per kilowatthour,Feb,10.47,0,0.0234712
+South Carolina,Red,commercial,cents per kilowatthour,Mar,10.4,0,0.032335012
+South Carolina,Red,commercial,cents per kilowatthour,Apr,10.15,0,0.041131105
+South Carolina,Red,commercial,cents per kilowatthour,May,9.88,0,0.037551316
+South Carolina,Red,commercial,cents per kilowatthour,Jun,10.58,0,0.039085288
+South Carolina,Red,commercial,cents per kilowatthour,Jul,10.71,0,0.031988443
+South Carolina,Red,commercial,cents per kilowatthour,Aug,10.64,0,0.031226923
+South Carolina,Red,commercial,cents per kilowatthour,Sep,10.79,0,0.027293774
+South Carolina,Red,commercial,cents per kilowatthour,Oct,10.91,0,0.035171638
+South Carolina,Red,commercial,cents per kilowatthour,Nov,11.23,0,0.024209627
+South Carolina,Red,commercial,cents per kilowatthour,Dec,10.62,0,0.018598163
+South Carolina,Red,industrial,cents per kilowatthour,Jan,7.05,0,0.017797179
+South Carolina,Red,industrial,cents per kilowatthour,Feb,6.55,0,0.0234712
+South Carolina,Red,industrial,cents per kilowatthour,Mar,6.39,0,0.032335012
+South Carolina,Red,industrial,cents per kilowatthour,Apr,6.4,0,0.041131105
+South Carolina,Red,industrial,cents per kilowatthour,May,6.38,0,0.037551316
+South Carolina,Red,industrial,cents per kilowatthour,Jun,6.98,0,0.039085288
+South Carolina,Red,industrial,cents per kilowatthour,Jul,7.43,0,0.031988443
+South Carolina,Red,industrial,cents per kilowatthour,Aug,7.11,0,0.031226923
+South Carolina,Red,industrial,cents per kilowatthour,Sep,7.15,0,0.027293774
+South Carolina,Red,industrial,cents per kilowatthour,Oct,7.05,0,0.035171638
+South Carolina,Red,industrial,cents per kilowatthour,Nov,6.73,0,0.024209627
+South Carolina,Red,industrial,cents per kilowatthour,Dec,6.58,0,0.018598163
+South Carolina,Red,residential,cents per kilowatthour,Jan,13.22,0,0.017797179
+South Carolina,Red,residential,cents per kilowatthour,Feb,13.86,0,0.0234712
+South Carolina,Red,residential,cents per kilowatthour,Mar,14.5,0,0.032335012
+South Carolina,Red,residential,cents per kilowatthour,Apr,14.51,0,0.041131105
+South Carolina,Red,residential,cents per kilowatthour,May,13.7,0,0.037551316
+South Carolina,Red,residential,cents per kilowatthour,Jun,13.82,0,0.039085288
+South Carolina,Red,residential,cents per kilowatthour,Jul,13.51,0,0.031988443
+South Carolina,Red,residential,cents per kilowatthour,Aug,14.24,0,0.031226923
+South Carolina,Red,residential,cents per kilowatthour,Sep,14.71,0,0.027293774
+South Carolina,Red,residential,cents per kilowatthour,Oct,15.32,0,0.035171638
+South Carolina,Red,residential,cents per kilowatthour,Nov,15.54,0,0.024209627
+South Carolina,Red,residential,cents per kilowatthour,Dec,13.87,0,0.018598163
+South Dakota,Red,all sectors,cents per kilowatthour,Jan,10.37,0.531741409,0.005824112
+South Dakota,Red,all sectors,cents per kilowatthour,Feb,10.6,0.630434783,0.006642512
+South Dakota,Red,all sectors,cents per kilowatthour,Mar,10.61,0.659102902,0.006332454
+South Dakota,Red,all sectors,cents per kilowatthour,Apr,10.68,0.702673213,0.00872886
+South Dakota,Red,all sectors,cents per kilowatthour,May,10.91,0.608569774,0.011001737
+South Dakota,Red,all sectors,cents per kilowatthour,Jun,11.52,0.551056338,0.031690141
+South Dakota,Red,all sectors,cents per kilowatthour,Jul,11.36,0.395098625,0.033472803
+South Dakota,Red,all sectors,cents per kilowatthour,Aug,11.44,0.511515152,0.029090909
+South Dakota,Red,all sectors,cents per kilowatthour,Sep,11.27,0.619784657,0.030955585
+South Dakota,Red,all sectors,cents per kilowatthour,Oct,11.19,0.709206349,0.01968254
+South Dakota,Red,all sectors,cents per kilowatthour,Nov,11.14,0.611940299,0.011940299
+South Dakota,Red,all sectors,cents per kilowatthour,Dec,10.94,0.582702703,0.008648649
+South Dakota,Red,commercial,cents per kilowatthour,Jan,10.11,0.531741409,0.005824112
+South Dakota,Red,commercial,cents per kilowatthour,Feb,10.34,0.630434783,0.006642512
+South Dakota,Red,commercial,cents per kilowatthour,Mar,10.38,0.659102902,0.006332454
+South Dakota,Red,commercial,cents per kilowatthour,Apr,10.23,0.702673213,0.00872886
+South Dakota,Red,commercial,cents per kilowatthour,May,10.35,0.608569774,0.011001737
+South Dakota,Red,commercial,cents per kilowatthour,Jun,11.13,0.551056338,0.031690141
+South Dakota,Red,commercial,cents per kilowatthour,Jul,10.87,0.395098625,0.033472803
+South Dakota,Red,commercial,cents per kilowatthour,Aug,10.99,0.511515152,0.029090909
+South Dakota,Red,commercial,cents per kilowatthour,Sep,10.75,0.619784657,0.030955585
+South Dakota,Red,commercial,cents per kilowatthour,Oct,10.76,0.709206349,0.01968254
+South Dakota,Red,commercial,cents per kilowatthour,Nov,10.78,0.611940299,0.011940299
+South Dakota,Red,commercial,cents per kilowatthour,Dec,10.61,0.582702703,0.008648649
+South Dakota,Red,industrial,cents per kilowatthour,Jan,8.31,0.531741409,0.005824112
+South Dakota,Red,industrial,cents per kilowatthour,Feb,8.3,0.630434783,0.006642512
+South Dakota,Red,industrial,cents per kilowatthour,Mar,8.12,0.659102902,0.006332454
+South Dakota,Red,industrial,cents per kilowatthour,Apr,8.17,0.702673213,0.00872886
+South Dakota,Red,industrial,cents per kilowatthour,May,8.27,0.608569774,0.011001737
+South Dakota,Red,industrial,cents per kilowatthour,Jun,8.6,0.551056338,0.031690141
+South Dakota,Red,industrial,cents per kilowatthour,Jul,8.54,0.395098625,0.033472803
+South Dakota,Red,industrial,cents per kilowatthour,Aug,8.62,0.511515152,0.029090909
+South Dakota,Red,industrial,cents per kilowatthour,Sep,8.42,0.619784657,0.030955585
+South Dakota,Red,industrial,cents per kilowatthour,Oct,8.4,0.709206349,0.01968254
+South Dakota,Red,industrial,cents per kilowatthour,Nov,8.47,0.611940299,0.011940299
+South Dakota,Red,industrial,cents per kilowatthour,Dec,8.54,0.582702703,0.008648649
+South Dakota,Red,residential,cents per kilowatthour,Jan,11.49,0.531741409,0.005824112
+South Dakota,Red,residential,cents per kilowatthour,Feb,12.07,0.630434783,0.006642512
+South Dakota,Red,residential,cents per kilowatthour,Mar,12.31,0.659102902,0.006332454
+South Dakota,Red,residential,cents per kilowatthour,Apr,12.84,0.702673213,0.00872886
+South Dakota,Red,residential,cents per kilowatthour,May,13.62,0.608569774,0.011001737
+South Dakota,Red,residential,cents per kilowatthour,Jun,14.14,0.551056338,0.031690141
+South Dakota,Red,residential,cents per kilowatthour,Jul,13.69,0.395098625,0.033472803
+South Dakota,Red,residential,cents per kilowatthour,Aug,13.84,0.511515152,0.029090909
+South Dakota,Red,residential,cents per kilowatthour,Sep,14.01,0.619784657,0.030955585
+South Dakota,Red,residential,cents per kilowatthour,Oct,13.85,0.709206349,0.01968254
+South Dakota,Red,residential,cents per kilowatthour,Nov,13.45,0.611940299,0.011940299
+South Dakota,Red,residential,cents per kilowatthour,Dec,12.42,0.582702703,0.008648649
+Tennessee,Red,all sectors,cents per kilowatthour,Jan,10.89,0,0.005950841
+Tennessee,Red,all sectors,cents per kilowatthour,Feb,10.71,0,0.010846641
+Tennessee,Red,all sectors,cents per kilowatthour,Mar,11.22,0,0.015756985
+Tennessee,Red,all sectors,cents per kilowatthour,Apr,10.78,0,0.022854679
+Tennessee,Red,all sectors,cents per kilowatthour,May,10.41,0,0.01860546
+Tennessee,Red,all sectors,cents per kilowatthour,Jun,10.92,0,0.016834064
+Tennessee,Red,all sectors,cents per kilowatthour,Jul,11.03,0,0.015888502
+Tennessee,Red,all sectors,cents per kilowatthour,Aug,11.03,0,0.019841862
+Tennessee,Red,all sectors,cents per kilowatthour,Sep,11.11,0,0.014079841
+Tennessee,Red,all sectors,cents per kilowatthour,Oct,10.86,0,0.02189311
+Tennessee,Red,all sectors,cents per kilowatthour,Nov,11.17,0,0.013424296
+Tennessee,Red,all sectors,cents per kilowatthour,Dec,11.48,0,0.008485857
+Tennessee,Red,commercial,cents per kilowatthour,Jan,11.95,0,0.005950841
+Tennessee,Red,commercial,cents per kilowatthour,Feb,11.84,0,0.010846641
+Tennessee,Red,commercial,cents per kilowatthour,Mar,12.57,0,0.015756985
+Tennessee,Red,commercial,cents per kilowatthour,Apr,12.06,0,0.022854679
+Tennessee,Red,commercial,cents per kilowatthour,May,11.44,0,0.01860546
+Tennessee,Red,commercial,cents per kilowatthour,Jun,12.12,0,0.016834064
+Tennessee,Red,commercial,cents per kilowatthour,Jul,12.08,0,0.015888502
+Tennessee,Red,commercial,cents per kilowatthour,Aug,12.1,0,0.019841862
+Tennessee,Red,commercial,cents per kilowatthour,Sep,12.3,0,0.014079841
+Tennessee,Red,commercial,cents per kilowatthour,Oct,12.02,0,0.02189311
+Tennessee,Red,commercial,cents per kilowatthour,Nov,12.46,0,0.013424296
+Tennessee,Red,commercial,cents per kilowatthour,Dec,12.73,0,0.008485857
+Tennessee,Red,industrial,cents per kilowatthour,Jan,6.31,0,0.005950841
+Tennessee,Red,industrial,cents per kilowatthour,Feb,6.14,0,0.010846641
+Tennessee,Red,industrial,cents per kilowatthour,Mar,6.37,0,0.015756985
+Tennessee,Red,industrial,cents per kilowatthour,Apr,6.03,0,0.022854679
+Tennessee,Red,industrial,cents per kilowatthour,May,5.72,0,0.01860546
+Tennessee,Red,industrial,cents per kilowatthour,Jun,6.09,0,0.016834064
+Tennessee,Red,industrial,cents per kilowatthour,Jul,6.31,0,0.015888502
+Tennessee,Red,industrial,cents per kilowatthour,Aug,6.25,0,0.019841862
+Tennessee,Red,industrial,cents per kilowatthour,Sep,6.36,0,0.014079841
+Tennessee,Red,industrial,cents per kilowatthour,Oct,6.17,0,0.02189311
+Tennessee,Red,industrial,cents per kilowatthour,Nov,6.14,0,0.013424296
+Tennessee,Red,industrial,cents per kilowatthour,Dec,6.59,0,0.008485857
+Tennessee,Red,residential,cents per kilowatthour,Jan,12.04,0,0.005950841
+Tennessee,Red,residential,cents per kilowatthour,Feb,11.91,0,0.010846641
+Tennessee,Red,residential,cents per kilowatthour,Mar,13.09,0,0.015756985
+Tennessee,Red,residential,cents per kilowatthour,Apr,12.68,0,0.022854679
+Tennessee,Red,residential,cents per kilowatthour,May,12.38,0,0.01860546
+Tennessee,Red,residential,cents per kilowatthour,Jun,12.48,0,0.016834064
+Tennessee,Red,residential,cents per kilowatthour,Jul,12.27,0,0.015888502
+Tennessee,Red,residential,cents per kilowatthour,Aug,12.36,0,0.019841862
+Tennessee,Red,residential,cents per kilowatthour,Sep,12.53,0,0.014079841
+Tennessee,Red,residential,cents per kilowatthour,Oct,12.84,0,0.02189311
+Tennessee,Red,residential,cents per kilowatthour,Nov,13.69,0,0.013424296
+Tennessee,Red,residential,cents per kilowatthour,Dec,13.04,0,0.008485857
+Texas,Red,all sectors,cents per kilowatthour,Jan,10.06,0.219693279,0.045404979
+Texas,Red,all sectors,cents per kilowatthour,Feb,9.57,0.338349693,0.063590846
+Texas,Red,all sectors,cents per kilowatthour,Mar,9.39,0.313168413,0.075159339
+Texas,Red,all sectors,cents per kilowatthour,Apr,9.5,0.342311173,0.07654229
+Texas,Red,all sectors,cents per kilowatthour,May,9.83,0.255819209,0.075570621
+Texas,Red,all sectors,cents per kilowatthour,Jun,10.31,0.226734452,0.083261873
+Texas,Red,all sectors,cents per kilowatthour,Jul,10.46,0.180217043,0.082349918
+Texas,Red,all sectors,cents per kilowatthour,Aug,10.64,0.155977292,0.082636733
+Texas,Red,all sectors,cents per kilowatthour,Sep,10.34,0.152009645,0.085315709
+Texas,Red,all sectors,cents per kilowatthour,Oct,9.96,0.23842556,0.092437355
+Texas,Red,all sectors,cents per kilowatthour,Nov,9.96,0.287367406,0.077093487
+Texas,Red,all sectors,cents per kilowatthour,Dec,9.97,0.262040485,0.065085759
+Texas,Red,commercial,cents per kilowatthour,Jan,8.8,0.219693279,0.045404979
+Texas,Red,commercial,cents per kilowatthour,Feb,8.47,0.338349693,0.063590846
+Texas,Red,commercial,cents per kilowatthour,Mar,8.58,0.313168413,0.075159339
+Texas,Red,commercial,cents per kilowatthour,Apr,8.56,0.342311173,0.07654229
+Texas,Red,commercial,cents per kilowatthour,May,8.58,0.255819209,0.075570621
+Texas,Red,commercial,cents per kilowatthour,Jun,9.03,0.226734452,0.083261873
+Texas,Red,commercial,cents per kilowatthour,Jul,9.13,0.180217043,0.082349918
+Texas,Red,commercial,cents per kilowatthour,Aug,9.11,0.155977292,0.082636733
+Texas,Red,commercial,cents per kilowatthour,Sep,8.92,0.152009645,0.085315709
+Texas,Red,commercial,cents per kilowatthour,Oct,8.71,0.23842556,0.092437355
+Texas,Red,commercial,cents per kilowatthour,Nov,8.84,0.287367406,0.077093487
+Texas,Red,commercial,cents per kilowatthour,Dec,8.85,0.262040485,0.065085759
+Texas,Red,industrial,cents per kilowatthour,Jan,6.38,0.219693279,0.045404979
+Texas,Red,industrial,cents per kilowatthour,Feb,6,0.338349693,0.063590846
+Texas,Red,industrial,cents per kilowatthour,Mar,5.83,0.313168413,0.075159339
+Texas,Red,industrial,cents per kilowatthour,Apr,6.08,0.342311173,0.07654229
+Texas,Red,industrial,cents per kilowatthour,May,6.42,0.255819209,0.075570621
+Texas,Red,industrial,cents per kilowatthour,Jun,6.46,0.226734452,0.083261873
+Texas,Red,industrial,cents per kilowatthour,Jul,6.4,0.180217043,0.082349918
+Texas,Red,industrial,cents per kilowatthour,Aug,6.58,0.155977292,0.082636733
+Texas,Red,industrial,cents per kilowatthour,Sep,6.23,0.152009645,0.085315709
+Texas,Red,industrial,cents per kilowatthour,Oct,6,0.23842556,0.092437355
+Texas,Red,industrial,cents per kilowatthour,Nov,6.26,0.287367406,0.077093487
+Texas,Red,industrial,cents per kilowatthour,Dec,6.38,0.262040485,0.065085759
+Texas,Red,residential,cents per kilowatthour,Jan,14.36,0.219693279,0.045404979
+Texas,Red,residential,cents per kilowatthour,Feb,14.48,0.338349693,0.063590846
+Texas,Red,residential,cents per kilowatthour,Mar,15.05,0.313168413,0.075159339
+Texas,Red,residential,cents per kilowatthour,Apr,15.16,0.342311173,0.07654229
+Texas,Red,residential,cents per kilowatthour,May,14.84,0.255819209,0.075570621
+Texas,Red,residential,cents per kilowatthour,Jun,14.56,0.226734452,0.083261873
+Texas,Red,residential,cents per kilowatthour,Jul,14.7,0.180217043,0.082349918
+Texas,Red,residential,cents per kilowatthour,Aug,14.9,0.155977292,0.082636733
+Texas,Red,residential,cents per kilowatthour,Sep,15.04,0.152009645,0.085315709
+Texas,Red,residential,cents per kilowatthour,Oct,15.67,0.23842556,0.092437355
+Texas,Red,residential,cents per kilowatthour,Nov,15.69,0.287367406,0.077093487
+Texas,Red,residential,cents per kilowatthour,Dec,15.32,0.262040485,0.065085759
+Utah,Red,all sectors,cents per kilowatthour,Jan,9.07,0.02481582,0.077937185
+Utah,Red,all sectors,cents per kilowatthour,Feb,8.63,0.031863815,0.11348756
+Utah,Red,all sectors,cents per kilowatthour,Mar,8.61,0.035309503,0.157367044
+Utah,Red,all sectors,cents per kilowatthour,Apr,8.6,0.023914104,0.221571498
+Utah,Red,all sectors,cents per kilowatthour,May,8.53,0.023374416,0.23799405
+Utah,Red,all sectors,cents per kilowatthour,Jun,9.1,0.025343954,0.208906589
+Utah,Red,all sectors,cents per kilowatthour,Jul,9.95,0.012965051,0.167981962
+Utah,Red,all sectors,cents per kilowatthour,Aug,9.54,0.02292769,0.156084656
+Utah,Red,all sectors,cents per kilowatthour,Sep,9.98,0.014898145,0.143812709
+Utah,Red,all sectors,cents per kilowatthour,Oct,8.77,0.018171161,0.114888628
+Utah,Red,all sectors,cents per kilowatthour,Nov,8.54,0.023833501,0.091305807
+Utah,Red,all sectors,cents per kilowatthour,Dec,8.48,0.016728625,0.074039653
+Utah,Red,commercial,cents per kilowatthour,Jan,8.01,0.02481582,0.077937185
+Utah,Red,commercial,cents per kilowatthour,Feb,8.07,0.031863815,0.11348756
+Utah,Red,commercial,cents per kilowatthour,Mar,8.2,0.035309503,0.157367044
+Utah,Red,commercial,cents per kilowatthour,Apr,8.25,0.023914104,0.221571498
+Utah,Red,commercial,cents per kilowatthour,May,8.4,0.023374416,0.23799405
+Utah,Red,commercial,cents per kilowatthour,Jun,8.43,0.025343954,0.208906589
+Utah,Red,commercial,cents per kilowatthour,Jul,9.31,0.012965051,0.167981962
+Utah,Red,commercial,cents per kilowatthour,Aug,8.73,0.02292769,0.156084656
+Utah,Red,commercial,cents per kilowatthour,Sep,9.74,0.014898145,0.143812709
+Utah,Red,commercial,cents per kilowatthour,Oct,8.01,0.018171161,0.114888628
+Utah,Red,commercial,cents per kilowatthour,Nov,8.36,0.023833501,0.091305807
+Utah,Red,commercial,cents per kilowatthour,Dec,7.77,0.016728625,0.074039653
+Utah,Red,industrial,cents per kilowatthour,Jan,8.36,0.02481582,0.077937185
+Utah,Red,industrial,cents per kilowatthour,Feb,6.55,0.031863815,0.11348756
+Utah,Red,industrial,cents per kilowatthour,Mar,6.5,0.035309503,0.157367044
+Utah,Red,industrial,cents per kilowatthour,Apr,6.58,0.023914104,0.221571498
+Utah,Red,industrial,cents per kilowatthour,May,6.19,0.023374416,0.23799405
+Utah,Red,industrial,cents per kilowatthour,Jun,6.59,0.025343954,0.208906589
+Utah,Red,industrial,cents per kilowatthour,Jul,7.46,0.012965051,0.167981962
+Utah,Red,industrial,cents per kilowatthour,Aug,7.16,0.02292769,0.156084656
+Utah,Red,industrial,cents per kilowatthour,Sep,7.25,0.014898145,0.143812709
+Utah,Red,industrial,cents per kilowatthour,Oct,7.08,0.018171161,0.114888628
+Utah,Red,industrial,cents per kilowatthour,Nov,6.09,0.023833501,0.091305807
+Utah,Red,industrial,cents per kilowatthour,Dec,6.21,0.016728625,0.074039653
+Utah,Red,residential,cents per kilowatthour,Jan,10.81,0.02481582,0.077937185
+Utah,Red,residential,cents per kilowatthour,Feb,10.95,0.031863815,0.11348756
+Utah,Red,residential,cents per kilowatthour,Mar,10.96,0.035309503,0.157367044
+Utah,Red,residential,cents per kilowatthour,Apr,11.01,0.023914104,0.221571498
+Utah,Red,residential,cents per kilowatthour,May,10.96,0.023374416,0.23799405
+Utah,Red,residential,cents per kilowatthour,Jun,11.45,0.025343954,0.208906589
+Utah,Red,residential,cents per kilowatthour,Jul,11.85,0.012965051,0.167981962
+Utah,Red,residential,cents per kilowatthour,Aug,11.73,0.02292769,0.156084656
+Utah,Red,residential,cents per kilowatthour,Sep,12.12,0.014898145,0.143812709
+Utah,Red,residential,cents per kilowatthour,Oct,11.37,0.018171161,0.114888628
+Utah,Red,residential,cents per kilowatthour,Nov,10.88,0.023833501,0.091305807
+Utah,Red,residential,cents per kilowatthour,Dec,11.02,0.016728625,0.074039653
+Vermont,Blue,all sectors,cents per kilowatthour,Jan,18.07,0.094017094,0.034188034
+Vermont,Blue,all sectors,cents per kilowatthour,Feb,18.13,0.135964912,0.061403509
+Vermont,Blue,all sectors,cents per kilowatthour,Mar,18.38,0.164609053,0.069958848
+Vermont,Blue,all sectors,cents per kilowatthour,Apr,18.16,0.160550459,0.096330275
+Vermont,Blue,all sectors,cents per kilowatthour,May,18.16,0.120772947,0.120772947
+Vermont,Blue,all sectors,cents per kilowatthour,Jun,18.41,0.14213198,0.126903553
+Vermont,Blue,all sectors,cents per kilowatthour,Jul,18.1,0.095744681,0.138297872
+Vermont,Blue,all sectors,cents per kilowatthour,Aug,18.02,0.114832536,0.114832536
+Vermont,Blue,all sectors,cents per kilowatthour,Sep,18.74,0.109452736,0.109452736
+Vermont,Blue,all sectors,cents per kilowatthour,Oct,19,0.192513369,0.106951872
+Vermont,Blue,all sectors,cents per kilowatthour,Nov,20.27,0.205882353,0.058823529
+Vermont,Blue,all sectors,cents per kilowatthour,Dec,19.12,0.147465438,0.041474654
+Vermont,Blue,commercial,cents per kilowatthour,Jan,18.36,0.094017094,0.034188034
+Vermont,Blue,commercial,cents per kilowatthour,Feb,18.25,0.135964912,0.061403509
+Vermont,Blue,commercial,cents per kilowatthour,Mar,18.82,0.164609053,0.069958848
+Vermont,Blue,commercial,cents per kilowatthour,Apr,18.66,0.160550459,0.096330275
+Vermont,Blue,commercial,cents per kilowatthour,May,18.76,0.120772947,0.120772947
+Vermont,Blue,commercial,cents per kilowatthour,Jun,18.89,0.14213198,0.126903553
+Vermont,Blue,commercial,cents per kilowatthour,Jul,18.41,0.095744681,0.138297872
+Vermont,Blue,commercial,cents per kilowatthour,Aug,18.21,0.114832536,0.114832536
+Vermont,Blue,commercial,cents per kilowatthour,Sep,19.2,0.109452736,0.109452736
+Vermont,Blue,commercial,cents per kilowatthour,Oct,19.56,0.192513369,0.106951872
+Vermont,Blue,commercial,cents per kilowatthour,Nov,20.21,0.205882353,0.058823529
+Vermont,Blue,commercial,cents per kilowatthour,Dec,19.58,0.147465438,0.041474654
+Vermont,Blue,industrial,cents per kilowatthour,Jan,11.57,0.094017094,0.034188034
+Vermont,Blue,industrial,cents per kilowatthour,Feb,11.85,0.135964912,0.061403509
+Vermont,Blue,industrial,cents per kilowatthour,Mar,11.72,0.164609053,0.069958848
+Vermont,Blue,industrial,cents per kilowatthour,Apr,11.32,0.160550459,0.096330275
+Vermont,Blue,industrial,cents per kilowatthour,May,11.15,0.120772947,0.120772947
+Vermont,Blue,industrial,cents per kilowatthour,Jun,11.77,0.14213198,0.126903553
+Vermont,Blue,industrial,cents per kilowatthour,Jul,11.45,0.095744681,0.138297872
+Vermont,Blue,industrial,cents per kilowatthour,Aug,11.59,0.114832536,0.114832536
+Vermont,Blue,industrial,cents per kilowatthour,Sep,11.84,0.109452736,0.109452736
+Vermont,Blue,industrial,cents per kilowatthour,Oct,11.6,0.192513369,0.106951872
+Vermont,Blue,industrial,cents per kilowatthour,Nov,12.33,0.205882353,0.058823529
+Vermont,Blue,industrial,cents per kilowatthour,Dec,12.08,0.147465438,0.041474654
+Vermont,Blue,residential,cents per kilowatthour,Jan,21.14,0.094017094,0.034188034
+Vermont,Blue,residential,cents per kilowatthour,Feb,21.28,0.135964912,0.061403509
+Vermont,Blue,residential,cents per kilowatthour,Mar,21.77,0.164609053,0.069958848
+Vermont,Blue,residential,cents per kilowatthour,Apr,21.9,0.160550459,0.096330275
+Vermont,Blue,residential,cents per kilowatthour,May,22.36,0.120772947,0.120772947
+Vermont,Blue,residential,cents per kilowatthour,Jun,21.98,0.14213198,0.126903553
+Vermont,Blue,residential,cents per kilowatthour,Jul,21.32,0.095744681,0.138297872
+Vermont,Blue,residential,cents per kilowatthour,Aug,21.48,0.114832536,0.114832536
+Vermont,Blue,residential,cents per kilowatthour,Sep,22.7,0.109452736,0.109452736
+Vermont,Blue,residential,cents per kilowatthour,Oct,23.27,0.192513369,0.106951872
+Vermont,Blue,residential,cents per kilowatthour,Nov,25.41,0.205882353,0.058823529
+Vermont,Blue,residential,cents per kilowatthour,Dec,22.29,0.147465438,0.041474654
+Virginia,Blue,all sectors,cents per kilowatthour,Jan,11.01,0.000547585,0.031978973
+Virginia,Blue,all sectors,cents per kilowatthour,Feb,10.65,0.000574977,0.048068077
+Virginia,Blue,all sectors,cents per kilowatthour,Mar,10.74,0.000758821,0.066649804
+Virginia,Blue,all sectors,cents per kilowatthour,Apr,10.73,0.000819941,0.101836668
+Virginia,Blue,all sectors,cents per kilowatthour,May,11,0.000622762,0.106803674
+Virginia,Blue,all sectors,cents per kilowatthour,Jun,11.23,0.000328048,0.096883543
+Virginia,Blue,all sectors,cents per kilowatthour,Jul,10.84,0.000392003,0.075558604
+Virginia,Blue,all sectors,cents per kilowatthour,Aug,10.31,0.000196676,0.076310355
+Virginia,Blue,all sectors,cents per kilowatthour,Sep,10.72,0.000451824,0.06393313
+Virginia,Blue,all sectors,cents per kilowatthour,Oct,10.7,0.000407111,0.090378613
+Virginia,Blue,all sectors,cents per kilowatthour,Nov,10.37,0.000599341,0.062930776
+Virginia,Blue,all sectors,cents per kilowatthour,Dec,11.09,0.000610724,0.048857946
+Virginia,Blue,commercial,cents per kilowatthour,Jan,9.41,0.000547585,0.031978973
+Virginia,Blue,commercial,cents per kilowatthour,Feb,8.86,0.000574977,0.048068077
+Virginia,Blue,commercial,cents per kilowatthour,Mar,8.92,0.000758821,0.066649804
+Virginia,Blue,commercial,cents per kilowatthour,Apr,9.13,0.000819941,0.101836668
+Virginia,Blue,commercial,cents per kilowatthour,May,9.33,0.000622762,0.106803674
+Virginia,Blue,commercial,cents per kilowatthour,Jun,9.23,0.000328048,0.096883543
+Virginia,Blue,commercial,cents per kilowatthour,Jul,8.88,0.000392003,0.075558604
+Virginia,Blue,commercial,cents per kilowatthour,Aug,8.26,0.000196676,0.076310355
+Virginia,Blue,commercial,cents per kilowatthour,Sep,8.74,0.000451824,0.06393313
+Virginia,Blue,commercial,cents per kilowatthour,Oct,9.02,0.000407111,0.090378613
+Virginia,Blue,commercial,cents per kilowatthour,Nov,8.47,0.000599341,0.062930776
+Virginia,Blue,commercial,cents per kilowatthour,Dec,9.05,0.000610724,0.048857946
+Virginia,Blue,industrial,cents per kilowatthour,Jan,8.74,0.000547585,0.031978973
+Virginia,Blue,industrial,cents per kilowatthour,Feb,8.68,0.000574977,0.048068077
+Virginia,Blue,industrial,cents per kilowatthour,Mar,8.79,0.000758821,0.066649804
+Virginia,Blue,industrial,cents per kilowatthour,Apr,8.95,0.000819941,0.101836668
+Virginia,Blue,industrial,cents per kilowatthour,May,9.08,0.000622762,0.106803674
+Virginia,Blue,industrial,cents per kilowatthour,Jun,8.86,0.000328048,0.096883543
+Virginia,Blue,industrial,cents per kilowatthour,Jul,8.78,0.000392003,0.075558604
+Virginia,Blue,industrial,cents per kilowatthour,Aug,8.39,0.000196676,0.076310355
+Virginia,Blue,industrial,cents per kilowatthour,Sep,8.74,0.000451824,0.06393313
+Virginia,Blue,industrial,cents per kilowatthour,Oct,9.35,0.000407111,0.090378613
+Virginia,Blue,industrial,cents per kilowatthour,Nov,8.41,0.000599341,0.062930776
+Virginia,Blue,industrial,cents per kilowatthour,Dec,8.62,0.000610724,0.048857946
+Virginia,Blue,residential,cents per kilowatthour,Jan,13.44,0.000547585,0.031978973
+Virginia,Blue,residential,cents per kilowatthour,Feb,13.92,0.000574977,0.048068077
+Virginia,Blue,residential,cents per kilowatthour,Mar,14.66,0.000758821,0.066649804
+Virginia,Blue,residential,cents per kilowatthour,Apr,14.91,0.000819941,0.101836668
+Virginia,Blue,residential,cents per kilowatthour,May,14.95,0.000622762,0.106803674
+Virginia,Blue,residential,cents per kilowatthour,Jun,15.25,0.000328048,0.096883543
+Virginia,Blue,residential,cents per kilowatthour,Jul,14.31,0.000392003,0.075558604
+Virginia,Blue,residential,cents per kilowatthour,Aug,14.32,0.000196676,0.076310355
+Virginia,Blue,residential,cents per kilowatthour,Sep,15.42,0.000451824,0.06393313
+Virginia,Blue,residential,cents per kilowatthour,Oct,14.96,0.000407111,0.090378613
+Virginia,Blue,residential,cents per kilowatthour,Nov,14.86,0.000599341,0.062930776
+Virginia,Blue,residential,cents per kilowatthour,Dec,14.46,0.000610724,0.048857946
+Washington,Blue,all sectors,cents per kilowatthour,Jan,10.01,0.072313815,0.001250711
+Washington,Blue,all sectors,cents per kilowatthour,Feb,10.1,0.092590231,0.002295626
+Washington,Blue,all sectors,cents per kilowatthour,Mar,10.13,0.096516946,0.004573707
+Washington,Blue,all sectors,cents per kilowatthour,Apr,10.04,0.128843537,0.005986395
+Washington,Blue,all sectors,cents per kilowatthour,May,10.04,0.105562579,0.006826802
+Washington,Blue,all sectors,cents per kilowatthour,Jun,10.04,0.081423195,0.006614209
+Washington,Blue,all sectors,cents per kilowatthour,Jul,10.09,0.048038918,0.005574136
+Washington,Blue,all sectors,cents per kilowatthour,Aug,10.15,0.05527582,0.006042296
+Washington,Blue,all sectors,cents per kilowatthour,Sep,10.1,0.081305552,0.006265482
+Washington,Blue,all sectors,cents per kilowatthour,Oct,10.47,0.101283679,0.004514036
+Washington,Blue,all sectors,cents per kilowatthour,Nov,10.48,0.090134267,0.001751313
+Washington,Blue,all sectors,cents per kilowatthour,Dec,10.31,0.07867247,0.001196953
+Washington,Blue,commercial,cents per kilowatthour,Jan,10.34,0.072313815,0.001250711
+Washington,Blue,commercial,cents per kilowatthour,Feb,10.53,0.092590231,0.002295626
+Washington,Blue,commercial,cents per kilowatthour,Mar,10.48,0.096516946,0.004573707
+Washington,Blue,commercial,cents per kilowatthour,Apr,10.37,0.128843537,0.005986395
+Washington,Blue,commercial,cents per kilowatthour,May,10.41,0.105562579,0.006826802
+Washington,Blue,commercial,cents per kilowatthour,Jun,10.42,0.081423195,0.006614209
+Washington,Blue,commercial,cents per kilowatthour,Jul,10.42,0.048038918,0.005574136
+Washington,Blue,commercial,cents per kilowatthour,Aug,10.6,0.05527582,0.006042296
+Washington,Blue,commercial,cents per kilowatthour,Sep,10.5,0.081305552,0.006265482
+Washington,Blue,commercial,cents per kilowatthour,Oct,10.88,0.101283679,0.004514036
+Washington,Blue,commercial,cents per kilowatthour,Nov,10.8,0.090134267,0.001751313
+Washington,Blue,commercial,cents per kilowatthour,Dec,10.59,0.07867247,0.001196953
+Washington,Blue,industrial,cents per kilowatthour,Jan,6.5,0.072313815,0.001250711
+Washington,Blue,industrial,cents per kilowatthour,Feb,6.49,0.092590231,0.002295626
+Washington,Blue,industrial,cents per kilowatthour,Mar,6.24,0.096516946,0.004573707
+Washington,Blue,industrial,cents per kilowatthour,Apr,6.31,0.128843537,0.005986395
+Washington,Blue,industrial,cents per kilowatthour,May,6.19,0.105562579,0.006826802
+Washington,Blue,industrial,cents per kilowatthour,Jun,6.19,0.081423195,0.006614209
+Washington,Blue,industrial,cents per kilowatthour,Jul,6.41,0.048038918,0.005574136
+Washington,Blue,industrial,cents per kilowatthour,Aug,6.53,0.05527582,0.006042296
+Washington,Blue,industrial,cents per kilowatthour,Sep,6.41,0.081305552,0.006265482
+Washington,Blue,industrial,cents per kilowatthour,Oct,6.71,0.101283679,0.004514036
+Washington,Blue,industrial,cents per kilowatthour,Nov,6.29,0.090134267,0.001751313
+Washington,Blue,industrial,cents per kilowatthour,Dec,6.13,0.07867247,0.001196953
+Washington,Blue,residential,cents per kilowatthour,Jan,11.07,0.072313815,0.001250711
+Washington,Blue,residential,cents per kilowatthour,Feb,11.38,0.092590231,0.002295626
+Washington,Blue,residential,cents per kilowatthour,Mar,11.7,0.096516946,0.004573707
+Washington,Blue,residential,cents per kilowatthour,Apr,11.82,0.128843537,0.005986395
+Washington,Blue,residential,cents per kilowatthour,May,12.14,0.105562579,0.006826802
+Washington,Blue,residential,cents per kilowatthour,Jun,12.31,0.081423195,0.006614209
+Washington,Blue,residential,cents per kilowatthour,Jul,12.04,0.048038918,0.005574136
+Washington,Blue,residential,cents per kilowatthour,Aug,12.19,0.05527582,0.006042296
+Washington,Blue,residential,cents per kilowatthour,Sep,12.4,0.081305552,0.006265482
+Washington,Blue,residential,cents per kilowatthour,Oct,12.48,0.101283679,0.004514036
+Washington,Blue,residential,cents per kilowatthour,Nov,12.37,0.090134267,0.001751313
+Washington,Blue,residential,cents per kilowatthour,Dec,11.83,0.07867247,0.001196953
+West Virginia,Red,all sectors,cents per kilowatthour,Jan,10.53,0.041252035,0
+West Virginia,Red,all sectors,cents per kilowatthour,Feb,10.76,0.057244502,0
+West Virginia,Red,all sectors,cents per kilowatthour,Mar,10.96,0.072427293,0.004474273
+West Virginia,Red,all sectors,cents per kilowatthour,Apr,10.93,0.054419963,0.004778338
+West Virginia,Red,all sectors,cents per kilowatthour,May,11.1,0.025995707,0.004769855
+West Virginia,Red,all sectors,cents per kilowatthour,Jun,11.11,0.022908897,0.004617297
+West Virginia,Red,all sectors,cents per kilowatthour,Jul,11.14,0.01859713,0.005862139
+West Virginia,Red,all sectors,cents per kilowatthour,Aug,11.17,0.0146865,0.005083788
+West Virginia,Red,all sectors,cents per kilowatthour,Sep,11.3,0.034305317,0.006003431
+West Virginia,Red,all sectors,cents per kilowatthour,Oct,11.12,0.055066079,0.008076358
+West Virginia,Red,all sectors,cents per kilowatthour,Nov,11.41,0.077676034,0.004104831
+West Virginia,Red,all sectors,cents per kilowatthour,Dec,11.26,0.049400141,0.002587626
+West Virginia,Red,commercial,cents per kilowatthour,Jan,10.74,0.041252035,0
+West Virginia,Red,commercial,cents per kilowatthour,Feb,11.34,0.057244502,0
+West Virginia,Red,commercial,cents per kilowatthour,Mar,11.42,0.072427293,0.004474273
+West Virginia,Red,commercial,cents per kilowatthour,Apr,12.13,0.054419963,0.004778338
+West Virginia,Red,commercial,cents per kilowatthour,May,11.84,0.025995707,0.004769855
+West Virginia,Red,commercial,cents per kilowatthour,Jun,11.59,0.022908897,0.004617297
+West Virginia,Red,commercial,cents per kilowatthour,Jul,11.19,0.01859713,0.005862139
+West Virginia,Red,commercial,cents per kilowatthour,Aug,11.41,0.0146865,0.005083788
+West Virginia,Red,commercial,cents per kilowatthour,Sep,12.28,0.034305317,0.006003431
+West Virginia,Red,commercial,cents per kilowatthour,Oct,11.65,0.055066079,0.008076358
+West Virginia,Red,commercial,cents per kilowatthour,Nov,12.61,0.077676034,0.004104831
+West Virginia,Red,commercial,cents per kilowatthour,Dec,11.77,0.049400141,0.002587626
+West Virginia,Red,industrial,cents per kilowatthour,Jan,7.25,0.041252035,0
+West Virginia,Red,industrial,cents per kilowatthour,Feb,7.65,0.057244502,0
+West Virginia,Red,industrial,cents per kilowatthour,Mar,7.65,0.072427293,0.004474273
+West Virginia,Red,industrial,cents per kilowatthour,Apr,7.73,0.054419963,0.004778338
+West Virginia,Red,industrial,cents per kilowatthour,May,7.99,0.025995707,0.004769855
+West Virginia,Red,industrial,cents per kilowatthour,Jun,7.85,0.022908897,0.004617297
+West Virginia,Red,industrial,cents per kilowatthour,Jul,7.74,0.01859713,0.005862139
+West Virginia,Red,industrial,cents per kilowatthour,Aug,7.8,0.0146865,0.005083788
+West Virginia,Red,industrial,cents per kilowatthour,Sep,8.06,0.034305317,0.006003431
+West Virginia,Red,industrial,cents per kilowatthour,Oct,8.08,0.055066079,0.008076358
+West Virginia,Red,industrial,cents per kilowatthour,Nov,8.02,0.077676034,0.004104831
+West Virginia,Red,industrial,cents per kilowatthour,Dec,7.91,0.049400141,0.002587626
+West Virginia,Red,residential,cents per kilowatthour,Jan,13.65,0.041252035,0
+West Virginia,Red,residential,cents per kilowatthour,Feb,13.98,0.057244502,0
+West Virginia,Red,residential,cents per kilowatthour,Mar,15.31,0.072427293,0.004474273
+West Virginia,Red,residential,cents per kilowatthour,Apr,15.56,0.054419963,0.004778338
+West Virginia,Red,residential,cents per kilowatthour,May,15.98,0.025995707,0.004769855
+West Virginia,Red,residential,cents per kilowatthour,Jun,15.48,0.022908897,0.004617297
+West Virginia,Red,residential,cents per kilowatthour,Jul,15.14,0.01859713,0.005862139
+West Virginia,Red,residential,cents per kilowatthour,Aug,15.44,0.0146865,0.005083788
+West Virginia,Red,residential,cents per kilowatthour,Sep,15.88,0.034305317,0.006003431
+West Virginia,Red,residential,cents per kilowatthour,Oct,16.38,0.055066079,0.008076358
+West Virginia,Red,residential,cents per kilowatthour,Nov,15.87,0.077676034,0.004104831
+West Virginia,Red,residential,cents per kilowatthour,Dec,14.51,0.049400141,0.002587626
+Wisconsin,Red,all sectors,cents per kilowatthour,Jan,12.72,0.02458493,0.012771392
+Wisconsin,Red,all sectors,cents per kilowatthour,Feb,12.66,0.04014273,0.037912578
+Wisconsin,Red,all sectors,cents per kilowatthour,Mar,12.43,0.04613541,0.044337927
+Wisconsin,Red,all sectors,cents per kilowatthour,Apr,12.33,0.057834899,0.064013841
+Wisconsin,Red,all sectors,cents per kilowatthour,May,12.63,0.031042561,0.062280359
+Wisconsin,Red,all sectors,cents per kilowatthour,Jun,13.12,0.02679979,0.058328954
+Wisconsin,Red,all sectors,cents per kilowatthour,Jul,13.54,0.010240497,0.060201707
+Wisconsin,Red,all sectors,cents per kilowatthour,Aug,13.39,0.013689908,0.05762496
+Wisconsin,Red,all sectors,cents per kilowatthour,Sep,13.16,0.020077362,0.059679499
+Wisconsin,Red,all sectors,cents per kilowatthour,Oct,12.03,0.050479084,0.064267352
+Wisconsin,Red,all sectors,cents per kilowatthour,Nov,12.19,0.03995108,0.020790868
+Wisconsin,Red,all sectors,cents per kilowatthour,Dec,12.17,0.030624264,0.016489988
+Wisconsin,Red,commercial,cents per kilowatthour,Jan,12.45,0.02458493,0.012771392
+Wisconsin,Red,commercial,cents per kilowatthour,Feb,12.69,0.04014273,0.037912578
+Wisconsin,Red,commercial,cents per kilowatthour,Mar,12.61,0.04613541,0.044337927
+Wisconsin,Red,commercial,cents per kilowatthour,Apr,12.41,0.057834899,0.064013841
+Wisconsin,Red,commercial,cents per kilowatthour,May,12.74,0.031042561,0.062280359
+Wisconsin,Red,commercial,cents per kilowatthour,Jun,12.9,0.02679979,0.058328954
+Wisconsin,Red,commercial,cents per kilowatthour,Jul,13.27,0.010240497,0.060201707
+Wisconsin,Red,commercial,cents per kilowatthour,Aug,13.13,0.013689908,0.05762496
+Wisconsin,Red,commercial,cents per kilowatthour,Sep,13.1,0.020077362,0.059679499
+Wisconsin,Red,commercial,cents per kilowatthour,Oct,12.23,0.050479084,0.064267352
+Wisconsin,Red,commercial,cents per kilowatthour,Nov,12.33,0.03995108,0.020790868
+Wisconsin,Red,commercial,cents per kilowatthour,Dec,11.76,0.030624264,0.016489988
+Wisconsin,Red,industrial,cents per kilowatthour,Jan,8.55,0.02458493,0.012771392
+Wisconsin,Red,industrial,cents per kilowatthour,Feb,8.43,0.04014273,0.037912578
+Wisconsin,Red,industrial,cents per kilowatthour,Mar,8.01,0.04613541,0.044337927
+Wisconsin,Red,industrial,cents per kilowatthour,Apr,8.15,0.057834899,0.064013841
+Wisconsin,Red,industrial,cents per kilowatthour,May,8.38,0.031042561,0.062280359
+Wisconsin,Red,industrial,cents per kilowatthour,Jun,8.96,0.02679979,0.058328954
+Wisconsin,Red,industrial,cents per kilowatthour,Jul,9.48,0.010240497,0.060201707
+Wisconsin,Red,industrial,cents per kilowatthour,Aug,9.33,0.013689908,0.05762496
+Wisconsin,Red,industrial,cents per kilowatthour,Sep,9.1,0.020077362,0.059679499
+Wisconsin,Red,industrial,cents per kilowatthour,Oct,7.84,0.050479084,0.064267352
+Wisconsin,Red,industrial,cents per kilowatthour,Nov,7.83,0.03995108,0.020790868
+Wisconsin,Red,industrial,cents per kilowatthour,Dec,7.91,0.030624264,0.016489988
+Wisconsin,Red,residential,cents per kilowatthour,Jan,16.54,0.02458493,0.012771392
+Wisconsin,Red,residential,cents per kilowatthour,Feb,17.01,0.04014273,0.037912578
+Wisconsin,Red,residential,cents per kilowatthour,Mar,17.04,0.04613541,0.044337927
+Wisconsin,Red,residential,cents per kilowatthour,Apr,17.39,0.057834899,0.064013841
+Wisconsin,Red,residential,cents per kilowatthour,May,17.89,0.031042561,0.062280359
+Wisconsin,Red,residential,cents per kilowatthour,Jun,17.66,0.02679979,0.058328954
+Wisconsin,Red,residential,cents per kilowatthour,Jul,17.49,0.010240497,0.060201707
+Wisconsin,Red,residential,cents per kilowatthour,Aug,17.63,0.013689908,0.05762496
+Wisconsin,Red,residential,cents per kilowatthour,Sep,17.76,0.020077362,0.059679499
+Wisconsin,Red,residential,cents per kilowatthour,Oct,17.2,0.050479084,0.064267352
+Wisconsin,Red,residential,cents per kilowatthour,Nov,16.97,0.03995108,0.020790868
+Wisconsin,Red,residential,cents per kilowatthour,Dec,16.31,0.030624264,0.016489988
+Wyoming,Red,all sectors,cents per kilowatthour,Jan,8.78,0.22435385,0.001598721
+Wyoming,Red,all sectors,cents per kilowatthour,Feb,8.74,0.259673519,0.003325272
+Wyoming,Red,all sectors,cents per kilowatthour,Mar,8.77,0.303703704,0.004713805
+Wyoming,Red,all sectors,cents per kilowatthour,Apr,8.68,0.324828637,0.009139375
+Wyoming,Red,all sectors,cents per kilowatthour,May,8.81,0.300775194,0.021705426
+Wyoming,Red,all sectors,cents per kilowatthour,Jun,8.92,0.266398929,0.019076305
+Wyoming,Red,all sectors,cents per kilowatthour,Jul,9.42,0.122830803,0.01654013
+Wyoming,Red,all sectors,cents per kilowatthour,Aug,9.88,0.144420715,0.014682328
+Wyoming,Red,all sectors,cents per kilowatthour,Sep,9.56,0.172199814,0.016444307
+Wyoming,Red,all sectors,cents per kilowatthour,Oct,9.7,0.20977918,0.012302839
+Wyoming,Red,all sectors,cents per kilowatthour,Nov,9.57,0.269698725,0.007821553
+Wyoming,Red,all sectors,cents per kilowatthour,Dec,9.12,0.28358562,0.004966887
+Wyoming,Red,commercial,cents per kilowatthour,Jan,9.27,0.22435385,0.001598721
+Wyoming,Red,commercial,cents per kilowatthour,Feb,8.72,0.259673519,0.003325272
+Wyoming,Red,commercial,cents per kilowatthour,Mar,8.75,0.303703704,0.004713805
+Wyoming,Red,commercial,cents per kilowatthour,Apr,8.96,0.324828637,0.009139375
+Wyoming,Red,commercial,cents per kilowatthour,May,9.12,0.300775194,0.021705426
+Wyoming,Red,commercial,cents per kilowatthour,Jun,9.26,0.266398929,0.019076305
+Wyoming,Red,commercial,cents per kilowatthour,Jul,9.52,0.122830803,0.01654013
+Wyoming,Red,commercial,cents per kilowatthour,Aug,9.53,0.144420715,0.014682328
+Wyoming,Red,commercial,cents per kilowatthour,Sep,9.8,0.172199814,0.016444307
+Wyoming,Red,commercial,cents per kilowatthour,Oct,9.86,0.20977918,0.012302839
+Wyoming,Red,commercial,cents per kilowatthour,Nov,9.68,0.269698725,0.007821553
+Wyoming,Red,commercial,cents per kilowatthour,Dec,9.07,0.28358562,0.004966887
+Wyoming,Red,industrial,cents per kilowatthour,Jan,7.39,0.22435385,0.001598721
+Wyoming,Red,industrial,cents per kilowatthour,Feb,7.59,0.259673519,0.003325272
+Wyoming,Red,industrial,cents per kilowatthour,Mar,7.72,0.303703704,0.004713805
+Wyoming,Red,industrial,cents per kilowatthour,Apr,7.4,0.324828637,0.009139375
+Wyoming,Red,industrial,cents per kilowatthour,May,7.61,0.300775194,0.021705426
+Wyoming,Red,industrial,cents per kilowatthour,Jun,7.64,0.266398929,0.019076305
+Wyoming,Red,industrial,cents per kilowatthour,Jul,8.11,0.122830803,0.01654013
+Wyoming,Red,industrial,cents per kilowatthour,Aug,8.88,0.144420715,0.014682328
+Wyoming,Red,industrial,cents per kilowatthour,Sep,8.28,0.172199814,0.016444307
+Wyoming,Red,industrial,cents per kilowatthour,Oct,8.46,0.20977918,0.012302839
+Wyoming,Red,industrial,cents per kilowatthour,Nov,8.44,0.269698725,0.007821553
+Wyoming,Red,industrial,cents per kilowatthour,Dec,8.05,0.28358562,0.004966887
+Wyoming,Red,residential,cents per kilowatthour,Jan,11.01,0.22435385,0.001598721
+Wyoming,Red,residential,cents per kilowatthour,Feb,11.59,0.259673519,0.003325272
+Wyoming,Red,residential,cents per kilowatthour,Mar,11.68,0.303703704,0.004713805
+Wyoming,Red,residential,cents per kilowatthour,Apr,12.2,0.324828637,0.009139375
+Wyoming,Red,residential,cents per kilowatthour,May,12.81,0.300775194,0.021705426
+Wyoming,Red,residential,cents per kilowatthour,Jun,12.9,0.266398929,0.019076305
+Wyoming,Red,residential,cents per kilowatthour,Jul,13.45,0.122830803,0.01654013
+Wyoming,Red,residential,cents per kilowatthour,Aug,13.81,0.144420715,0.014682328
+Wyoming,Red,residential,cents per kilowatthour,Sep,13.94,0.172199814,0.016444307
+Wyoming,Red,residential,cents per kilowatthour,Oct,14.08,0.20977918,0.012302839
+Wyoming,Red,residential,cents per kilowatthour,Nov,12.78,0.269698725,0.007821553
+Wyoming,Red,residential,cents per kilowatthour,Dec,11.78,0.28358562,0.004966887
